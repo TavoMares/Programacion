@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MX | Las Estrellas">
+    <display-name lang="es">MX | Las Estrellas</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="De Película">
+    <display-name lang="es">De Película</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201024010000 -0500" stop="20201024043000 -0500" channel="MX | Las Estrellas">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201024043000 -0500" stop="20201024050000 -0500" channel="MX | Las Estrellas">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201024050000 -0500" stop="20201024060000 -0500" channel="MX | Las Estrellas">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201024060000 -0500" stop="20201024071500 -0500" channel="MX | Las Estrellas">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20201024071500 -0500" stop="20201024090000 -0500" channel="MX | Las Estrellas">
+    <title lang="es">Barridos y regados</title>
+  </programme>
+  <programme start="20201024090000 -0500" stop="20201024110000 -0500" channel="MX | Las Estrellas">
+    <title lang="es">El día de las madres</title>
+  </programme>
+  <programme start="20201024110000 -0500" stop="20201024130000 -0500" channel="MX | Las Estrellas">
+    <title lang="es">Cuentamelo Ya</title>
+  </programme>
+  <programme start="20201024130000 -0500" stop="20201024144500 -0500" channel="MX | Las Estrellas">
+    <title lang="es">La risa en vacaciones 5</title>
+  </programme>
+  <programme start="20201024144500 -0500" stop="20201024163000 -0500" channel="MX | Las Estrellas">
+    <title lang="es">Una película de huevos</title>
+  </programme>
+  <programme start="20201024163000 -0500" stop="20201024190000 -0500" channel="MX | Las Estrellas">
+    <title lang="es">¿Quién es la Máscara</title>
+  </programme>
+  <programme start="20201024190000 -0500" stop="20201024210000 -0500" channel="MX | Las Estrellas">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201024210000 -0500" stop="20201024230000 -0500" channel="MX | Las Estrellas">
+    <title lang="es">Sin miedo a la verdad</title>
+  </programme>
+  <programme start="20201024230000 -0500" stop="20201025000000 -0500" channel="MX | Las Estrellas">
+    <title lang="es">+ noche</title>
+  </programme>
+  <programme start="20201025000000 -0500" stop="20201025033000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201025033000 -0600" stop="20201025070000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Paid Programming</title>
+  </programme>
+  <programme start="20201025070000 -0600" stop="20201025081500 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20201025081500 -0600" stop="20201025100000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">La invasión de los muertos</title>
+  </programme>
+  <programme start="20201025100000 -0600" stop="20201025120000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Mamá soy Paquito</title>
+  </programme>
+  <programme start="20201025120000 -0600" stop="20201025125500 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Más Deporte En Vivo</title>
+  </programme>
+  <programme start="20201025125500 -0600" stop="20201025150000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Toluca vs. Tijuana En Vivo</title>
+  </programme>
+  <programme start="20201025150000 -0600" stop="20201025163000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20201025163000 -0600" stop="20201025181500 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Suave patria</title>
+  </programme>
+  <programme start="20201025181500 -0600" stop="20201025203000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Guadalajara vs. Cruz Azul En Vivo</title>
+  </programme>
+  <programme start="20201025203000 -0600" stop="20201025213000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20201025213000 -0600" stop="20201026000000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">¿Quién es la Máscara</title>
+  </programme>
+  <programme start="20201024005200 -0500" stop="20201024023900 -0500" channel="De Película">
+    <title lang="es">El Complot Mongol</title>
+  </programme>
+  <programme start="20201024023900 -0500" stop="20201024041900 -0500" channel="De Película">
+    <title lang="es">El asesino se embarca</title>
+  </programme>
+  <programme start="20201024041900 -0500" stop="20201024060300 -0500" channel="De Película">
+    <title lang="es">El tonto que hacía milagros</title>
+  </programme>
+  <programme start="20201024060300 -0500" stop="20201024074400 -0500" channel="De Película">
+    <title lang="es">El héroe desconocido</title>
+  </programme>
+  <programme start="20201024074400 -0500" stop="20201024091600 -0500" channel="De Película">
+    <title lang="es">Santo y Blue Demon en</title>
+  </programme>
+  <programme start="20201024091600 -0500" stop="20201024111000 -0500" channel="De Película">
+    <title lang="es">El alazán y el rosillo</title>
+  </programme>
+  <programme start="20201024111000 -0500" stop="20201024123500 -0500" channel="De Película">
+    <title lang="es">Mi querido capitán</title>
+  </programme>
+  <programme start="20201024123500 -0500" stop="20201024142000 -0500" channel="De Película">
+    <title lang="es">El gran calavera</title>
+  </programme>
+  <programme start="20201024142000 -0500" stop="20201024162500 -0500" channel="De Película">
+    <title lang="es">La muerte de un gallero</title>
+  </programme>
+  <programme start="20201024162500 -0500" stop="20201024184100 -0500" channel="De Película">
+    <title lang="es">El señor doctor</title>
+  </programme>
+  <programme start="20201024184100 -0500" stop="20201024202300 -0500" channel="De Película">
+    <title lang="es">Marcelino pan y vino</title>
+  </programme>
+  <programme start="20201024202300 -0500" stop="20201024223800 -0500" channel="De Película">
+    <title lang="es">El patrullero 777</title>
+  </programme>
+  <programme start="20201024223800 -0500" stop="20201025003000 -0500" channel="De Película">
+    <title lang="es">Cómo Filmar una XXX</title>
+  </programme>
+  <programme start="20201025223800 -0500" stop="20201026003000 -0500" channel="De Película">
+    <title lang="es">Cómo Filmar una XXX</title>
+  </programme>
+  <programme start="20201026003000 -0500" stop="20201026020000 -0500" channel="De Película">
+    <title lang="es">El sexólogo</title>
+  </programme>
+  <programme start="20201026020000 -0500" stop="20201026035400 -0500" channel="De Película">
+    <title lang="es">El alazán y el rosillo</title>
+  </programme>
+  <programme start="20201026035400 -0500" stop="20201026054600 -0500" channel="De Película">
+    <title lang="es">Robachicos</title>
+  </programme>
+  <programme start="20201026054600 -0500" stop="20201026081100 -0500" channel="De Película">
+    <title lang="es">Huérfanos</title>
+  </programme>
+  <programme start="20201026081100 -0500" stop="20201026100700 -0500" channel="De Película">
+    <title lang="es">Huracán Ramírez y la monjita</title>
+  </programme>
+  <programme start="20201026100700 -0500" stop="20201026115600 -0500" channel="De Película">
+    <title lang="es">Que Bravas Son las Solteras</title>
+  </programme>
+  <programme start="20201026115600 -0500" stop="20201026134600 -0500" channel="De Película">
+    <title lang="es">Calabacitas Tiernas</title>
+  </programme>
+  <programme start="20201026134600 -0500" stop="20201026153500 -0500" channel="De Película">
+    <title lang="es">El medallón del crimen</title>
+  </programme>
+  <programme start="20201026153500 -0500" stop="20201026175000 -0500" channel="De Película">
+    <title lang="es">El patrullero 777</title>
+  </programme>
+  <programme start="20201026175000 -0500" stop="20201026195500 -0500" channel="De Película">
+    <title lang="es">Dos Tipos De Cuidado</title>
+  </programme>
+  <programme start="20201026195500 -0500" stop="20201026222800 -0500" channel="De Película">
+    <title lang="es">Su excelencia</title>
+  </programme>
+  <programme start="20201026222800 -0500" stop="20201027002900 -0500" channel="De Película">
+    <title lang="es">Todo el Poder</title>
+  </programme>
+</tv>
