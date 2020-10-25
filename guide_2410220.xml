@@ -25,6 +25,21 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="HBO">
+    <display-name lang="es">HBO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="es">HBO 2</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="es">HBO Plus</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20201024010000 -0500" stop="20201024043000 -0500" channel="MX | Las Estrellas">
     <title lang="es">Paid Programing</title>
   </programme>
@@ -465,5 +480,263 @@
   </programme>
   <programme start="20201026230000 -0600" stop="20201027020000 -0600" channel="ESPN 3">
     <title lang="es">Bayern TV</title>
+  </programme>
+  <programme start="20201024000500 -0500" stop="20201024020500 -0500" channel="HBO">
+    <title lang="es">Ángeles de Charlie</title>
+  </programme>
+  <programme start="20201024020500 -0500" stop="20201024030500 -0500" channel="HBO">
+    <title lang="es">We Are Who We Are</title>
+  </programme>
+  <programme start="20201024030500 -0500" stop="20201024044000 -0500" channel="HBO">
+    <title lang="es">Presencias del Mal</title>
+  </programme>
+  <programme start="20201024044000 -0500" stop="20201024054500 -0500" channel="HBO">
+    <title lang="es">Whitmer Thomas: El chico dorado</title>
+  </programme>
+  <programme start="20201024054500 -0500" stop="20201024075000 -0500" channel="HBO">
+    <title lang="es">La Música de mi Vida</title>
+  </programme>
+  <programme start="20201024075000 -0500" stop="20201024092000 -0500" channel="HBO">
+    <title lang="es">El Grinch</title>
+  </programme>
+  <programme start="20201024092000 -0500" stop="20201024113000 -0500" channel="HBO">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+  </programme>
+  <programme start="20201024113000 -0500" stop="20201024120000 -0500" channel="HBO">
+    <title lang="es">Last Week Tonight With John Oliver</title>
+  </programme>
+  <programme start="20201024120000 -0500" stop="20201024135500 -0500" channel="HBO">
+    <title lang="es">Bloodshot</title>
+  </programme>
+  <programme start="20201024135500 -0500" stop="20201024161000 -0500" channel="HBO">
+    <title lang="es">Green Book: Una Amistad sin Fronteras</title>
+  </programme>
+  <programme start="20201024161000 -0500" stop="20201024180500 -0500" channel="HBO">
+    <title lang="es">Un Buen Día en el Vecindario</title>
+  </programme>
+  <programme start="20201024180500 -0500" stop="20201024185000 -0500" channel="HBO">
+    <title lang="es">Un Amigo Abominable</title>
+  </programme>
+  <programme start="20201024185000 -0500" stop="20201024210000 -0500" channel="HBO">
+    <title lang="es">Jumanji: El siguiente nivel</title>
+  </programme>
+  <programme start="20201024210000 -0500" stop="20201024225500 -0500" channel="HBO">
+    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
+  </programme>
+  <programme start="20201024225500 -0500" stop="20201025004500 -0500" channel="HBO">
+    <title lang="es">Bloodshot</title>
+  </programme>
+  <programme start="20201025225500 -0500" stop="20201026004500 -0500" channel="HBO">
+    <title lang="es">Bloodshot</title>
+  </programme>
+  <programme start="20201026004500 -0500" stop="20201026014500 -0500" channel="HBO">
+    <title lang="es">Doom Patrol</title>
+  </programme>
+  <programme start="20201026014500 -0500" stop="20201026032000 -0500" channel="HBO">
+    <title lang="es">Vida perfecta</title>
+  </programme>
+  <programme start="20201026032000 -0500" stop="20201026050000 -0500" channel="HBO">
+    <title lang="es">Los Japón</title>
+  </programme>
+  <programme start="20201026050000 -0500" stop="20201026070000 -0500" channel="HBO">
+    <title lang="es">Dos policías rebeldes</title>
+  </programme>
+  <programme start="20201026070000 -0500" stop="20201026085000 -0500" channel="HBO">
+    <title lang="es">Soy Leyenda</title>
+  </programme>
+  <programme start="20201026085000 -0500" stop="20201026110000 -0500" channel="HBO">
+    <title lang="es">Máquinas Mortales</title>
+  </programme>
+  <programme start="20201026110000 -0500" stop="20201026125000 -0500" channel="HBO">
+    <title lang="es">Matar o morir</title>
+  </programme>
+  <programme start="20201026125000 -0500" stop="20201026135000 -0500" channel="HBO">
+    <title lang="es">The Vow</title>
+  </programme>
+  <programme start="20201026135000 -0500" stop="20201026153500 -0500" channel="HBO">
+    <title lang="es">Zombieland: Tiro de Gracia</title>
+  </programme>
+  <programme start="20201026153500 -0500" stop="20201026175500 -0500" channel="HBO">
+    <title lang="es">Rápidos y Furiosos: Hobbs &amp; Shaw</title>
+  </programme>
+  <programme start="20201026175500 -0500" stop="20201026200300 -0500" channel="HBO">
+    <title lang="es">Ángeles de Charlie</title>
+  </programme>
+  <programme start="20201026200300 -0500" stop="20201026220000 -0500" channel="HBO">
+    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
+  </programme>
+  <programme start="20201026220000 -0500" stop="20201026230000 -0500" channel="HBO">
+    <title lang="es">Patria</title>
+  </programme>
+  <programme start="20201026230000 -0500" stop="20201027000000 -0500" channel="HBO">
+    <title lang="es">The Undoing</title>
+  </programme>
+  <programme start="20201024021000 -0500" stop="20201024040500 -0500" channel="HBO 2">
+    <title lang="es">Rocknrolla</title>
+  </programme>
+  <programme start="20201024040500 -0500" stop="20201024053500 -0500" channel="HBO 2">
+    <title lang="es">Holmes y Watson...elemental</title>
+  </programme>
+  <programme start="20201024053500 -0500" stop="20201024075700 -0500" channel="HBO 2">
+    <title lang="es">Jerry Maguire Amor y desafío</title>
+  </programme>
+  <programme start="20201024075700 -0500" stop="20201024102000 -0500" channel="HBO 2">
+    <title lang="es">Apuesta Maestra</title>
+  </programme>
+  <programme start="20201024102000 -0500" stop="20201024115500 -0500" channel="HBO 2">
+    <title lang="es">Presencias del Mal</title>
+  </programme>
+  <programme start="20201024115500 -0500" stop="20201024125000 -0500" channel="HBO 2">
+    <title lang="es">Lovecraft Country</title>
+  </programme>
+  <programme start="20201024125000 -0500" stop="20201024134500 -0500" channel="HBO 2">
+    <title lang="es">The Third Day</title>
+  </programme>
+  <programme start="20201024134500 -0500" stop="20201024152500 -0500" channel="HBO 2">
+    <title lang="es">Kung Fu Panda 3</title>
+  </programme>
+  <programme start="20201024152500 -0500" stop="20201024170500 -0500" channel="HBO 2">
+    <title lang="es">La guardería del abuelo</title>
+  </programme>
+  <programme start="20201024170500 -0500" stop="20201024182000 -0500" channel="HBO 2">
+    <title lang="es">Sherlock Holmes</title>
+  </programme>
+  <programme start="20201024182000 -0500" stop="20201024200000 -0500" channel="HBO 2">
+    <title lang="es">Milla 22: El escape</title>
+  </programme>
+  <programme start="20201024200000 -0500" stop="20201024210000 -0500" channel="HBO 2">
+    <title lang="es">Doom Patrol</title>
+  </programme>
+  <programme start="20201024210000 -0500" stop="20201024224000 -0500" channel="HBO 2">
+    <title lang="es">Presencias del Mal</title>
+  </programme>
+  <programme start="20201024224000 -0500" stop="20201025003500 -0500" channel="HBO 2">
+    <title lang="es">El Buen Mentiroso</title>
+  </programme>
+  <programme start="20201025003500 -0500" stop="20201025035000 -0600" channel="HBO 2">
+    <title lang="es">Los mejores enemigos</title>
+  </programme>
+  <programme start="20201025035000 -0600" stop="20201025064000 -0600" channel="HBO 2">
+    <title lang="es">Dulzura americana</title>
+  </programme>
+  <programme start="20201025064000 -0600" stop="20201025085000 -0600" channel="HBO 2">
+    <title lang="es">Siempre serás mI hijo</title>
+  </programme>
+  <programme start="20201025085000 -0600" stop="20201025112000 -0600" channel="HBO 2">
+    <title lang="es">Huérfanos de Brooklyn</title>
+  </programme>
+  <programme start="20201025112000 -0600" stop="20201025125000 -0600" channel="HBO 2">
+    <title lang="es">Vida secreta de tus mascotas 2</title>
+  </programme>
+  <programme start="20201025125000 -0600" stop="20201025135000 -0600" channel="HBO 2">
+    <title lang="es">After: Aquí Empieza Todo</title>
+  </programme>
+  <programme start="20201025135000 -0600" stop="20201025144000 -0600" channel="HBO 2">
+    <title lang="es">El Infiltrado del KKKlan</title>
+  </programme>
+  <programme start="20201025144000 -0600" stop="20201025163500 -0600" channel="HBO 2">
+    <title lang="es">Nosotros Los Nobles</title>
+  </programme>
+  <programme start="20201025163500 -0600" stop="20201025184000 -0600" channel="HBO 2">
+    <title lang="es">Yesterday</title>
+  </programme>
+  <programme start="20201025184000 -0600" stop="20201025202500 -0600" channel="HBO 2">
+    <title lang="es">La Viuda</title>
+  </programme>
+  <programme start="20201025202500 -0600" stop="20201025212500 -0600" channel="HBO 2">
+    <title lang="es">The Vow</title>
+  </programme>
+  <programme start="20201025212500 -0600" stop="20201025230000 -0600" channel="HBO 2">
+    <title lang="es">Vida secreta de tus mascotas 2</title>
+  </programme>
+  <programme start="20201025230000 -0600" stop="20201026011500 -0600" channel="HBO 2">
+    <title lang="es">Green Book Una amistad sin</title>
+  </programme>
+  <programme start="20201024013500 -0500" stop="20201024031500 -0500" channel="HBO Plus">
+    <title lang="es">Tú Eres el Próximo</title>
+  </programme>
+  <programme start="20201024031500 -0500" stop="20201024050000 -0500" channel="HBO Plus">
+    <title lang="es">Mamá (2013)</title>
+  </programme>
+  <programme start="20201024050000 -0500" stop="20201024070000 -0500" channel="HBO Plus">
+    <title lang="es">El rito</title>
+  </programme>
+  <programme start="20201024070000 -0500" stop="20201024084000 -0500" channel="HBO Plus">
+    <title lang="es">Exorcismo en el Vaticano</title>
+  </programme>
+  <programme start="20201024084000 -0500" stop="20201024112000 -0500" channel="HBO Plus">
+    <title lang="es">Doctor Sueño</title>
+  </programme>
+  <programme start="20201024112000 -0500" stop="20201024122500 -0500" channel="HBO Plus">
+    <title lang="es">The Vow</title>
+  </programme>
+  <programme start="20201024122500 -0500" stop="20201024142000 -0500" channel="HBO Plus">
+    <title lang="es">Los muertos no mueren</title>
+  </programme>
+  <programme start="20201024142000 -0500" stop="20201024161100 -0500" channel="HBO Plus">
+    <title lang="es">Crimen contrarreloj</title>
+  </programme>
+  <programme start="20201024161100 -0500" stop="20201024172100 -0500" channel="HBO Plus">
+    <title lang="es">Doom Patrol</title>
+  </programme>
+  <programme start="20201024172100 -0500" stop="20201024183100 -0500" channel="HBO Plus">
+    <title lang="es">Lovecraft Country</title>
+  </programme>
+  <programme start="20201024183100 -0500" stop="20201024191000 -0500" channel="HBO Plus">
+    <title lang="es">Brightburn: Hijo de la Oscuridad</title>
+  </programme>
+  <programme start="20201024191000 -0500" stop="20201024210000 -0500" channel="HBO Plus">
+    <title lang="es">Escape Room: Sin Salida</title>
+  </programme>
+  <programme start="20201024210000 -0500" stop="20201024233500 -0500" channel="HBO Plus">
+    <title lang="es">Doctor Sueño</title>
+  </programme>
+  <programme start="20201024233500 -0500" stop="20201025013500 -0500" channel="HBO Plus">
+    <title lang="es">Nosotros (2019)</title>
+  </programme>
+  <programme start="20201025013500 -0500" stop="20201025023500 -0500" channel="HBO Plus">
+    <title lang="es">Mis formas favoritas por Julio Torres</title>
+  </programme>
+  <programme start="20201025023500 -0500" stop="20201025034000 -0500" channel="HBO Plus">
+    <title lang="es">We Are Who We Are</title>
+  </programme>
+  <programme start="20201025034000 -0500" stop="20201025052500 -0500" channel="HBO Plus">
+    <title lang="es">Asesino en casa</title>
+  </programme>
+  <programme start="20201025052500 -0500" stop="20201025070500 -0500" channel="HBO Plus">
+    <title lang="es">Cucuy The Boogeyman</title>
+  </programme>
+  <programme start="20201025070500 -0500" stop="20201025090000 -0500" channel="HBO Plus">
+    <title lang="es">El internado</title>
+  </programme>
+  <programme start="20201025090000 -0500" stop="20201025103000 -0500" channel="HBO Plus">
+    <title lang="es">Seed of Chucky</title>
+  </programme>
+  <programme start="20201025103000 -0500" stop="20201025122500 -0500" channel="HBO Plus">
+    <title lang="es">La Rebelión</title>
+  </programme>
+  <programme start="20201025122500 -0500" stop="20201025141500 -0500" channel="HBO Plus">
+    <title lang="es">Annabelle 3: Viene a Casa</title>
+  </programme>
+  <programme start="20201025141500 -0500" stop="20201025155300 -0500" channel="HBO Plus">
+    <title lang="es">La Maldición de la Llorona (2019)</title>
+  </programme>
+  <programme start="20201025155300 -0500" stop="20201025173000 -0500" channel="HBO Plus">
+    <title lang="es">Eliminar Amigo 2</title>
+  </programme>
+  <programme start="20201025173000 -0500" stop="20201025192000 -0500" channel="HBO Plus">
+    <title lang="es">Slaughterhouse: Escuela sangrienta</title>
+  </programme>
+  <programme start="20201025192000 -0500" stop="20201025202500 -0500" channel="HBO Plus">
+    <title lang="es">Doom Patrol</title>
+  </programme>
+  <programme start="20201025202500 -0500" stop="20201025220000 -0500" channel="HBO Plus">
+    <title lang="es">La noche de la expiación</title>
+  </programme>
+  <programme start="20201025220000 -0500" stop="20201025235500 -0500" channel="HBO Plus">
+    <title lang="es">Annabelle 3: Viene a Casa</title>
+  </programme>
+  <programme start="20201025235500 -0500" stop="20201026013500 -0500" channel="HBO Plus">
+    <title lang="es">Negra Navidad (2019)</title>
   </programme>
 </tv>
