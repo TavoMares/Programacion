@@ -10,8 +10,8 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="ESPN">
-    <display-name lang="es">ESPN</display-name>
+  <channel id="MX | Espn">
+    <display-name lang="es">MX | Espn</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -178,106 +178,106 @@
   <programme start="20201026222800 -0500" stop="20201027002900 -0500" channel="De Película">
     <title lang="es">Todo el Poder</title>
   </programme>
-  <programme start="20201024010000 -0500" stop="20201024020000 -0500" channel="ESPN">
+  <programme start="20201024010000 -0500" stop="20201024020000 -0500" channel="MX | Espn">
     <title lang="es">ESPN Knockout</title>
   </programme>
-  <programme start="20201024020000 -0500" stop="20201024040000 -0500" channel="ESPN">
+  <programme start="20201024020000 -0500" stop="20201024040000 -0500" channel="MX | Espn">
     <title lang="es">Lazio vs. Borussia Dortmund</title>
   </programme>
-  <programme start="20201024040000 -0500" stop="20201024050000 -0500" channel="ESPN">
+  <programme start="20201024040000 -0500" stop="20201024050000 -0500" channel="MX | Espn">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20201024050000 -0500" stop="20201024060000 -0500" channel="ESPN">
+  <programme start="20201024050000 -0500" stop="20201024060000 -0500" channel="MX | Espn">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20201024060000 -0500" stop="20201024070000 -0500" channel="ESPN">
+  <programme start="20201024060000 -0500" stop="20201024070000 -0500" channel="MX | Espn">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20201024070000 -0500" stop="20201024073000 -0500" channel="ESPN">
+  <programme start="20201024070000 -0500" stop="20201024073000 -0500" channel="MX | Espn">
     <title lang="es">NBA Action</title>
   </programme>
-  <programme start="20201024073000 -0500" stop="20201024074500 -0500" channel="ESPN">
+  <programme start="20201024073000 -0500" stop="20201024074500 -0500" channel="MX | Espn">
     <title lang="es">Inside Serie A</title>
   </programme>
-  <programme start="20201024074500 -0500" stop="20201024100000 -0500" channel="ESPN">
+  <programme start="20201024074500 -0500" stop="20201024100000 -0500" channel="MX | Espn">
     <title lang="es">Atalanta vs. Sampdoria</title>
   </programme>
-  <programme start="20201024100000 -0500" stop="20201024105500 -0500" channel="ESPN">
+  <programme start="20201024100000 -0500" stop="20201024105500 -0500" channel="MX | Espn">
     <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20201024105500 -0500" stop="20201024130000 -0500" channel="ESPN">
+  <programme start="20201024105500 -0500" stop="20201024130000 -0500" channel="MX | Espn">
     <title lang="es">Genoa vs. Inter</title>
   </programme>
-  <programme start="20201024130000 -0500" stop="20201024135000 -0500" channel="ESPN">
+  <programme start="20201024130000 -0500" stop="20201024135000 -0500" channel="MX | Espn">
     <title lang="es">UEFA CL Highlights</title>
   </programme>
-  <programme start="20201024135000 -0500" stop="20201024160000 -0500" channel="ESPN">
+  <programme start="20201024135000 -0500" stop="20201024160000 -0500" channel="MX | Espn">
     <title lang="es">Paris Saint Germain vs. Dijon</title>
   </programme>
-  <programme start="20201024160000 -0500" stop="20201024180000 -0500" channel="ESPN">
+  <programme start="20201024160000 -0500" stop="20201024180000 -0500" channel="MX | Espn">
     <title lang="es">Lazio vs. Bologna</title>
   </programme>
-  <programme start="20201024180000 -0500" stop="20201024190000 -0500" channel="ESPN">
+  <programme start="20201024180000 -0500" stop="20201024190000 -0500" channel="MX | Espn">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20201024190000 -0500" stop="20201024220000 -0500" channel="ESPN">
+  <programme start="20201024190000 -0500" stop="20201024220000 -0500" channel="MX | Espn">
     <title lang="es">Dodgers vs. Rays</title>
   </programme>
-  <programme start="20201024220000 -0500" stop="20201024230000 -0500" channel="ESPN">
+  <programme start="20201024220000 -0500" stop="20201024230000 -0500" channel="MX | Espn">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20201024230000 -0500" stop="20201025000000 -0500" channel="ESPN">
+  <programme start="20201024230000 -0500" stop="20201025000000 -0500" channel="MX | Espn">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20201025000000 -0500" stop="20201025020000 -0600" channel="ESPN">
+  <programme start="20201025000000 -0500" stop="20201025020000 -0600" channel="MX | Espn">
     <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20201025020000 -0600" stop="20201025030000 -0600" channel="ESPN">
+  <programme start="20201025020000 -0600" stop="20201025030000 -0600" channel="MX | Espn">
     <title lang="es">Sporting vs. Rapids</title>
   </programme>
-  <programme start="20201025030000 -0600" stop="20201025040000 -0600" channel="ESPN">
+  <programme start="20201025030000 -0600" stop="20201025040000 -0600" channel="MX | Espn">
     <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20201025040000 -0600" stop="20201025050000 -0600" channel="ESPN">
+  <programme start="20201025040000 -0600" stop="20201025050000 -0600" channel="MX | Espn">
     <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20201025050000 -0600" stop="20201025070000 -0600" channel="ESPN">
+  <programme start="20201025050000 -0600" stop="20201025070000 -0600" channel="MX | Espn">
     <title lang="es">MotoGP</title>
   </programme>
-  <programme start="20201025070000 -0600" stop="20201025090000 -0600" channel="ESPN">
+  <programme start="20201025070000 -0600" stop="20201025090000 -0600" channel="MX | Espn">
     <title lang="es">MotoGP</title>
   </programme>
-  <programme start="20201025090000 -0600" stop="20201025093000 -0600" channel="ESPN">
+  <programme start="20201025090000 -0600" stop="20201025093000 -0600" channel="MX | Espn">
     <title lang="es">MotoGP</title>
   </programme>
-  <programme start="20201025093000 -0600" stop="20201025110000 -0600" channel="ESPN">
+  <programme start="20201025093000 -0600" stop="20201025110000 -0600" channel="MX | Espn">
     <title lang="es">Benevento vs. Napoli</title>
   </programme>
-  <programme start="20201025110000 -0600" stop="20201025113000 -0600" channel="ESPN">
+  <programme start="20201025110000 -0600" stop="20201025113000 -0600" channel="MX | Espn">
     <title lang="es">UEFA Europa League Magazine</title>
   </programme>
-  <programme start="20201025113000 -0600" stop="20201025115000 -0600" channel="ESPN">
+  <programme start="20201025113000 -0600" stop="20201025115000 -0600" channel="MX | Espn">
     <title lang="es">UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20201025115000 -0600" stop="20201025140000 -0600" channel="ESPN">
+  <programme start="20201025115000 -0600" stop="20201025140000 -0600" channel="MX | Espn">
     <title lang="es">Fiorentina vs. Udinese</title>
   </programme>
-  <programme start="20201025140000 -0600" stop="20201025143000 -0600" channel="ESPN">
+  <programme start="20201025140000 -0600" stop="20201025143000 -0600" channel="MX | Espn">
     <title lang="es">SportsCenter (Fin de Semana)</title>
   </programme>
-  <programme start="20201025143000 -0600" stop="20201025164500 -0600" channel="ESPN">
+  <programme start="20201025143000 -0600" stop="20201025164500 -0600" channel="MX | Espn">
     <title lang="es">Juventus vs. Hellas Verona</title>
   </programme>
-  <programme start="20201025164500 -0600" stop="20201025170000 -0600" channel="ESPN">
+  <programme start="20201025164500 -0600" stop="20201025170000 -0600" channel="MX | Espn">
     <title lang="es">UEFA Champions League Weekly</title>
   </programme>
-  <programme start="20201025170000 -0600" stop="20201025173000 -0600" channel="ESPN">
+  <programme start="20201025170000 -0600" stop="20201025173000 -0600" channel="MX | Espn">
     <title lang="es">UEFA CL Highlights</title>
   </programme>
-  <programme start="20201025173000 -0600" stop="20201025180000 -0600" channel="ESPN">
+  <programme start="20201025173000 -0600" stop="20201025180000 -0600" channel="MX | Espn">
     <title lang="es">UEFA Europa League Magazine</title>
   </programme>
-  <programme start="20201025190000 -0600" stop="20201025220000 -0600" channel="ESPN">
+  <programme start="20201025190000 -0600" stop="20201025220000 -0600" channel="MX | Espn">
     <title lang="es">Dodgers vs. Rays</title>
   </programme>
   <programme start="20201024010000 -0500" stop="20201024020000 -0500" channel="ESPN Dos">
