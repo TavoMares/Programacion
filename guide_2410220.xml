@@ -10,6 +10,21 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="ESPN">
+    <display-name lang="es">ESPN</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ESPN Dos">
+    <display-name lang="es">ESPN Dos</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ESPN 3">
+    <display-name lang="es">ESPN 3</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20201024010000 -0500" stop="20201024043000 -0500" channel="MX | Las Estrellas">
     <title lang="es">Paid Programing</title>
   </programme>
@@ -162,5 +177,293 @@
   </programme>
   <programme start="20201026222800 -0500" stop="20201027002900 -0500" channel="De Película">
     <title lang="es">Todo el Poder</title>
+  </programme>
+  <programme start="20201024010000 -0500" stop="20201024020000 -0500" channel="ESPN">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201024020000 -0500" stop="20201024040000 -0500" channel="ESPN">
+    <title lang="es">Lazio vs. Borussia Dortmund</title>
+  </programme>
+  <programme start="20201024040000 -0500" stop="20201024050000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201024050000 -0500" stop="20201024060000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201024060000 -0500" stop="20201024070000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201024070000 -0500" stop="20201024073000 -0500" channel="ESPN">
+    <title lang="es">NBA Action</title>
+  </programme>
+  <programme start="20201024073000 -0500" stop="20201024074500 -0500" channel="ESPN">
+    <title lang="es">Inside Serie A</title>
+  </programme>
+  <programme start="20201024074500 -0500" stop="20201024100000 -0500" channel="ESPN">
+    <title lang="es">Atalanta vs. Sampdoria</title>
+  </programme>
+  <programme start="20201024100000 -0500" stop="20201024105500 -0500" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201024105500 -0500" stop="20201024130000 -0500" channel="ESPN">
+    <title lang="es">Genoa vs. Inter</title>
+  </programme>
+  <programme start="20201024130000 -0500" stop="20201024135000 -0500" channel="ESPN">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201024135000 -0500" stop="20201024160000 -0500" channel="ESPN">
+    <title lang="es">Paris Saint Germain vs. Dijon</title>
+  </programme>
+  <programme start="20201024160000 -0500" stop="20201024180000 -0500" channel="ESPN">
+    <title lang="es">Lazio vs. Bologna</title>
+  </programme>
+  <programme start="20201024180000 -0500" stop="20201024190000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201024190000 -0500" stop="20201024220000 -0500" channel="ESPN">
+    <title lang="es">Dodgers vs. Rays</title>
+  </programme>
+  <programme start="20201024220000 -0500" stop="20201024230000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201024230000 -0500" stop="20201025000000 -0500" channel="ESPN">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201025000000 -0500" stop="20201025020000 -0600" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201025020000 -0600" stop="20201025030000 -0600" channel="ESPN">
+    <title lang="es">Sporting vs. Rapids</title>
+  </programme>
+  <programme start="20201025030000 -0600" stop="20201025040000 -0600" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201025040000 -0600" stop="20201025050000 -0600" channel="ESPN">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201025050000 -0600" stop="20201025070000 -0600" channel="ESPN">
+    <title lang="es">MotoGP</title>
+  </programme>
+  <programme start="20201025070000 -0600" stop="20201025090000 -0600" channel="ESPN">
+    <title lang="es">MotoGP</title>
+  </programme>
+  <programme start="20201025090000 -0600" stop="20201025093000 -0600" channel="ESPN">
+    <title lang="es">MotoGP</title>
+  </programme>
+  <programme start="20201025093000 -0600" stop="20201025110000 -0600" channel="ESPN">
+    <title lang="es">Benevento vs. Napoli</title>
+  </programme>
+  <programme start="20201025110000 -0600" stop="20201025113000 -0600" channel="ESPN">
+    <title lang="es">UEFA Europa League Magazine</title>
+  </programme>
+  <programme start="20201025113000 -0600" stop="20201025115000 -0600" channel="ESPN">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201025115000 -0600" stop="20201025140000 -0600" channel="ESPN">
+    <title lang="es">Fiorentina vs. Udinese</title>
+  </programme>
+  <programme start="20201025140000 -0600" stop="20201025143000 -0600" channel="ESPN">
+    <title lang="es">SportsCenter (Fin de Semana)</title>
+  </programme>
+  <programme start="20201025143000 -0600" stop="20201025164500 -0600" channel="ESPN">
+    <title lang="es">Juventus vs. Hellas Verona</title>
+  </programme>
+  <programme start="20201025164500 -0600" stop="20201025170000 -0600" channel="ESPN">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201025170000 -0600" stop="20201025173000 -0600" channel="ESPN">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201025173000 -0600" stop="20201025180000 -0600" channel="ESPN">
+    <title lang="es">UEFA Europa League Magazine</title>
+  </programme>
+  <programme start="20201025190000 -0600" stop="20201025220000 -0600" channel="ESPN">
+    <title lang="es">Dodgers vs. Rays</title>
+  </programme>
+  <programme start="20201024010000 -0500" stop="20201024020000 -0500" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201024020000 -0500" stop="20201024030000 -0500" channel="ESPN Dos">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201024030000 -0500" stop="20201024050000 -0500" channel="ESPN Dos">
+    <title lang="es">Rennes vs. Angers</title>
+  </programme>
+  <programme start="20201024050000 -0500" stop="20201024060000 -0500" channel="ESPN Dos">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201024060000 -0500" stop="20201024070000 -0500" channel="ESPN Dos">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201024070000 -0500" stop="20201024073000 -0500" channel="ESPN Dos">
+    <title lang="es">NBA Action</title>
+  </programme>
+  <programme start="20201024073000 -0500" stop="20201024080000 -0500" channel="ESPN Dos">
+    <title lang="es">NBA esta noche</title>
+  </programme>
+  <programme start="20201024080000 -0500" stop="20201024090000 -0500" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201024090000 -0500" stop="20201024092000 -0500" channel="ESPN Dos">
+    <title lang="es">ESPN X</title>
+  </programme>
+  <programme start="20201024092000 -0500" stop="20201024113000 -0500" channel="ESPN Dos">
+    <title lang="es">VVV Venlo vs. Ajax</title>
+  </programme>
+  <programme start="20201024113000 -0500" stop="20201024131000 -0500" channel="ESPN Dos">
+    <title lang="es">Real Madrid vs. Shakhtar</title>
+  </programme>
+  <programme start="20201024131000 -0500" stop="20201024144500 -0500" channel="ESPN Dos">
+    <title lang="es">Dynamo Kiev vs. Juventus</title>
+  </programme>
+  <programme start="20201024144500 -0500" stop="20201024170000 -0500" channel="ESPN Dos">
+    <title lang="es">Inter Miami CF vs. Orlando C</title>
+  </programme>
+  <programme start="20201024170000 -0500" stop="20201024190000 -0500" channel="ESPN Dos">
+    <title lang="es">Atalanta vs. Sampdoria</title>
+  </programme>
+  <programme start="20201024190000 -0500" stop="20201024200400 -0500" channel="ESPN Dos">
+    <title lang="es">Saul Sanchez vs. Daniel Lozano</title>
+  </programme>
+  <programme start="20201024200400 -0500" stop="20201024223000 -0500" channel="ESPN Dos">
+    <title lang="es">Lipinets vs. Clayton</title>
+  </programme>
+  <programme start="20201024223000 -0500" stop="20201024230000 -0500" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201024230000 -0500" stop="20201025000000 -0500" channel="ESPN Dos">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201025000000 -0500" stop="20201025020000 -0500" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201025020000 -0500" stop="20201025030000 -0500" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201025030000 -0500" stop="20201025050000 -0500" channel="ESPN Dos">
+    <title lang="es">Paris Saint Germain vs. Dijon</title>
+  </programme>
+  <programme start="20201025050000 -0500" stop="20201025060000 -0500" channel="ESPN Dos">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201025060000 -0500" stop="20201025063000 -0500" channel="ESPN Dos">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20201025063000 -0500" stop="20201025082000 -0500" channel="ESPN Dos">
+    <title lang="es">Lorient vs. Marseille</title>
+  </programme>
+  <programme start="20201025082000 -0500" stop="20201025103000 -0500" channel="ESPN Dos">
+    <title lang="es">Vitesse vs. PSV</title>
+  </programme>
+  <programme start="20201025103000 -0500" stop="20201025124500 -0500" channel="ESPN Dos">
+    <title lang="es">RKC Waalwijk vs. Feyenoord</title>
+  </programme>
+  <programme start="20201025124500 -0500" stop="20201025150000 -0500" channel="ESPN Dos">
+    <title lang="es">Toluca vs. Xolos de Tijuana</title>
+  </programme>
+  <programme start="20201025150000 -0500" stop="20201025170000 -0500" channel="ESPN Dos">
+    <title lang="es">Lyon vs. Monaco</title>
+  </programme>
+  <programme start="20201025170000 -0500" stop="20201025180000 -0500" channel="ESPN Dos">
+    <title lang="es">Camacho vs. Pazienza (1990)</title>
+  </programme>
+  <programme start="20201025180000 -0500" stop="20201025190000 -0500" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201025190000 -0500" stop="20201025223000 -0500" channel="ESPN Dos">
+    <title lang="es">Seahawks vs. Arizona</title>
+  </programme>
+  <programme start="20201024003000 -0500" stop="20201024010000 -0500" channel="ESPN 3">
+    <title lang="es">Football's Greatest</title>
+  </programme>
+  <programme start="20201024010000 -0500" stop="20201024025500 -0500" channel="ESPN 3">
+    <title lang="es">Clemson vs. NC State</title>
+  </programme>
+  <programme start="20201024025500 -0500" stop="20201024060000 -0500" channel="ESPN 3">
+    <title lang="es">Béisbol KBO En Vivo</title>
+  </programme>
+  <programme start="20201024060000 -0500" stop="20201024070000 -0500" channel="ESPN 3">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201024070000 -0500" stop="20201024073000 -0500" channel="ESPN 3">
+    <title lang="es">College Football 150: The Greatest</title>
+  </programme>
+  <programme start="20201024073000 -0500" stop="20201024090000 -0500" channel="ESPN 3">
+    <title lang="es">Campeonato mundial de MotoGP En Vivo</title>
+  </programme>
+  <programme start="20201024090000 -0500" stop="20201024110000 -0500" channel="ESPN 3">
+    <title lang="es">Vuelta a España 2020 En Vivo</title>
+  </programme>
+  <programme start="20201024110000 -0500" stop="20201024115000 -0500" channel="ESPN 3">
+    <title lang="es">Fútbol Picante</title>
+  </programme>
+  <programme start="20201024115000 -0500" stop="20201024140000 -0500" channel="ESPN 3">
+    <title lang="es">Tapatío vs. Tlaxcala En Vivo</title>
+  </programme>
+  <programme start="20201024140000 -0500" stop="20201024154500 -0500" channel="ESPN 3">
+    <title lang="es">Lazio vs. Bologna En Vivo</title>
+  </programme>
+  <programme start="20201024154500 -0500" stop="20201024160000 -0500" channel="ESPN 3">
+    <title lang="es">Football's Greatest</title>
+  </programme>
+  <programme start="20201024160000 -0500" stop="20201024180000 -0500" channel="ESPN 3">
+    <title lang="es">Rugby Torneo de las 6 Naciones</title>
+  </programme>
+  <programme start="20201024180000 -0500" stop="20201024183000 -0500" channel="ESPN 3">
+    <title lang="es">NBA Tonight</title>
+  </programme>
+  <programme start="20201024183000 -0500" stop="20201024190000 -0500" channel="ESPN 3">
+    <title lang="es">MLS Highlights</title>
+  </programme>
+  <programme start="20201024190000 -0500" stop="20201024210000 -0500" channel="ESPN 3">
+    <title lang="es">Columbus Crew SC vs. Houston Dynamo En Vivo</title>
+  </programme>
+  <programme start="20201024210000 -0500" stop="20201024230000 -0500" channel="ESPN 3">
+    <title lang="es">San Jose Earthquakes vs. Vancouver Whitecaps FC En Vivo</title>
+  </programme>
+  <programme start="20201024230000 -0500" stop="20201025023000 -0600" channel="ESPN 3">
+    <title lang="es">Michigan vs. Minnesota</title>
+  </programme>
+  <programme start="20201025230000 -0600" stop="20201026023000 -0600" channel="ESPN 3">
+    <title lang="es">Michigan vs. Minnesota</title>
+  </programme>
+  <programme start="20201026023000 -0600" stop="20201026030000 -0600" channel="ESPN 3">
+    <title lang="es">Ciclismo</title>
+  </programme>
+  <programme start="20201026030000 -0600" stop="20201026050000 -0600" channel="ESPN 3">
+    <title lang="es">Genoa vs. Inter</title>
+  </programme>
+  <programme start="20201026050000 -0600" stop="20201026065500 -0600" channel="ESPN 3">
+    <title lang="es">Atalanta vs. Sampdoria</title>
+  </programme>
+  <programme start="20201026065500 -0600" stop="20201026113000 -0600" channel="ESPN 3">
+    <title lang="es">Vuelta a España 2020 En Vivo</title>
+  </programme>
+  <programme start="20201026113000 -0600" stop="20201026130000 -0600" channel="ESPN 3">
+    <title lang="es">Nice vs. Lille En Vivo</title>
+  </programme>
+  <programme start="20201026130000 -0600" stop="20201026140000 -0600" channel="ESPN 3">
+    <title lang="es">Goles de la UEFA Champions League</title>
+  </programme>
+  <programme start="20201026140000 -0600" stop="20201026143000 -0600" channel="ESPN 3">
+    <title lang="es">SportsCenter En Vivo</title>
+  </programme>
+  <programme start="20201026143000 -0600" stop="20201026163000 -0600" channel="ESPN 3">
+    <title lang="es">LA Galaxy vs. Los Angeles FC En Vivo</title>
+  </programme>
+  <programme start="20201026163000 -0600" stop="20201026170000 -0600" channel="ESPN 3">
+    <title lang="es">Football's Greatest</title>
+  </programme>
+  <programme start="20201026170000 -0600" stop="20201026190000 -0600" channel="ESPN 3">
+    <title lang="es">Juventus vs. Hellas Verona</title>
+  </programme>
+  <programme start="20201026190000 -0600" stop="20201026210000 -0600" channel="ESPN 3">
+    <title lang="es">Colorado Rapids vs. Sporting Kansas City</title>
+  </programme>
+  <programme start="20201026210000 -0600" stop="20201026230000 -0600" channel="ESPN 3">
+    <title lang="es">LA Galaxy vs. Los Angeles FC</title>
+  </programme>
+  <programme start="20201026230000 -0600" stop="20201027020000 -0600" channel="ESPN 3">
+    <title lang="es">Bayern TV</title>
   </programme>
 </tv>
