@@ -85,7 +85,7 @@ http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/325|User-Agent=mundoplay
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/120|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="Cine y Series",Multipremier
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/129|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="Cine y Series",AMC
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="" group-title="Cine y Series",AMC
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/6|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="Cine y Series",A&E
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/1|User-Agent=mundoplayer
@@ -103,7 +103,7 @@ http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/22|User-Agent=mundoplaye
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/23|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="" group-title="Cine y Series",Claro Cinema
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/24|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="" group-title="Cine y Series",De Pelicula Plus
+#EXTINF:-1 tvg-id="De Pelicula Plus" tvg-name="De Pelicula Plus" tvg-logo="" group-title="Cine y Series",De Pelicula Plus
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/34|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="Cine y Series",Golden
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/67|User-Agent=mundoplayer
@@ -156,31 +156,31 @@ http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/60|User-Agent=mundoplaye
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/61|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="Premium",HBO Family
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/62|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="Premium",HBO 2
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="" group-title="Premium",HBO 2
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/63|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="Premium",HBO
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="Premium",HBO
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/64|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Fox Premium Series Subtitulado" tvg-logo="" group-title="Premium",Fox Premium Series Subtitulado
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/78|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Movies" tvg-logo="" group-title="Premium",Fox Premium Movies
+#EXTINF:-1 tvg-id="Fox Premium Movies" tvg-name="Fox Premium Movies" tvg-logo="" group-title="Premium",Fox Premium Movies
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/81|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Series" tvg-logo="" group-title="Premium",Fox Premium Series
+#EXTINF:-1 tvg-id="Fox Premium Series" tvg-name="Fox Premium Series" tvg-logo="" group-title="Premium",Fox Premium Series
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/79|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Family" tvg-logo="" group-title="Premium",Fox Premium Family
+#EXTINF:-1 tvg-id="Fox Premium Family" tvg-name="Fox Premium Family" tvg-logo="" group-title="Premium",Fox Premium Family
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/84|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Comedy" tvg-logo="" group-title="Premium",Fox Premium Comedy
+#EXTINF:-1 tvg-id="Fox Premium Comedy" tvg-name="Fox Premium Comedy" tvg-logo="" group-title="Premium",Fox Premium Comedy
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/85|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Classics" tvg-logo="" group-title="Premium",Fox Premium Classics
+#EXTINF:-1 tvg-id="Fox Premium Classics" tvg-name="Fox Premium Classics" tvg-logo="" group-title="Premium",Fox Premium Classics
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/86|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Fox Cinema Subtitulado" tvg-logo="" group-title="Premium",Fox Cinema Subtitulado
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/87|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Cinema" tvg-logo="" group-title="Premium",Fox Premium Cinema
+#EXTINF:-1 tvg-id="Fox Premium Cinema" tvg-name="Fox Premium Cinema" tvg-logo="" group-title="Premium",Fox Premium Cinema
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/88|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Action MX" tvg-logo="" group-title="Premium",Fox Premium Action MX
+#EXTINF:-1 tvg-id="Fox Premium Action MX" tvg-name="Fox Premium Action MX" tvg-logo="" group-title="Premium",Fox Premium Action MX
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/89|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Fox Premium Action" tvg-logo="" group-title="Premium",Fox Premium Action
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/90|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="Max Up" tvg-logo="" group-title="Premium",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="Max Up" tvg-logo="" group-title="Premium",HBO Plus
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/131|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Max Prime" tvg-logo="" group-title="Premium",HBO Xtreme
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/132|User-Agent=mundoplayer
@@ -267,7 +267,7 @@ http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/17|User-Agent=mundoplaye
  
 #EXTINF:-1 tvg-id="" tvg-name="MX | AzteC/a 7" tvg-logo="https://www.televisiongratishd.com/img/azteca7.png" group-title="Públicos",MX | Azteca 7
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/134|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="MX | Azteca Uno" tvg-logo="-" group-title="Públicos",MX | Azteca Uno
+#EXTINF:-1 tvg-id="EPG123.24519.schedulesdirect.org" tvg-name="MX | Azteca Uno" tvg-logo="-" group-title="Públicos",MX | Azteca Uno
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/135|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="MX | ADN 40" tvg-logo="-" group-title="Públicos",MX | ADN 40
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/136|User-Agent=mundoplayer
@@ -308,7 +308,7 @@ http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/151|User-Agent=mundoplay
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/152|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="MX | Congreso de la Unión" tvg-logo="-" group-title="Públicos",MX | Congreso de la Unión
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/153|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="MX | Imagen TV" tvg-logo="-" group-title="Públicos",MX | Imagen TV
+#EXTINF:-1 tvg-id="EPG123.101096.schedulesdirect.org" tvg-name="MX | Imagen TV" tvg-logo="-" group-title="Públicos",MX | Imagen TV
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/154|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="MX | Latin American Sports" tvg-logo="-" group-title="Deportes",MX | Latin American Sports
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/155|User-Agent=mundoplayer
@@ -326,8 +326,6 @@ http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/160|User-Agent=mundoplay
 #EXTINF:-1 tvg-id="MX | Espn" tvg-name="MX | Espn" tvg-logo="-" group-title="Deportes",MX | Espn
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/161|User-Agent=mundoplayer
 
-#EXTINF:-1 tvg-id="MX | Las Estrellas" tvg-name="MX | Las Estrellas" tvg-logo="-" group-title="Públicos",MX | Las Estrellas
-
 
 #EXTINF:-1 tvg-id="ESPN Dos" tvg-name="MX | Espn 2" tvg-logo="-" group-title="Deportes",MX | Espn 2
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/162|User-Agent=mundoplayer
@@ -335,7 +333,7 @@ http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/162|User-Agent=mundoplay
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/165|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="MX | RT Noticias" tvg-logo="-" group-title="Noticias",MX | RT Noticias
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/166|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="MX | Espn 3" tvg-logo="-" group-title="Deportes",MX | Espn 3
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="MX | Espn 3" tvg-logo="-" group-title="Deportes",MX | Espn 3
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/167|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="MX | RT en Espanol" tvg-logo="-" group-title="Noticias",MX | RT en Espanol
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/168|User-Agent=mundoplayer
@@ -361,6 +359,7 @@ http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/177|User-Agent=mundoplay
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/178|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="MX | Telehit" tvg-logo="-" group-title="Musica",MX | Telehit
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/179|User-Agent=mundoplayer
+
 #EXTINF:-1 tvg-id="" tvg-name="MX | TVC" tvg-logo="-" group-title="Noticias",MX | TVC
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/180|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="MX | TVC Deportes" tvg-logo="-" group-title="Deportes",MX | TVC Deportes
@@ -378,13 +377,13 @@ http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/184|User-Agent=mundoplay
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/382|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Sur" tvg-logo="https://www.televisiongratishd.com/img/foxsports3.png" group-title="Deportes",Fox Sports 3 Sur
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/72|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 MX" tvg-logo="https://www.televisiongratishd.com/img/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
+#EXTINF:-1 tvg-id="Fox Sports 2 MX" tvg-name="Fox Sports 2 MX" tvg-logo="https://www.televisiongratishd.com/img/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/74|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Sur" tvg-logo="https://www.televisiongratishd.com/img/foxsports2.png" group-title="Deportes",Fox Sports 2 Sur
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/75|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 Sur" tvg-logo="https://www.televisiongratishd.com/img/foxsports.png" group-title="Deportes",Fox Sports 1 Sur
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/76|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 MX" tvg-logo="https://www.televisiongratishd.com/img/foxsports.png" group-title="Deportes",Fox Sports 1 MX
+#EXTINF:-1 tvg-id="Fox Sports 1 MX" tvg-name="Fox Sports 1 MX" tvg-logo="https://www.televisiongratishd.com/img/foxsports.png" group-title="Deportes",Fox Sports 1 MX
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/77|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="Deportes",Claro Sports
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/27|User-Agent=mundoplayer
@@ -412,7 +411,7 @@ http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/340|User-Agent=mundoplay
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/341|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Estrella tv" tvg-logo="" group-title="Deportes",Estrella tv
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/342|User-Agent=mundoplayer
-#EXTINF:-1 tvg-id="" tvg-name="Bein sports ñ T" tvg-logo="" group-title="Deportes",Bein sports ñ T
+#EXTINF:-1 tvg-id="Bein sports T" tvg-name="Bein sports T" tvg-logo="" group-title="Deportes",Bein sports T
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/343|User-Agent=mundoplayer
 #EXTINF:-1 tvg-id="" tvg-name="Euro Sports 1" tvg-logo="" group-title="Deportes",Euro Sports 1
 http://dominiopersonal.xyz:25464/mundoplayer/Qxwt1vcC9X/344|User-Agent=mundoplayer
