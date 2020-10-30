@@ -100,1969 +100,1921 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/being_sports_en_espanol-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20201027010000 -0600" stop="20201027043000 -0600" channel="MX | Las Estrellas">
+  <programme start="20201030010000 -0600" stop="20201030043000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201027043000 -0600" stop="20201027050000 -0600" channel="MX | Las Estrellas">
+  <programme start="20201030043000 -0600" stop="20201030050000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Especial de R.T.C</title>
   </programme>
-  <programme start="20201027050000 -0600" stop="20201027053000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Paid Programming</title>
+  <programme start="20201030050000 -0600" stop="20201030053000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20201027053000 -0600" stop="20201027060000 -0600" channel="MX | Las Estrellas">
+  <programme start="20201030053000 -0600" stop="20201030060000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Farmacias de similares</title>
   </programme>
-  <programme start="20201027060000 -0600" stop="20201027063000 -0600" channel="MX | Las Estrellas">
+  <programme start="20201030060000 -0600" stop="20201030063000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Las noticias En Vivo</title>
   </programme>
-  <programme start="20201027063000 -0600" stop="20201027080000 -0600" channel="MX | Las Estrellas">
+  <programme start="20201030063000 -0600" stop="20201030080000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Despierta En Vivo</title>
   </programme>
-  <programme start="20201027080000 -0600" stop="20201027090000 -0600" channel="MX | Las Estrellas">
+  <programme start="20201030080000 -0600" stop="20201030090000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Al Aire con Paola Rojas En Vivo</title>
   </programme>
-  <programme start="20201027090000 -0600" stop="20201027120000 -0600" channel="MX | Las Estrellas">
+  <programme start="20201030090000 -0600" stop="20201030120000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Hoy En Vivo</title>
   </programme>
-  <programme start="20201027120000 -0600" stop="20201027133000 -0600" channel="MX | Las Estrellas">
+  <programme start="20201030120000 -0600" stop="20201030133000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Cuentamelo Ya! En Vivo</title>
   </programme>
-  <programme start="20201027133000 -0600" stop="20201027143000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Recuerda y Gana</title>
-  </programme>
-  <programme start="20201027143000 -0600" stop="20201027153000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Corazón Indomable</title>
-  </programme>
-  <programme start="20201027153000 -0600" stop="20201027173000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Soy tu dueña</title>
-  </programme>
-  <programme start="20201027173000 -0600" stop="20201027183000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Como dice el dicho</title>
-  </programme>
-  <programme start="20201027183000 -0600" stop="20201027193000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">La Mexicana y el Güero</title>
-  </programme>
-  <programme start="20201027193000 -0600" stop="20201027203000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">La Rosa de Guadalupe</title>
-  </programme>
-  <programme start="20201027203000 -0600" stop="20201027213000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Vencer el desamor</title>
-  </programme>
-  <programme start="20201027213000 -0600" stop="20201027223000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Imperio de Mentiras</title>
-  </programme>
-  <programme start="20201027223000 -0600" stop="20201027230000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">En Punto Denise Maerker En Vivo</title>
-  </programme>
-  <programme start="20201027230000 -0600" stop="20201027233000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Lorenza bebé a bordo</title>
-  </programme>
-  <programme start="20201027233000 -0600" stop="20201028000000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Contacto deportivo En Vivo</title>
-  </programme>
-  <programme start="20201028133000 -0600" stop="20201028143000 -0600" channel="MX | Las Estrellas">
+  <programme start="20201030133000 -0600" stop="20201030143000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Minuto para ganar VIP</title>
   </programme>
-  <programme start="20201028153000 -0600" stop="20201028173000 -0600" channel="MX | Las Estrellas">
+  <programme start="20201030143000 -0600" stop="20201030153000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Corazón Indomable</title>
+  </programme>
+  <programme start="20201030153000 -0600" stop="20201030173000 -0600" channel="MX | Las Estrellas">
     <title lang="es">Soy tu dueña</title>
   </programme>
-  <programme start="20201028230000 -0600" stop="20201029000000 -0600" channel="MX | Las Estrellas">
-    <title lang="es">Tercer Grado</title>
+  <programme start="20201030173000 -0600" stop="20201030183000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Como dice el dicho</title>
   </programme>
-  <programme start="20201027003500 -0600" stop="20201027022100 -0600" channel="De Película">
-    <title lang="es">El hijo de Pedro Navaja</title>
+  <programme start="20201030183000 -0600" stop="20201030193000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">La Mexicana y el Güero</title>
   </programme>
-  <programme start="20201027022100 -0600" stop="20201027035500 -0600" channel="De Película">
-    <title lang="es">La vida difícil de una mujer</title>
+  <programme start="20201030193000 -0600" stop="20201030203000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">La Rosa de Guadalupe</title>
   </programme>
-  <programme start="20201027035500 -0600" stop="20201027051800 -0600" channel="De Película">
-    <title lang="es">El Deseo Llega De Noche</title>
+  <programme start="20201030203000 -0600" stop="20201030213000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Vencer el desamor</title>
   </programme>
-  <programme start="20201027051800 -0600" stop="20201027064800 -0600" channel="De Película">
-    <title lang="es">El pequeño salvaje</title>
+  <programme start="20201030213000 -0600" stop="20201030223000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Imperio de Mentiras</title>
   </programme>
-  <programme start="20201027064800 -0600" stop="20201027084500 -0600" channel="De Película">
-    <title lang="es">Perfume efecto inmediato</title>
+  <programme start="20201030223000 -0600" stop="20201030230000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
   </programme>
-  <programme start="20201027084500 -0600" stop="20201027104100 -0600" channel="De Película">
-    <title lang="es">El amor de tu vida, S.A</title>
+  <programme start="20201030230000 -0600" stop="20201030233000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Relatos Macabrones</title>
   </programme>
-  <programme start="20201027104100 -0600" stop="20201027131900 -0600" channel="De Película">
-    <title lang="es">Los tres mosqueteros</title>
+  <programme start="20201030233000 -0600" stop="20201031000000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Contacto deportivo En Vivo</title>
   </programme>
-  <programme start="20201027131900 -0600" stop="20201027150000 -0600" channel="De Película">
-    <title lang="es">El médico de las locas</title>
+  <programme start="20201031050000 -0600" stop="20201031060000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Paid Programing</title>
   </programme>
-  <programme start="20201027150000 -0600" stop="20201027155300 -0600" channel="De Película">
+  <programme start="20201031060000 -0600" stop="20201031071500 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20201031071500 -0600" stop="20201031091500 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Cementerio del terror</title>
+  </programme>
+  <programme start="20201031091500 -0600" stop="20201031110000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Cándido de día..Pérez de noche</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031130000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Cuentamelo Ya</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031144500 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Vacaciones de terror</title>
+  </programme>
+  <programme start="20201031144500 -0600" stop="20201031163000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Vacaciones de Terror 2</title>
+  </programme>
+  <programme start="20201031163000 -0600" stop="20201031190000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">¿Quién es la Máscara</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031200000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031203000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Alfombra Premios TV y Novelas</title>
+  </programme>
+  <programme start="20201031203000 -0600" stop="20201031230000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Premios TV y Novelas</title>
+  </programme>
+  <programme start="20201031230000 -0600" stop="20201101000000 -0600" channel="MX | Las Estrellas">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20201030001500 -0600" stop="20201030020200 -0600" channel="De Película">
+    <title lang="es">El Sargento Pérez</title>
+  </programme>
+  <programme start="20201030020200 -0600" stop="20201030035200 -0600" channel="De Película">
+    <title lang="es">Sol en llamas</title>
+  </programme>
+  <programme start="20201030035200 -0600" stop="20201030060100 -0600" channel="De Película">
+    <title lang="es">Angelitos negros (2 ver.)</title>
+  </programme>
+  <programme start="20201030060100 -0600" stop="20201030074600 -0600" channel="De Película">
+    <title lang="es">Ojos tapatios</title>
+  </programme>
+  <programme start="20201030074600 -0600" stop="20201030092900 -0600" channel="De Película">
+    <title lang="es">Simitrio</title>
+  </programme>
+  <programme start="20201030092900 -0600" stop="20201030110900 -0600" channel="De Película">
+    <title lang="es">Ay amor como me has puesto</title>
+  </programme>
+  <programme start="20201030110900 -0600" stop="20201030130900 -0600" channel="De Película">
+    <title lang="es">La mentira (2 ver.)</title>
+  </programme>
+  <programme start="20201030130900 -0600" stop="20201030150000 -0600" channel="De Película">
+    <title lang="es">Los enredos de una gallega</title>
+  </programme>
+  <programme start="20201030150000 -0600" stop="20201030155400 -0600" channel="De Película">
     <title lang="es">Hoy voy a cambiar</title>
   </programme>
-  <programme start="20201027155300 -0600" stop="20201027164200 -0600" channel="De Película">
+  <programme start="20201030155400 -0600" stop="20201030164200 -0600" channel="De Película">
     <title lang="es">Hoy voy a cambiar</title>
   </programme>
-  <programme start="20201027164200 -0600" stop="20201027182700 -0600" channel="De Película">
-    <title lang="es">Benjamin argumedo</title>
+  <programme start="20201030164200 -0600" stop="20201030182000 -0600" channel="De Película">
+    <title lang="es">Acorralados</title>
   </programme>
-  <programme start="20201027182700 -0600" stop="20201027203700 -0600" channel="De Película">
-    <title lang="es">Los tres alegres compadres</title>
+  <programme start="20201030182000 -0600" stop="20201030200000 -0600" channel="De Película">
+    <title lang="es">Ambición sangrienta</title>
   </programme>
-  <programme start="20201027203700 -0600" stop="20201027224200 -0600" channel="De Película">
-    <title lang="es">Conejo en la Luna</title>
+  <programme start="20201030200000 -0600" stop="20201030214400 -0600" channel="De Película">
+    <title lang="es">Viernes de ánimas</title>
   </programme>
-  <programme start="20201027224200 -0600" stop="20201028000800 -0600" channel="De Película">
-    <title lang="es">Contrabando y muerte</title>
+  <programme start="20201030214400 -0600" stop="20201030232200 -0600" channel="De Película">
+    <title lang="es">¡Qué Vivan los Muertos</title>
   </programme>
-  <programme start="20201028000800 -0600" stop="20201028020000 -0600" channel="De Película">
-    <title lang="es">La Loteria</title>
+  <programme start="20201030232200 -0600" stop="20201031010400 -0600" channel="De Película">
+    <title lang="es">Vividores de mujeres</title>
   </programme>
-  <programme start="20201028020000 -0600" stop="20201028041500 -0600" channel="De Película">
-    <title lang="es">Mi Campeón</title>
+  <programme start="20201031232200 -0600" stop="20201101010400 -0600" channel="De Película">
+    <title lang="es">Vividores de mujeres</title>
   </programme>
-  <programme start="20201028041500 -0600" stop="20201028054400 -0600" channel="De Película">
-    <title lang="es">Para usted jefa</title>
+  <programme start="20201101010400 -0600" stop="20201101024300 -0600" channel="De Película">
+    <title lang="es">La crisis me da risa</title>
   </programme>
-  <programme start="20201028054400 -0600" stop="20201028074400 -0600" channel="De Película">
-    <title lang="es">Viva la Juventud</title>
+  <programme start="20201101024300 -0600" stop="20201101050100 -0600" channel="De Película">
+    <title lang="es">El ángel negro</title>
   </programme>
-  <programme start="20201028074400 -0600" stop="20201028094100 -0600" channel="De Película">
-    <title lang="es">Mamá soy Paquito</title>
+  <programme start="20201101050100 -0600" stop="20201101063800 -0600" channel="De Película">
+    <title lang="es">Vuelven</title>
   </programme>
-  <programme start="20201028094100 -0600" stop="20201028113200 -0600" channel="De Película">
-    <title lang="es">Los reyes del palenque</title>
+  <programme start="20201101063800 -0600" stop="20201101081400 -0600" channel="De Película">
+    <title lang="es">Carita de primavera</title>
   </programme>
-  <programme start="20201028113200 -0600" stop="20201028132100 -0600" channel="De Película">
-    <title lang="es">El Satiro</title>
+  <programme start="20201101081400 -0600" stop="20201101095300 -0600" channel="De Película">
+    <title lang="es">Santo y Blue Demon en</title>
   </programme>
-  <programme start="20201028132100 -0600" stop="20201028150000 -0600" channel="De Película">
-    <title lang="es">Modisto de señoras</title>
+  <programme start="20201101095300 -0600" stop="20201101113800 -0600" channel="De Película">
+    <title lang="es">El Pecado de una madre</title>
   </programme>
-  <programme start="20201028150000 -0600" stop="20201028155400 -0600" channel="De Película">
-    <title lang="es">Hoy voy a cambiar</title>
+  <programme start="20201101113800 -0600" stop="20201101132700 -0600" channel="De Película">
+    <title lang="es">El padre pistolas</title>
   </programme>
-  <programme start="20201028155400 -0600" stop="20201028164600 -0600" channel="De Película">
-    <title lang="es">Hoy voy a cambiar</title>
+  <programme start="20201101132700 -0600" stop="20201101151400 -0600" channel="De Película">
+    <title lang="es">El amor no es pecado</title>
   </programme>
-  <programme start="20201028164600 -0600" stop="20201028184100 -0600" channel="De Película">
-    <title lang="es">El Fugitivo</title>
+  <programme start="20201101151400 -0600" stop="20201101173000 -0600" channel="De Película">
+    <title lang="es">El señor doctor</title>
   </programme>
-  <programme start="20201028184100 -0600" stop="20201028202300 -0600" channel="De Película">
-    <title lang="es">El gran triunfo</title>
+  <programme start="20201101173000 -0600" stop="20201101192800 -0600" channel="De Película">
+    <title lang="es">El Cielo y la tierra</title>
   </programme>
-  <programme start="20201028202300 -0600" stop="20201028215000 -0600" channel="De Película">
-    <title lang="es">Muertos de risa</title>
+  <programme start="20201101192800 -0600" stop="20201101212400 -0600" channel="De Película">
+    <title lang="es">Regresa</title>
   </programme>
-  <programme start="20201028215000 -0600" stop="20201028233500 -0600" channel="De Película">
-    <title lang="es">Para servir a usted</title>
+  <programme start="20201101212400 -0600" stop="20201101234100 -0600" channel="De Película">
+    <title lang="es">El señor doctor</title>
   </programme>
-  <programme start="20201028233500 -0600" stop="20201029013000 -0600" channel="De Película">
-    <title lang="es">El Fugitivo</title>
+  <programme start="20201101234100 -0600" stop="20201102013500 -0600" channel="De Película">
+    <title lang="es">Lagunilla 2</title>
   </programme>
-  <programme start="20201027014500 -0600" stop="20201027033000 -0600" channel="De Pelicula Plus">
-    <title lang="es">El río y la muerte</title>
+  <programme start="20201030013500 -0600" stop="20201030034000 -0600" channel="De Pelicula Plus">
+    <title lang="es">Cuando me vaya</title>
   </programme>
-  <programme start="20201027033000 -0600" stop="20201027054500 -0600" channel="De Pelicula Plus">
-    <title lang="es">El joven Juárez</title>
+  <programme start="20201030034000 -0600" stop="20201030054500 -0600" channel="De Pelicula Plus">
+    <title lang="es">Noches de ronda</title>
   </programme>
-  <programme start="20201027054500 -0600" stop="20201027061500 -0600" channel="De Pelicula Plus">
+  <programme start="20201030054500 -0600" stop="20201030061500 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201027061500 -0600" stop="20201027064500 -0600" channel="De Pelicula Plus">
+  <programme start="20201030061500 -0600" stop="20201030064500 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201027064500 -0600" stop="20201027071500 -0600" channel="De Pelicula Plus">
+  <programme start="20201030064500 -0600" stop="20201030071500 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201027071500 -0600" stop="20201027074500 -0600" channel="De Pelicula Plus">
+  <programme start="20201030071500 -0600" stop="20201030074500 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201027074500 -0600" stop="20201027101500 -0600" channel="De Pelicula Plus">
-    <title lang="es">Doña Barbara</title>
+  <programme start="20201030074500 -0600" stop="20201030091500 -0600" channel="De Pelicula Plus">
+    <title lang="es">El jinete solitario</title>
   </programme>
-  <programme start="20201027101500 -0600" stop="20201027120500 -0600" channel="De Pelicula Plus">
-    <title lang="es">La Trepadora</title>
+  <programme start="20201030091500 -0600" stop="20201030110000 -0600" channel="De Pelicula Plus">
+    <title lang="es">Lástima de ropa</title>
   </programme>
-  <programme start="20201027120500 -0600" stop="20201027123500 -0600" channel="De Pelicula Plus">
+  <programme start="20201030110000 -0600" stop="20201030113000 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201027123500 -0600" stop="20201027130500 -0600" channel="De Pelicula Plus">
+  <programme start="20201030113000 -0600" stop="20201030120000 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201027130500 -0600" stop="20201027145000 -0600" channel="De Pelicula Plus">
-    <title lang="es">Yo quiero ser hombre</title>
+  <programme start="20201030120000 -0600" stop="20201030133000 -0600" channel="De Pelicula Plus">
+    <title lang="es">La mujer ajena</title>
   </programme>
-  <programme start="20201027145000 -0600" stop="20201027172000 -0600" channel="De Pelicula Plus">
-    <title lang="es">Doña Barbara</title>
+  <programme start="20201030133000 -0600" stop="20201030150000 -0600" channel="De Pelicula Plus">
+    <title lang="es">El jinete solitario</title>
   </programme>
-  <programme start="20201027172000 -0600" stop="20201027191000 -0600" channel="De Pelicula Plus">
-    <title lang="es">La Trepadora</title>
+  <programme start="20201030150000 -0600" stop="20201030164500 -0600" channel="De Pelicula Plus">
+    <title lang="es">Lástima de ropa</title>
   </programme>
-  <programme start="20201027191000 -0600" stop="20201027210500 -0600" channel="De Pelicula Plus">
-    <title lang="es">Calibre 44</title>
+  <programme start="20201030164500 -0600" stop="20201030182000 -0600" channel="De Pelicula Plus">
+    <title lang="es">Padre contra hijo</title>
   </programme>
-  <programme start="20201027210500 -0600" stop="20201027225500 -0600" channel="De Pelicula Plus">
-    <title lang="es">El bracero del año</title>
+  <programme start="20201030182000 -0600" stop="20201030201000 -0600" channel="De Pelicula Plus">
+    <title lang="es">El medallón del crimen</title>
   </programme>
-  <programme start="20201027225500 -0600" stop="20201028003500 -0600" channel="De Pelicula Plus">
-    <title lang="es">Frente al pecado de ayer</title>
+  <programme start="20201030201000 -0600" stop="20201030214500 -0600" channel="De Pelicula Plus">
+    <title lang="es">El Pequeño Salvaje y los Piratas</title>
   </programme>
-  <programme start="20201028003500 -0600" stop="20201028023000 -0600" channel="De Pelicula Plus">
-    <title lang="es">Calibre 44</title>
+  <programme start="20201030214500 -0600" stop="20201030232000 -0600" channel="De Pelicula Plus">
+    <title lang="es">Padre contra hijo</title>
   </programme>
-  <programme start="20201028023000 -0600" stop="20201028042000 -0600" channel="De Pelicula Plus">
-    <title lang="es">El bracero del año</title>
+  <programme start="20201030232000 -0600" stop="20201031010000 -0600" channel="De Pelicula Plus">
+    <title lang="es">El Suavecito</title>
   </programme>
-  <programme start="20201028042000 -0600" stop="20201028060000 -0600" channel="De Pelicula Plus">
-    <title lang="es">Frente al pecado de ayer</title>
-  </programme>
-  <programme start="20201028060000 -0600" stop="20201028063000 -0600" channel="De Pelicula Plus">
+  <programme start="20201031010000 -0600" stop="20201031013000 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201028063000 -0600" stop="20201028070000 -0600" channel="De Pelicula Plus">
+  <programme start="20201031013000 -0600" stop="20201031020000 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201028070000 -0600" stop="20201028073000 -0600" channel="De Pelicula Plus">
+  <programme start="20201031020000 -0600" stop="20201031034500 -0600" channel="De Pelicula Plus">
+    <title lang="es">México de mi corazón</title>
+  </programme>
+  <programme start="20201031034500 -0600" stop="20201031050000 -0600" channel="De Pelicula Plus">
+    <title lang="es">La Valentina</title>
+  </programme>
+  <programme start="20201031050000 -0600" stop="20201031053000 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201028073000 -0600" stop="20201028080000 -0600" channel="De Pelicula Plus">
+  <programme start="20201031053000 -0600" stop="20201031060000 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201028080000 -0600" stop="20201028095500 -0600" channel="De Pelicula Plus">
-    <title lang="es">Teresa</title>
-  </programme>
-  <programme start="20201028095500 -0600" stop="20201028114000 -0600" channel="De Pelicula Plus">
-    <title lang="es">El Rayo de Sinaloa: La venganza de Heraclio Bernal</title>
-  </programme>
-  <programme start="20201028114000 -0600" stop="20201028121000 -0600" channel="De Pelicula Plus">
+  <programme start="20201031060000 -0600" stop="20201031063000 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201028121000 -0600" stop="20201028124000 -0600" channel="De Pelicula Plus">
+  <programme start="20201031063000 -0600" stop="20201031070000 -0600" channel="De Pelicula Plus">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201028124000 -0600" stop="20201028141000 -0600" channel="De Pelicula Plus">
-    <title lang="es">El campeón ciclista</title>
+  <programme start="20201031070000 -0600" stop="20201031073000 -0600" channel="De Pelicula Plus">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201028141000 -0600" stop="20201028160500 -0600" channel="De Pelicula Plus">
-    <title lang="es">Teresa</title>
+  <programme start="20201031073000 -0600" stop="20201031080000 -0600" channel="De Pelicula Plus">
+    <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201028160500 -0600" stop="20201028175000 -0600" channel="De Pelicula Plus">
-    <title lang="es">El Rayo de Sinaloa: La venganza de Heraclio Bernal</title>
+  <programme start="20201031080000 -0600" stop="20201031094000 -0600" channel="De Pelicula Plus">
+    <title lang="es">La comezón del amor</title>
   </programme>
-  <programme start="20201028175000 -0600" stop="20201028193500 -0600" channel="De Pelicula Plus">
-    <title lang="es">El tragabalas</title>
+  <programme start="20201031094000 -0600" stop="20201031112000 -0600" channel="De Pelicula Plus">
+    <title lang="es">El tigre de Guanajuato</title>
   </programme>
-  <programme start="20201028193500 -0600" stop="20201028211500 -0600" channel="De Pelicula Plus">
-    <title lang="es">Tierra Brava</title>
+  <programme start="20201031112000 -0600" stop="20201031130000 -0600" channel="De Pelicula Plus">
+    <title lang="es">Seis días para morir</title>
   </programme>
-  <programme start="20201028211500 -0600" stop="20201028231000 -0600" channel="De Pelicula Plus">
-    <title lang="es">La dama del velo</title>
+  <programme start="20201031130000 -0600" stop="20201031144000 -0600" channel="De Pelicula Plus">
+    <title lang="es">La comezón del amor</title>
   </programme>
-  <programme start="20201028231000 -0600" stop="20201029005500 -0600" channel="De Pelicula Plus">
-    <title lang="es">El tragabalas</title>
+  <programme start="20201031144000 -0600" stop="20201031162000 -0600" channel="De Pelicula Plus">
+    <title lang="es">El tigre de Guanajuato</title>
   </programme>
-  <programme start="20201027010000 -0600" stop="20201027030000 -0600" channel="MX | Espn">
-    <title lang="es">Barcelona vs. Ferencváros</title>
+  <programme start="20201031162000 -0600" stop="20201031180000 -0600" channel="De Pelicula Plus">
+    <title lang="es">Seis días para morir</title>
   </programme>
-  <programme start="20201027030000 -0600" stop="20201027040000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201031180000 -0600" stop="20201031194000 -0600" channel="De Pelicula Plus">
+    <title lang="es">La Panchita</title>
   </programme>
-  <programme start="20201027040000 -0600" stop="20201027050000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201031194000 -0600" stop="20201031212000 -0600" channel="De Pelicula Plus">
+    <title lang="es">La llamada de la muerte</title>
   </programme>
-  <programme start="20201027050000 -0600" stop="20201027060000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201031212000 -0600" stop="20201031231000 -0600" channel="De Pelicula Plus">
+    <title lang="es">Torero por un día</title>
   </programme>
-  <programme start="20201027060000 -0600" stop="20201027070000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201031231000 -0600" stop="20201101010000 -0600" channel="De Pelicula Plus">
+    <title lang="es">El asesino invisible</title>
   </programme>
-  <programme start="20201027070000 -0600" stop="20201027103000 -0600" channel="MX | Espn">
-    <title lang="es">Erste BankOpen 500</title>
-  </programme>
-  <programme start="20201027103000 -0600" stop="20201027110000 -0600" channel="MX | Espn">
-    <title lang="es">NBA esta noche</title>
-  </programme>
-  <programme start="20201027110000 -0600" stop="20201027130000 -0600" channel="MX | Espn">
-    <title lang="es">Gervonta Davis vs. Leo Santa</title>
-  </programme>
-  <programme start="20201027130000 -0600" stop="20201027134500 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201027134500 -0600" stop="20201027160000 -0600" channel="MX | Espn">
-    <title lang="es">Atalanta vs. Ajax</title>
-  </programme>
-  <programme start="20201027160000 -0600" stop="20201027170000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201027170000 -0600" stop="20201027180000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201027180000 -0600" stop="20201027210000 -0600" channel="MX | Espn">
-    <title lang="es">Rays vs. Dodgers</title>
-  </programme>
-  <programme start="20201027210000 -0600" stop="20201027220000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201027220000 -0600" stop="20201027230000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201027230000 -0600" stop="20201028000000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201028010000 -0600" stop="20201028040000 -0600" channel="MX | Espn">
+  <programme start="20201030010000 -0600" stop="20201030040000 -0600" channel="MX | Espn">
     <title lang="es">Barça TV</title>
   </programme>
-  <programme start="20201028040000 -0600" stop="20201028050000 -0600" channel="MX | Espn">
+  <programme start="20201030040000 -0600" stop="20201030043000 -0600" channel="MX | Espn">
+    <title lang="es">Planet Speed</title>
+  </programme>
+  <programme start="20201030043000 -0600" stop="20201030050000 -0600" channel="MX | Espn">
+    <title lang="es">ATP World Tour Uncovered</title>
+  </programme>
+  <programme start="20201030050000 -0600" stop="20201030060000 -0600" channel="MX | Espn">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20201028050000 -0600" stop="20201028060000 -0600" channel="MX | Espn">
+  <programme start="20201030060000 -0600" stop="20201030070000 -0600" channel="MX | Espn">
     <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20201028060000 -0600" stop="20201028070000 -0600" channel="MX | Espn">
-    <title lang="es">Italian Serie A Highlights</title>
-  </programme>
-  <programme start="20201028070000 -0600" stop="20201028103000 -0600" channel="MX | Espn">
+  <programme start="20201030070000 -0600" stop="20201030103000 -0600" channel="MX | Espn">
     <title lang="es">Erste BankOpen 500</title>
   </programme>
-  <programme start="20201028103000 -0600" stop="20201028110000 -0600" channel="MX | Espn">
-    <title lang="es">Football's Greatest</title>
-  </programme>
-  <programme start="20201028110000 -0600" stop="20201028114500 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201028114500 -0600" stop="20201028135000 -0600" channel="MX | Espn">
+  <programme start="20201030103000 -0600" stop="20201030123000 -0600" channel="MX | Espn">
     <title lang="es">Krasnodar vs. Chelsea</title>
   </programme>
-  <programme start="20201028135000 -0600" stop="20201028160000 -0600" channel="MX | Espn">
-    <title lang="es">Borussia Dortmund vs. Zenit</title>
+  <programme start="20201030123000 -0600" stop="20201030130000 -0600" channel="MX | Espn">
+    <title lang="es">Inside Serie A</title>
   </programme>
-  <programme start="20201028160000 -0600" stop="20201028170000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
+  <programme start="20201030130000 -0600" stop="20201030140000 -0600" channel="MX | Espn">
+    <title lang="es">French Ligue 1 Highlights</title>
   </programme>
-  <programme start="20201028170000 -0600" stop="20201028180000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201028180000 -0600" stop="20201028210000 -0600" channel="MX | Espn">
-    <title lang="es">Rays vs. Dodgers</title>
-  </programme>
-  <programme start="20201028210000 -0600" stop="20201028220000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201028220000 -0600" stop="20201028230000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201028230000 -0600" stop="20201029000000 -0600" channel="MX | Espn">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201027010000 -0600" stop="20201027020000 -0600" channel="ESPN Dos">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201027020000 -0600" stop="20201027030000 -0600" channel="ESPN Dos">
-    <title lang="es">Futbol Picante</title>
-  </programme>
-  <programme start="20201027030000 -0600" stop="20201027050000 -0600" channel="ESPN Dos">
-    <title lang="es">Sporting vs. Rapids</title>
-  </programme>
-  <programme start="20201027050000 -0600" stop="20201027060000 -0600" channel="ESPN Dos">
-    <title lang="es">Futbol Picante</title>
-  </programme>
-  <programme start="20201027060000 -0600" stop="20201027070000 -0600" channel="ESPN Dos">
-    <title lang="es">ESPN Knockout</title>
-  </programme>
-  <programme start="20201027070000 -0600" stop="20201027073000 -0600" channel="ESPN Dos">
-    <title lang="es">ESPN Run</title>
-  </programme>
-  <programme start="20201027073000 -0600" stop="20201027080000 -0600" channel="ESPN Dos">
-    <title lang="es">ESPN Run</title>
-  </programme>
-  <programme start="20201027080000 -0600" stop="20201027090000 -0600" channel="ESPN Dos">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201027090000 -0600" stop="20201027110000 -0600" channel="ESPN Dos">
-    <title lang="es">Bears vs. Rams</title>
-  </programme>
-  <programme start="20201027110000 -0600" stop="20201027114500 -0600" channel="ESPN Dos">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201027114500 -0600" stop="20201027135000 -0600" channel="ESPN Dos">
-    <title lang="es">Moscow vs. Bayern Munich</title>
-  </programme>
-  <programme start="20201027135000 -0600" stop="20201027160000 -0600" channel="ESPN Dos">
-    <title lang="es">Monchengladbach vs. Real Madrid</title>
-  </programme>
-  <programme start="20201027160000 -0600" stop="20201027170000 -0600" channel="ESPN Dos">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201027170000 -0600" stop="20201027190000 -0600" channel="ESPN Dos">
-    <title lang="es">Atalanta vs. Ajax</title>
-  </programme>
-  <programme start="20201027190000 -0600" stop="20201027210000 -0600" channel="ESPN Dos">
-    <title lang="es">Monchengladbach vs. Real Madrid</title>
-  </programme>
-  <programme start="20201027210000 -0600" stop="20201027220000 -0600" channel="ESPN Dos">
-    <title lang="es">SportsCenter</title>
-  </programme>
-  <programme start="20201027220000 -0600" stop="20201027230000 -0600" channel="ESPN Dos">
-    <title lang="es">Futbol Picante</title>
-  </programme>
-  <programme start="20201027230000 -0600" stop="20201028000000 -0600" channel="ESPN Dos">
-    <title lang="es">Futbol Picante</title>
-  </programme>
-  <programme start="20201028030000 -0600" stop="20201028050000 -0600" channel="ESPN Dos">
-    <title lang="es">Liverpool vs. Midtjylland</title>
-  </programme>
-  <programme start="20201028060000 -0600" stop="20201028070000 -0600" channel="ESPN Dos">
-    <title lang="es">Italian Serie A Highlights</title>
-  </programme>
-  <programme start="20201028070000 -0600" stop="20201028080000 -0600" channel="ESPN Dos">
-    <title lang="es">Espn Tenis</title>
-  </programme>
-  <programme start="20201028080000 -0600" stop="20201028110000 -0600" channel="ESPN Dos">
-    <title lang="es">Barça TV</title>
-  </programme>
-  <programme start="20201028114500 -0600" stop="20201028135000 -0600" channel="ESPN Dos">
-    <title lang="es">Istanbul Basaksehir vs. Paris Saint-Germain</title>
-  </programme>
-  <programme start="20201028135000 -0600" stop="20201028160000 -0600" channel="ESPN Dos">
-    <title lang="es">Club Brugge vs. Lazio</title>
-  </programme>
-  <programme start="20201028170000 -0600" stop="20201028173000 -0600" channel="ESPN Dos">
-    <title lang="es">NBA esta noche</title>
-  </programme>
-  <programme start="20201028173000 -0600" stop="20201028174500 -0600" channel="ESPN Dos">
-    <title lang="es">Major League Soccer Highlights</title>
-  </programme>
-  <programme start="20201028174500 -0600" stop="20201028200000 -0600" channel="ESPN Dos">
-    <title lang="es">Orlando City SC vs. Atlanta U</title>
-  </programme>
-  <programme start="20201028200000 -0600" stop="20201028220000 -0600" channel="ESPN Dos">
+  <programme start="20201030140000 -0600" stop="20201030160000 -0600" channel="MX | Espn">
     <title lang="es">Portland Timbers vs. LA Galaxy</title>
   </programme>
-  <programme start="20201028220000 -0600" stop="20201028230000 -0600" channel="ESPN Dos">
+  <programme start="20201030160000 -0600" stop="20201030163000 -0600" channel="MX | Espn">
+    <title lang="es">Major League Soccer Highlights</title>
+  </programme>
+  <programme start="20201030163000 -0600" stop="20201030170000 -0600" channel="MX | Espn">
+    <title lang="es">Football's Greatest</title>
+  </programme>
+  <programme start="20201030170000 -0600" stop="20201030180000 -0600" channel="MX | Espn">
+    <title lang="es">NFL Live desde México</title>
+  </programme>
+  <programme start="20201030180000 -0600" stop="20201030210000 -0600" channel="MX | Espn">
+    <title lang="es">Munguia vs. Johnson</title>
+  </programme>
+  <programme start="20201030210000 -0600" stop="20201030220000 -0600" channel="MX | Espn">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201030220000 -0600" stop="20201030230000 -0600" channel="MX | Espn">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201030230000 -0600" stop="20201030233000 -0600" channel="MX | Espn">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201030233000 -0600" stop="20201031003000 -0600" channel="MX | Espn">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201031003000 -0600" stop="20201031013000 -0600" channel="MX | Espn">
     <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20201028230000 -0600" stop="20201029000000 -0600" channel="ESPN Dos">
+  <programme start="20201031013000 -0600" stop="20201031020000 -0600" channel="MX | Espn">
+    <title lang="es">Major League Soccer Highlights</title>
+  </programme>
+  <programme start="20201031020000 -0600" stop="20201031030000 -0600" channel="MX | Espn">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201031030000 -0600" stop="20201031040000 -0600" channel="MX | Espn">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201031040000 -0600" stop="20201031050000 -0600" channel="MX | Espn">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201031103000 -0600" stop="20201031105000 -0600" channel="MX | Espn">
+    <title lang="es">UEFA Champions League Weekly</title>
+  </programme>
+  <programme start="20201031105000 -0600" stop="20201031130000 -0600" channel="MX | Espn">
+    <title lang="es">Inter vs. Parma</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031150000 -0600" channel="MX | Espn">
+    <title lang="es">Usyk vs. Chisora</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031170000 -0600" channel="MX | Espn">
+    <title lang="es">Usyk vs. Chisora</title>
+  </programme>
+  <programme start="20201031170000 -0600" stop="20201031180000 -0600" channel="MX | Espn">
+    <title lang="es">Usyk vs. Chisora</title>
+  </programme>
+  <programme start="20201031180000 -0600" stop="20201031190000 -0600" channel="MX | Espn">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031220000 -0600" channel="MX | Espn">
+    <title lang="es">Davis vs. Santa Cruz</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201101000000 -0600" channel="MX | Espn">
+    <title lang="es">UEFA CL Highlights</title>
+  </programme>
+  <programme start="20201030010000 -0600" stop="20201030020000 -0600" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201030020000 -0600" stop="20201030030000 -0600" channel="ESPN Dos">
     <title lang="es">Futbol Picante</title>
   </programme>
-  <programme start="20201027020000 -0600" stop="20201027033000 -0600" channel="ESPN 3">
-    <title lang="es">Campeonato mundial de MotoGP</title>
+  <programme start="20201030030000 -0600" stop="20201030050000 -0600" channel="ESPN Dos">
+    <title lang="es">Atlético San Luis vs. Mazatlán</title>
   </programme>
-  <programme start="20201027033000 -0600" stop="20201027040000 -0600" channel="ESPN 3">
-    <title lang="es">NBA Tonight</title>
+  <programme start="20201030050000 -0600" stop="20201030070000 -0600" channel="ESPN Dos">
+    <title lang="es">Borussia Dortmund vs. Zenit</title>
   </programme>
-  <programme start="20201027040000 -0600" stop="20201027060000 -0600" channel="ESPN 3">
-    <title lang="es">Vitesse vs. PSV Eindhoven</title>
+  <programme start="20201030070000 -0600" stop="20201030073000 -0600" channel="ESPN Dos">
+    <title lang="es">Planet Speed</title>
   </programme>
-  <programme start="20201027060000 -0600" stop="20201027080000 -0600" channel="ESPN 3">
-    <title lang="es">Get Up En Vivo</title>
+  <programme start="20201030073000 -0600" stop="20201030080000 -0600" channel="ESPN Dos">
+    <title lang="es">ATP World Tour Uncovered</title>
   </programme>
-  <programme start="20201027080000 -0600" stop="20201027083000 -0600" channel="ESPN 3">
-    <title lang="es">ESPN Bike</title>
+  <programme start="20201030080000 -0600" stop="20201030090000 -0600" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
   </programme>
-  <programme start="20201027083000 -0600" stop="20201027103000 -0600" channel="ESPN 3">
-    <title lang="es">Vuelta a España 2020 En Vivo</title>
+  <programme start="20201030090000 -0600" stop="20201030103000 -0600" channel="ESPN Dos">
+    <title lang="es">Earthquakes vs. Real Salt Lake</title>
   </programme>
-  <programme start="20201027103000 -0600" stop="20201027113000 -0600" channel="ESPN 3">
+  <programme start="20201030103000 -0600" stop="20201030120000 -0600" channel="ESPN Dos">
+    <title lang="es">FC Dallas vs. Inter Miami CF</title>
+  </programme>
+  <programme start="20201030120000 -0600" stop="20201030140000 -0600" channel="ESPN Dos">
+    <title lang="es">Shakhtar Donetsk vs. Inter</title>
+  </programme>
+  <programme start="20201030140000 -0600" stop="20201030160000 -0600" channel="ESPN Dos">
+    <title lang="es">Atlético de Madrid vs. Salzburg</title>
+  </programme>
+  <programme start="20201030160000 -0600" stop="20201030170000 -0600" channel="ESPN Dos">
+    <title lang="es">ESPN Knockout</title>
+  </programme>
+  <programme start="20201030170000 -0600" stop="20201030190000 -0600" channel="ESPN Dos">
+    <title lang="es">Monchengladbach vs. Real Madrid</title>
+  </programme>
+  <programme start="20201030190000 -0600" stop="20201030210000 -0600" channel="ESPN Dos">
+    <title lang="es">Juventus vs. Barcelona</title>
+  </programme>
+  <programme start="20201030210000 -0600" stop="20201030212000 -0600" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201030212000 -0600" stop="20201030233000 -0600" channel="ESPN Dos">
+    <title lang="es">FC Juárez vs. Querétaro</title>
+  </programme>
+  <programme start="20201030233000 -0600" stop="20201031003000 -0600" channel="ESPN Dos">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201031233000 -0600" stop="20201101003000 -0600" channel="ESPN Dos">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201101003000 -0600" stop="20201101013000 -0600" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201101013000 -0600" stop="20201101023000 -0600" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201101023000 -0600" stop="20201101030000 -0600" channel="ESPN Dos">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201101030000 -0600" stop="20201101050000 -0600" channel="ESPN Dos">
+    <title lang="es">Jaime Munguia vs. Tureano Joh</title>
+  </programme>
+  <programme start="20201101050000 -0600" stop="20201101060000 -0600" channel="ESPN Dos">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201101060000 -0600" stop="20201101070000 -0600" channel="ESPN Dos">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201101070000 -0600" stop="20201101075000 -0600" channel="ESPN Dos">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20201101075000 -0600" stop="20201101100000 -0600" channel="ESPN Dos">
+    <title lang="es">Crotone vs. Atalanta</title>
+  </programme>
+  <programme start="20201101100000 -0600" stop="20201101120000 -0600" channel="ESPN Dos">
+    <title lang="es">Juventus vs. Barcelona</title>
+  </programme>
+  <programme start="20201101120000 -0600" stop="20201101135000 -0600" channel="ESPN Dos">
+    <title lang="es">Monchengladbach vs. Real Madrid</title>
+  </programme>
+  <programme start="20201101135000 -0600" stop="20201101160000 -0600" channel="ESPN Dos">
+    <title lang="es">Nantes vs. Paris Saint-Germain</title>
+  </programme>
+  <programme start="20201101160000 -0600" stop="20201101173000 -0600" channel="ESPN Dos">
+    <title lang="es">Atalanta vs. Ajax</title>
+  </programme>
+  <programme start="20201101173000 -0600" stop="20201101190000 -0600" channel="ESPN Dos">
+    <title lang="es">Atlético de Madrid vs. Salzburg</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101210000 -0600" channel="ESPN Dos">
+    <title lang="es">Inter vs. Parma</title>
+  </programme>
+  <programme start="20201101210000 -0600" stop="20201101220000 -0600" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201101220000 -0600" stop="20201102000000 -0600" channel="ESPN Dos">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20201030010000 -0600" stop="20201030023000 -0600" channel="ESPN 3">
+    <title lang="es">LA Galaxy vs. Portland Timbers</title>
+  </programme>
+  <programme start="20201030023000 -0600" stop="20201030032500 -0600" channel="ESPN 3">
     <title lang="es">NFL Compacts</title>
   </programme>
-  <programme start="20201027113000 -0600" stop="20201027131500 -0600" channel="ESPN 3">
-    <title lang="es">Bears vs. Los Angeles Rams</title>
-  </programme>
-  <programme start="20201027131500 -0600" stop="20201027134500 -0600" channel="ESPN 3">
-    <title lang="es">ESPN Run</title>
-  </programme>
-  <programme start="20201027134500 -0600" stop="20201027160000 -0600" channel="ESPN 3">
-    <title lang="es">Liverpool vs. Midtjylland En Vivo</title>
-  </programme>
-  <programme start="20201027160000 -0600" stop="20201027170000 -0600" channel="ESPN 3">
-    <title lang="es">Serie A 2020-2021: Juventus vs. Hellas Verona</title>
-  </programme>
-  <programme start="20201027170000 -0600" stop="20201027190000 -0600" channel="ESPN 3">
-    <title lang="es">Nashville SC vs. Montreal Impact En Vivo</title>
-  </programme>
-  <programme start="20201027190000 -0600" stop="20201027200000 -0600" channel="ESPN 3">
-    <title lang="es">NFL Live</title>
-  </programme>
-  <programme start="20201027200000 -0600" stop="20201027220000 -0600" channel="ESPN 3">
-    <title lang="es">Seattle Sounders FC vs. Vancouver Whitecaps FC En Vivo</title>
-  </programme>
-  <programme start="20201027220000 -0600" stop="20201027230000 -0600" channel="ESPN 3">
-    <title lang="es">Goles de la UEFA Champions League</title>
-  </programme>
-  <programme start="20201027230000 -0600" stop="20201027233000 -0600" channel="ESPN 3">
-    <title lang="es">Ciclismo</title>
-  </programme>
-  <programme start="20201027233000 -0600" stop="20201028000000 -0600" channel="ESPN 3">
-    <title lang="es">ESPN Bike</title>
-  </programme>
-  <programme start="20201028000000 -0600" stop="20201028020000 -0600" channel="ESPN 3">
-    <title lang="es">Liverpool vs. Midtjylland</title>
-  </programme>
-  <programme start="20201028020000 -0600" stop="20201028032500 -0600" channel="ESPN 3">
-    <title lang="es">Seattle Sounders FC vs. Vancouver Whitecaps FC</title>
-  </programme>
-  <programme start="20201028032500 -0600" stop="20201028063000 -0600" channel="ESPN 3">
+  <programme start="20201030032500 -0600" stop="20201030063000 -0600" channel="ESPN 3">
     <title lang="es">Béisbol KBO En Vivo</title>
   </programme>
-  <programme start="20201028063000 -0600" stop="20201028080000 -0600" channel="ESPN 3">
-    <title lang="es">Get Up En Vivo</title>
+  <programme start="20201030063000 -0600" stop="20201030080000 -0600" channel="ESPN 3">
+    <title lang="es">Get Up! En Vivo</title>
   </programme>
-  <programme start="20201028080000 -0600" stop="20201028083000 -0600" channel="ESPN 3">
-    <title lang="es">ESPN Bike</title>
+  <programme start="20201030080000 -0600" stop="20201030083000 -0600" channel="ESPN 3">
+    <title lang="es">MLS Highlights</title>
   </programme>
-  <programme start="20201028083000 -0600" stop="20201028103000 -0600" channel="ESPN 3">
+  <programme start="20201030083000 -0600" stop="20201030103000 -0600" channel="ESPN 3">
     <title lang="es">Vuelta a España 2020 En Vivo</title>
   </programme>
-  <programme start="20201028103000 -0600" stop="20201028113000 -0600" channel="ESPN 3">
-    <title lang="es">NFL Compacts</title>
+  <programme start="20201030103000 -0600" stop="20201030110000 -0600" channel="ESPN 3">
+    <title lang="es">NFL films presents</title>
   </programme>
-  <programme start="20201028113000 -0600" stop="20201028130000 -0600" channel="ESPN 3">
-    <title lang="es">30 for 30</title>
+  <programme start="20201030110000 -0600" stop="20201030130000 -0600" channel="ESPN 3">
+    <title lang="es">Voleibol Universitario Femenino</title>
   </programme>
-  <programme start="20201028130000 -0600" stop="20201028150000 -0600" channel="ESPN 3">
-    <title lang="es">30 for 30</title>
+  <programme start="20201030130000 -0600" stop="20201030140000 -0600" channel="ESPN 3">
+    <title lang="es">NBA The Jump En Vivo</title>
   </programme>
-  <programme start="20201028150000 -0600" stop="20201028165500 -0600" channel="ESPN 3">
-    <title lang="es">30 for 30</title>
+  <programme start="20201030140000 -0600" stop="20201030150000 -0600" channel="ESPN 3">
+    <title lang="es">NFL Live En Vivo</title>
   </programme>
-  <programme start="20201028165500 -0600" stop="20201028185500 -0600" channel="ESPN 3">
-    <title lang="es">Celaya vs. Venados En Vivo</title>
+  <programme start="20201030150000 -0600" stop="20201030170000 -0600" channel="ESPN 3">
+    <title lang="es">Real Sociedad vs. Napoli</title>
   </programme>
-  <programme start="20201028185500 -0600" stop="20201028205500 -0600" channel="ESPN 3">
-    <title lang="es">Correcaminos vs. Tapatío En Vivo</title>
+  <programme start="20201030170000 -0600" stop="20201030173000 -0600" channel="ESPN 3">
+    <title lang="es">NBA Tonight</title>
   </programme>
-  <programme start="20201028205500 -0600" stop="20201028230000 -0600" channel="ESPN 3">
-    <title lang="es">Universidad de Guadalajara vs. Atlético Monarcas Morelia En Vivo</title>
+  <programme start="20201030173000 -0600" stop="20201030203000 -0600" channel="ESPN 3">
+    <title lang="es">Minnesota vs. Maryland En Vivo</title>
   </programme>
-  <programme start="20201028230000 -0600" stop="20201029000000 -0600" channel="ESPN 3">
-    <title lang="es">Goles de la UEFA Champions League</title>
+  <programme start="20201030203000 -0600" stop="20201030223000 -0600" channel="ESPN 3">
+    <title lang="es">Voleibol Universitario Femenino</title>
   </programme>
-  <programme start="20201027013700 -0600" stop="20201027033800 -0600" channel="HBO">
-    <title lang="es">Beautiful Boy: Siempre Serás mi Hijo</title>
+  <programme start="20201030223000 -0600" stop="20201030230000 -0600" channel="ESPN 3">
+    <title lang="es">Ciclismo</title>
   </programme>
-  <programme start="20201027033800 -0600" stop="20201027055000 -0600" channel="HBO">
-    <title lang="es">Tan fuerte y tan cerca</title>
+  <programme start="20201030230000 -0600" stop="20201030233000 -0600" channel="ESPN 3">
+    <title lang="es">ESPN Bike</title>
   </programme>
-  <programme start="20201027055000 -0600" stop="20201027073000 -0600" channel="HBO">
-    <title lang="es">Kung Fu Panda 3</title>
+  <programme start="20201030233000 -0600" stop="20201031023000 -0600" channel="ESPN 3">
+    <title lang="es">Jaime Munguia vs. Tureano Johnson</title>
   </programme>
-  <programme start="20201027073000 -0600" stop="20201027090500 -0600" channel="HBO">
-    <title lang="es">Piazzolla, los años del tiburón</title>
+  <programme start="20201031233000 -0600" stop="20201101023000 -0600" channel="ESPN 3">
+    <title lang="es">Jaime Munguia vs. Tureano Johnson</title>
   </programme>
-  <programme start="20201027090500 -0600" stop="20201027110000 -0600" channel="HBO">
-    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
+  <programme start="20201101023000 -0600" stop="20201101043000 -0600" channel="ESPN 3">
+    <title lang="es">The Rugby Championship En Vivo</title>
   </programme>
-  <programme start="20201027110000 -0600" stop="20201027130500 -0600" channel="HBO">
-    <title lang="es">Yesterday</title>
+  <programme start="20201101043000 -0600" stop="20201101050000 -0600" channel="ESPN 3">
+    <title lang="es">ESPN Run</title>
   </programme>
-  <programme start="20201027130500 -0600" stop="20201027140500 -0600" channel="HBO">
-    <title lang="es">The Undoing</title>
+  <programme start="20201101050000 -0600" stop="20201101103000 -0600" channel="ESPN 3">
+    <title lang="es">Vuelta a España 2020 En Vivo</title>
   </programme>
-  <programme start="20201027140500 -0600" stop="20201027150500 -0600" channel="HBO">
-    <title lang="es">Doom Patrol</title>
+  <programme start="20201101103000 -0600" stop="20201101125000 -0600" channel="ESPN 3">
+    <title lang="es">Boston College vs. Clemson En Vivo</title>
   </programme>
-  <programme start="20201027150500 -0600" stop="20201027163500 -0600" channel="HBO">
-    <title lang="es">La noche de la expiación</title>
+  <programme start="20201101125000 -0600" stop="20201101150000 -0600" channel="ESPN 3">
+    <title lang="es">Ajax vs. Fortuna Sittard En Vivo</title>
   </programme>
-  <programme start="20201027163500 -0600" stop="20201027182000 -0600" channel="HBO">
-    <title lang="es">Matar o morir</title>
+  <programme start="20201101150000 -0600" stop="20201101160000 -0600" channel="ESPN 3">
+    <title lang="es">Houston Dynamo vs. FC Dallas En Vivo</title>
   </programme>
-  <programme start="20201027182000 -0600" stop="20201027193500 -0600" channel="HBO">
-    <title lang="es">We Are Who We Are</title>
+  <programme start="20201101160000 -0600" stop="20201101173000 -0600" channel="ESPN 3">
+    <title lang="es">Rugby Torneo de las 6 Naciones</title>
   </programme>
-  <programme start="20201027193500 -0600" stop="20201027200800 -0600" channel="HBO">
-    <title lang="es">Vida perfecta</title>
+  <programme start="20201101173000 -0600" stop="20201101210000 -0600" channel="ESPN 3">
+    <title lang="es">Ohio State vs. Penn State En Vivo</title>
   </programme>
-  <programme start="20201027200800 -0600" stop="20201027220000 -0600" channel="HBO">
-    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
+  <programme start="20201101210000 -0600" stop="20201102010000 -0600" channel="ESPN 3">
+    <title lang="es">Western Kentucky vs. BYU En Vivo</title>
   </programme>
-  <programme start="20201027220000 -0600" stop="20201027233500 -0600" channel="HBO">
+  <programme start="20201030013500 -0600" stop="20201030031000 -0600" channel="HBO">
     <title lang="es">El arma perfecta</title>
   </programme>
-  <programme start="20201027233500 -0600" stop="20201028003500 -0600" channel="HBO">
-    <title lang="es">The Undoing</title>
+  <programme start="20201030031000 -0600" stop="20201030050500 -0600" channel="HBO">
+    <title lang="es">Bloodshot</title>
   </programme>
-  <programme start="20201028233500 -0600" stop="20201029003500 -0600" channel="HBO">
-    <title lang="es">The Undoing</title>
+  <programme start="20201030050500 -0600" stop="20201030070000 -0600" channel="HBO">
+    <title lang="es">Volando A Casa</title>
   </programme>
-  <programme start="20201029003500 -0600" stop="20201029014000 -0600" channel="HBO">
-    <title lang="es">Patria</title>
-  </programme>
-  <programme start="20201029014000 -0600" stop="20201029034500 -0600" channel="HBO">
-    <title lang="es">Yesterday</title>
-  </programme>
-  <programme start="20201029034500 -0600" stop="20201029055000 -0600" channel="HBO">
-    <title lang="es">La Voz de la Igualdad</title>
-  </programme>
-  <programme start="20201029055000 -0600" stop="20201029073500 -0600" channel="HBO">
-    <title lang="es">Mátalos suavemente</title>
-  </programme>
-  <programme start="20201029073500 -0600" stop="20201029093500 -0600" channel="HBO">
-    <title lang="es">Ángeles de Charlie</title>
-  </programme>
-  <programme start="20201029093500 -0600" stop="20201029112500 -0600" channel="HBO">
-    <title lang="es">After: Aquí Empieza Todo</title>
-  </programme>
-  <programme start="20201029112500 -0600" stop="20201029132000 -0600" channel="HBO">
-    <title lang="es">Nosotros Los Nobles</title>
-  </programme>
-  <programme start="20201029132000 -0600" stop="20201029150500 -0600" channel="HBO">
-    <title lang="es">Un Amigo Abominable</title>
-  </programme>
-  <programme start="20201029150500 -0600" stop="20201029170000 -0600" channel="HBO">
-    <title lang="es">Un Buen Día en el Vecindario</title>
-  </programme>
-  <programme start="20201029170000 -0600" stop="20201029180000 -0600" channel="HBO">
-    <title lang="es">The Undoing</title>
-  </programme>
-  <programme start="20201029180000 -0600" stop="20201029195500 -0600" channel="HBO">
-    <title lang="es">El Buen Mentiroso</title>
-  </programme>
-  <programme start="20201029195500 -0600" stop="20201029220000 -0600" channel="HBO">
-    <title lang="es">Ángeles de Charlie</title>
-  </programme>
-  <programme start="20201029220000 -0600" stop="20201029234500 -0600" channel="HBO">
-    <title lang="es">La Viuda</title>
-  </programme>
-  <programme start="20201029234500 -0600" stop="20201030012000 -0600" channel="HBO">
-    <title lang="es">Milla 22: El escape</title>
-  </programme>
-  <programme start="20201027013500 -0600" stop="20201027035000 -0600" channel="HBO 2">
-    <title lang="es">Los mejores enemigos</title>
-  </programme>
-  <programme start="20201027035000 -0600" stop="20201027062000 -0600" channel="HBO 2">
-    <title lang="es">Sex and The City 2</title>
-  </programme>
-  <programme start="20201027062000 -0600" stop="20201027081300 -0600" channel="HBO 2">
-    <title lang="es">Colette: Liberación y Deseo</title>
-  </programme>
-  <programme start="20201027081300 -0600" stop="20201027104000 -0600" channel="HBO 2">
-    <title lang="es">Huérfanos de Brooklyn</title>
-  </programme>
-  <programme start="20201027104000 -0600" stop="20201027114000 -0600" channel="HBO 2">
-    <title lang="es">Doom Patrol</title>
-  </programme>
-  <programme start="20201027114000 -0600" stop="20201027132000 -0600" channel="HBO 2">
-    <title lang="es">Presencias del Mal</title>
-  </programme>
-  <programme start="20201027132000 -0600" stop="20201027145500 -0600" channel="HBO 2">
-    <title lang="es">Se dice de mí</title>
-  </programme>
-  <programme start="20201027145500 -0600" stop="20201027163000 -0600" channel="HBO 2">
-    <title lang="es">Holmes y Watson...elemental</title>
-  </programme>
-  <programme start="20201027163000 -0600" stop="20201027184500 -0600" channel="HBO 2">
-    <title lang="es">Sherlock Holmes</title>
-  </programme>
-  <programme start="20201027184500 -0600" stop="20201027194500 -0600" channel="HBO 2">
-    <title lang="es">Patria</title>
-  </programme>
-  <programme start="20201027194500 -0600" stop="20201027220000 -0600" channel="HBO 2">
-    <title lang="es">Green Book Una amistad sin</title>
-  </programme>
-  <programme start="20201027220000 -0600" stop="20201028003000 -0600" channel="HBO 2">
-    <title lang="es">Huérfanos de Brooklyn</title>
-  </programme>
-  <programme start="20201028003000 -0600" stop="20201028021300 -0600" channel="HBO 2">
-    <title lang="es">Presencias del Mal</title>
-  </programme>
-  <programme start="20201028021300 -0600" stop="20201028035800 -0600" channel="HBO 2">
+  <programme start="20201030070000 -0600" stop="20201030084500 -0600" channel="HBO">
     <title lang="es">Circuito cerrado</title>
   </programme>
-  <programme start="20201028035800 -0600" stop="20201028062500 -0600" channel="HBO 2">
-    <title lang="es">Jerry Maguire Amor y desafío</title>
+  <programme start="20201030084500 -0600" stop="20201030104400 -0600" channel="HBO">
+    <title lang="es">Rocknrolla</title>
   </programme>
-  <programme start="20201028062500 -0600" stop="20201028082000 -0600" channel="HBO 2">
+  <programme start="20201030104400 -0600" stop="20201030120500 -0600" channel="HBO">
+    <title lang="es">Wild Card: El fin del juego para un locutor</title>
+  </programme>
+  <programme start="20201030120500 -0600" stop="20201030140000 -0600" channel="HBO">
     <title lang="es">Bloodshot</title>
   </programme>
-  <programme start="20201028082000 -0600" stop="20201028104500 -0600" channel="HBO 2">
-    <title lang="es">El Infiltrado del KKKlan</title>
+  <programme start="20201030140000 -0600" stop="20201030150000 -0600" channel="HBO">
+    <title lang="es">Doom Patrol</title>
   </programme>
-  <programme start="20201028104500 -0600" stop="20201028123500 -0600" channel="HBO 2">
-    <title lang="es">Matar o morir</title>
+  <programme start="20201030150000 -0600" stop="20201030160000 -0600" channel="HBO">
+    <title lang="es">Doom Patrol</title>
   </programme>
-  <programme start="20201028123500 -0600" stop="20201028143000 -0600" channel="HBO 2">
-    <title lang="es">Aves de presa</title>
+  <programme start="20201030160000 -0600" stop="20201030165800 -0600" channel="HBO">
+    <title lang="es">Doom Patrol</title>
   </programme>
-  <programme start="20201028143000 -0600" stop="20201028153000 -0600" channel="HBO 2">
-    <title lang="es">Patria</title>
+  <programme start="20201030165800 -0600" stop="20201030180000 -0600" channel="HBO">
+    <title lang="es">Doom Patrol</title>
   </programme>
-  <programme start="20201028153000 -0600" stop="20201028170500 -0600" channel="HBO 2">
-    <title lang="es">Vida secreta de tus mascotas 2</title>
+  <programme start="20201030180000 -0600" stop="20201030190000 -0600" channel="HBO">
+    <title lang="es">Doom Patrol</title>
   </programme>
-  <programme start="20201028170500 -0600" stop="20201028191500 -0600" channel="HBO 2">
-    <title lang="es">Jumanji: El siguiente nivel</title>
+  <programme start="20201030190000 -0600" stop="20201030200000 -0600" channel="HBO">
+    <title lang="es">Doom Patrol</title>
   </programme>
-  <programme start="20201028191500 -0600" stop="20201028210000 -0600" channel="HBO 2">
+  <programme start="20201030200000 -0600" stop="20201030205700 -0600" channel="HBO">
+    <title lang="es">Doom Patrol</title>
+  </programme>
+  <programme start="20201030205700 -0600" stop="20201030220000 -0600" channel="HBO">
+    <title lang="es">Doom Patrol</title>
+  </programme>
+  <programme start="20201030220000 -0600" stop="20201030230000 -0600" channel="HBO">
+    <title lang="es">Doom Patrol</title>
+  </programme>
+  <programme start="20201030230000 -0600" stop="20201031005500 -0600" channel="HBO">
+    <title lang="es">Bloodshot</title>
+  </programme>
+  <programme start="20201031230000 -0600" stop="20201101005500 -0600" channel="HBO">
+    <title lang="es">Bloodshot</title>
+  </programme>
+  <programme start="20201101005500 -0600" stop="20201101024000 -0600" channel="HBO">
     <title lang="es">Soy Leyenda</title>
   </programme>
-  <programme start="20201028210000 -0600" stop="20201028220000 -0600" channel="HBO 2">
-    <title lang="es">Patria</title>
-  </programme>
-  <programme start="20201028220000 -0600" stop="20201028235500 -0600" channel="HBO 2">
-    <title lang="es">Bloodshot</title>
-  </programme>
-  <programme start="20201028235500 -0600" stop="20201029015000 -0600" channel="HBO 2">
-    <title lang="es">Aves de presa</title>
-  </programme>
-  <programme start="20201027004500 -0600" stop="20201027024500 -0600" channel="HBO Plus">
-    <title lang="es">Juegos Diabólicos</title>
-  </programme>
-  <programme start="20201027024500 -0600" stop="20201027042500 -0600" channel="HBO Plus">
-    <title lang="es">Freddy contra Jason</title>
-  </programme>
-  <programme start="20201027042500 -0600" stop="20201027060000 -0600" channel="HBO Plus">
-    <title lang="es">8 minutos antes de morir</title>
-  </programme>
-  <programme start="20201027060000 -0600" stop="20201027074000 -0600" channel="HBO Plus">
-    <title lang="es">En La Luna</title>
-  </programme>
-  <programme start="20201027074000 -0600" stop="20201027091000 -0600" channel="HBO Plus">
-    <title lang="es">Cadáver (2018)</title>
-  </programme>
-  <programme start="20201027091000 -0600" stop="20201027110000 -0600" channel="HBO Plus">
-    <title lang="es">Los muertos no mueren</title>
-  </programme>
-  <programme start="20201027110000 -0600" stop="20201027123500 -0600" channel="HBO Plus">
-    <title lang="es">Ecos en la Oscuridad</title>
-  </programme>
-  <programme start="20201027123500 -0600" stop="20201027140500 -0600" channel="HBO Plus">
-    <title lang="es">Sweetheart</title>
-  </programme>
-  <programme start="20201027140500 -0600" stop="20201027152000 -0600" channel="HBO Plus">
-    <title lang="es">The Wolf Man</title>
-  </programme>
-  <programme start="20201027152000 -0600" stop="20201027172500 -0600" channel="HBO Plus">
-    <title lang="es">El Resplandor</title>
-  </programme>
-  <programme start="20201027172500 -0600" stop="20201027190000 -0600" channel="HBO Plus">
-    <title lang="es">Cadáver (2018)</title>
-  </programme>
-  <programme start="20201027190000 -0600" stop="20201027200500 -0600" channel="HBO Plus">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20201027200500 -0600" stop="20201027211000 -0600" channel="HBO Plus">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20201027211000 -0600" stop="20201027235000 -0600" channel="HBO Plus">
-    <title lang="es">Doctor Sueño</title>
-  </programme>
-  <programme start="20201027235000 -0600" stop="20201028005500 -0600" channel="HBO Plus">
-    <title lang="es">Doom Patrol</title>
-  </programme>
-  <programme start="20201028235000 -0600" stop="20201029005500 -0600" channel="HBO Plus">
-    <title lang="es">Doom Patrol</title>
-  </programme>
-  <programme start="20201029005500 -0600" stop="20201029031500 -0600" channel="HBO Plus">
-    <title lang="es">El Exorcista con Escenas Nunca Vistas</title>
-  </programme>
-  <programme start="20201029031500 -0600" stop="20201029052000 -0600" channel="HBO Plus">
-    <title lang="es">El Exorcista 2 El hereje</title>
-  </programme>
-  <programme start="20201029052000 -0600" stop="20201029070500 -0600" channel="HBO Plus">
-    <title lang="es">Almas perdidas</title>
-  </programme>
-  <programme start="20201029070500 -0600" stop="20201029084000 -0600" channel="HBO Plus">
-    <title lang="es">Identidad</title>
-  </programme>
-  <programme start="20201029084000 -0600" stop="20201029102000 -0600" channel="HBO Plus">
-    <title lang="es">Brightburn: Hijo de la Oscuridad</title>
-  </programme>
-  <programme start="20201029102000 -0600" stop="20201029120000 -0600" channel="HBO Plus">
-    <title lang="es">Cucuy The Boogeyman</title>
-  </programme>
-  <programme start="20201029120000 -0600" stop="20201029135000 -0600" channel="HBO Plus">
-    <title lang="es">Slaughterhouse: Escuela sangrienta</title>
-  </programme>
-  <programme start="20201029135000 -0600" stop="20201029150500 -0600" channel="HBO Plus">
-    <title lang="es">El Hombre invisible</title>
-  </programme>
-  <programme start="20201029150500 -0600" stop="20201029180000 -0600" channel="HBO Plus">
-    <title lang="es">It Capítulo dos</title>
-  </programme>
-  <programme start="20201029180000 -0600" stop="20201029190000 -0600" channel="HBO Plus">
-    <title lang="es">Doom Patrol</title>
-  </programme>
-  <programme start="20201029190000 -0600" stop="20201029200500 -0600" channel="HBO Plus">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20201029200500 -0600" stop="20201029211000 -0600" channel="HBO Plus">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20201029211000 -0600" stop="20201029225000 -0600" channel="HBO Plus">
-    <title lang="es">La Maldición de la Llorona (2019)</title>
-  </programme>
-  <programme start="20201029225000 -0600" stop="20201029235000 -0600" channel="HBO Plus">
+  <programme start="20201101024000 -0600" stop="20201101035500 -0600" channel="HBO">
     <title lang="es">We Are Who We Are</title>
   </programme>
-  <programme start="20201029235000 -0600" stop="20201030015500 -0600" channel="HBO Plus">
-    <title lang="es">Nosotros (2019)</title>
+  <programme start="20201101035500 -0600" stop="20201101045500 -0600" channel="HBO">
+    <title lang="es">Patria</title>
   </programme>
-  <programme start="20201027010000 -0600" stop="20201027030000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Pachuca vs. Universidad</title>
+  <programme start="20201101045500 -0600" stop="20201101065000 -0600" channel="HBO">
+    <title lang="es">El favorito</title>
   </programme>
-  <programme start="20201027030000 -0600" stop="20201027040000 -0600" channel="Fox Sports 1 MX">
+  <programme start="20201101065000 -0600" stop="20201101084500 -0600" channel="HBO">
+    <title lang="es">Nosotros Los Nobles</title>
+  </programme>
+  <programme start="20201101084500 -0600" stop="20201101102500 -0600" channel="HBO">
+    <title lang="es">Milla 22 El escape</title>
+  </programme>
+  <programme start="20201101102500 -0600" stop="20201101105500 -0600" channel="HBO">
+    <title lang="es">Last Week Tonight With John Oliver</title>
+  </programme>
+  <programme start="20201101105500 -0600" stop="20201101123500 -0600" channel="HBO">
+    <title lang="es">La Viuda</title>
+  </programme>
+  <programme start="20201101123500 -0600" stop="20201101142500 -0600" channel="HBO">
+    <title lang="es">Matar o morir</title>
+  </programme>
+  <programme start="20201101142500 -0600" stop="20201101160500 -0600" channel="HBO">
+    <title lang="es">Presencias del Mal</title>
+  </programme>
+  <programme start="20201101160500 -0600" stop="20201101180000 -0600" channel="HBO">
+    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
+  </programme>
+  <programme start="20201101180000 -0600" stop="20201101194500 -0600" channel="HBO">
+    <title lang="es">Un Amigo Abominable</title>
+  </programme>
+  <programme start="20201101194500 -0600" stop="20201101220000 -0600" channel="HBO">
+    <title lang="es">Green Book: Una Amistad sin Fronteras</title>
+  </programme>
+  <programme start="20201101220000 -0600" stop="20201102001500 -0600" channel="HBO">
+    <title lang="es">El caso de Richard Jewell</title>
+  </programme>
+  <programme start="20201030002000 -0600" stop="20201030023500 -0600" channel="HBO 2">
+    <title lang="es">El legado Bourne</title>
+  </programme>
+  <programme start="20201030023500 -0600" stop="20201030033500 -0600" channel="HBO 2">
+    <title lang="es">Patria</title>
+  </programme>
+  <programme start="20201030033500 -0600" stop="20201030052000 -0600" channel="HBO 2">
+    <title lang="es">La Viuda</title>
+  </programme>
+  <programme start="20201030052000 -0600" stop="20201030072800 -0600" channel="HBO 2">
+    <title lang="es">La Voz de la Igualdad</title>
+  </programme>
+  <programme start="20201030072800 -0600" stop="20201030092500 -0600" channel="HBO 2">
+    <title lang="es">Un Buen Día en el Vecindario</title>
+  </programme>
+  <programme start="20201030092500 -0600" stop="20201030112000 -0600" channel="HBO 2">
+    <title lang="es">Aves de presa</title>
+  </programme>
+  <programme start="20201030112000 -0600" stop="20201030130000 -0600" channel="HBO 2">
+    <title lang="es">Se dice de mí</title>
+  </programme>
+  <programme start="20201030130000 -0600" stop="20201030145500 -0600" channel="HBO 2">
+    <title lang="es">El Buen Mentiroso</title>
+  </programme>
+  <programme start="20201030145500 -0600" stop="20201030160000 -0600" channel="HBO 2">
+    <title lang="es">The Undoing</title>
+  </programme>
+  <programme start="20201030160000 -0600" stop="20201030175500 -0600" channel="HBO 2">
+    <title lang="es">Nosotros Los Nobles</title>
+  </programme>
+  <programme start="20201030175500 -0600" stop="20201030193500 -0600" channel="HBO 2">
+    <title lang="es">Presencias del Mal</title>
+  </programme>
+  <programme start="20201030193500 -0600" stop="20201030200800 -0600" channel="HBO 2">
+    <title lang="es">Vida perfecta</title>
+  </programme>
+  <programme start="20201030200800 -0600" stop="20201030220000 -0600" channel="HBO 2">
+    <title lang="es">Aves de presa</title>
+  </programme>
+  <programme start="20201030220000 -0600" stop="20201031000500 -0600" channel="HBO 2">
+    <title lang="es">Ángeles de Charlie</title>
+  </programme>
+  <programme start="20201031000500 -0600" stop="20201031020000 -0600" channel="HBO 2">
+    <title lang="es">Un Buen Día en el Vecindario</title>
+  </programme>
+  <programme start="20201031020000 -0600" stop="20201031033000 -0600" channel="HBO 2">
+    <title lang="es">El Grinch</title>
+  </programme>
+  <programme start="20201031033000 -0600" stop="20201031050500 -0600" channel="HBO 2">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20201031050500 -0600" stop="20201031064000 -0600" channel="HBO 2">
+    <title lang="es">Un hogar ideal</title>
+  </programme>
+  <programme start="20201031064000 -0600" stop="20201031083000 -0600" channel="HBO 2">
+    <title lang="es">Bloodshot</title>
+  </programme>
+  <programme start="20201031083000 -0600" stop="20201031102500 -0600" channel="HBO 2">
+    <title lang="es">El Buen Mentiroso</title>
+  </programme>
+  <programme start="20201031102500 -0600" stop="20201031122500 -0600" channel="HBO 2">
+    <title lang="es">Yesterday</title>
+  </programme>
+  <programme start="20201031122500 -0600" stop="20201031133000 -0600" channel="HBO 2">
+    <title lang="es">The Undoing</title>
+  </programme>
+  <programme start="20201031133000 -0600" stop="20201031150000 -0600" channel="HBO 2">
+    <title lang="es">Vida secreta de tus mascotas 2</title>
+  </programme>
+  <programme start="20201031150000 -0600" stop="20201031164500 -0600" channel="HBO 2">
+    <title lang="es">La guardería del abuelo</title>
+  </programme>
+  <programme start="20201031164500 -0600" stop="20201031191500 -0600" channel="HBO 2">
+    <title lang="es">Huérfanos de Brooklyn</title>
+  </programme>
+  <programme start="20201031191500 -0600" stop="20201031211000 -0600" channel="HBO 2">
+    <title lang="es">Bloodshot</title>
+  </programme>
+  <programme start="20201031211000 -0600" stop="20201031220000 -0600" channel="HBO 2">
+    <title lang="es">Doom Patrol</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201031233500 -0600" channel="HBO 2">
+    <title lang="es">Vida secreta de tus mascotas 2</title>
+  </programme>
+  <programme start="20201031233500 -0600" stop="20201101014000 -0600" channel="HBO 2">
+    <title lang="es">Yesterday</title>
+  </programme>
+  <programme start="20201030010000 -0600" stop="20201030030000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Arsenal vs. Ddundalk FC</title>
+  </programme>
+  <programme start="20201030030000 -0600" stop="20201030040000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201027040000 -0600" stop="20201027050000 -0600" channel="Fox Sports 1 MX">
+  <programme start="20201030040000 -0600" stop="20201030050000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20201027050000 -0600" stop="20201027060000 -0600" channel="Fox Sports 1 MX">
+  <programme start="20201030050000 -0600" stop="20201030060000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201027060000 -0600" stop="20201027070000 -0600" channel="Fox Sports 1 MX">
+  <programme start="20201030060000 -0600" stop="20201030070000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20201027070000 -0600" stop="20201027073000 -0600" channel="Fox Sports 1 MX">
+  <programme start="20201030070000 -0600" stop="20201030073000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">Fox Fit</title>
   </programme>
-  <programme start="20201027073000 -0600" stop="20201027080000 -0600" channel="Fox Sports 1 MX">
+  <programme start="20201030073000 -0600" stop="20201030080000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">Fox Fit</title>
   </programme>
-  <programme start="20201027080000 -0600" stop="20201027090000 -0600" channel="Fox Sports 1 MX">
+  <programme start="20201030080000 -0600" stop="20201030090000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20201027090000 -0600" stop="20201027100000 -0600" channel="Fox Sports 1 MX">
+  <programme start="20201030090000 -0600" stop="20201030100000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">Agenda Fox Sports</title>
   </programme>
-  <programme start="20201027100000 -0600" stop="20201027110000 -0600" channel="Fox Sports 1 MX">
+  <programme start="20201030100000 -0600" stop="20201030110000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201027110000 -0600" stop="20201027113000 -0600" channel="Fox Sports 1 MX">
+  <programme start="20201030110000 -0600" stop="20201030120000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Agenda Fox Sports</title>
+  </programme>
+  <programme start="20201030120000 -0600" stop="20201030140000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Juventus vs. Barcelona</title>
+  </programme>
+  <programme start="20201030140000 -0600" stop="20201030143000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">Rumbo a Estambul</title>
   </programme>
-  <programme start="20201027113000 -0600" stop="20201027134500 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Shakhtar Donetsk vs. FC Int</title>
+  <programme start="20201030143000 -0600" stop="20201030150000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Fox fight club</title>
   </programme>
-  <programme start="20201027134500 -0600" stop="20201027160000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Porto vs. Olympiacos</title>
+  <programme start="20201030150000 -0600" stop="20201030160000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Lo mejor de Fox Sports</title>
   </programme>
-  <programme start="20201027160000 -0600" stop="20201027170000 -0600" channel="Fox Sports 1 MX">
+  <programme start="20201030160000 -0600" stop="20201030170000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">Fox Sports Radio</title>
   </programme>
-  <programme start="20201027170000 -0600" stop="20201027180000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Lo mejor de Fox Sports</title>
+  <programme start="20201030170000 -0600" stop="20201030173000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Nfl gameday</title>
   </programme>
-  <programme start="20201027180000 -0600" stop="20201027210000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Rays vs. Dodgers</title>
+  <programme start="20201030173000 -0600" stop="20201030180000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Rumbo a Estambul</title>
   </programme>
-  <programme start="20201027210000 -0600" stop="20201027213000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">UFC Ultimate Knockouts</title>
-  </programme>
-  <programme start="20201027213000 -0600" stop="20201027220000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">UFC Knockouts</title>
-  </programme>
-  <programme start="20201027220000 -0600" stop="20201027230000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Central Fox</title>
-  </programme>
-  <programme start="20201027230000 -0600" stop="20201028000000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">La última palabra</title>
-  </programme>
-  <programme start="20201028010000 -0600" stop="20201028030000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Porto vs. Olympiacos</title>
-  </programme>
-  <programme start="20201028110000 -0600" stop="20201028120000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Agenda Fox Sports</title>
-  </programme>
-  <programme start="20201028120000 -0600" stop="20201028130000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Lo mejor de la UEFA Europa</title>
-  </programme>
-  <programme start="20201028130000 -0600" stop="20201028134500 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">La previa UEFA Champions Leagu</title>
-  </programme>
-  <programme start="20201028134500 -0600" stop="20201028160000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Juventus vs. Barcelona</title>
-  </programme>
-  <programme start="20201028160000 -0600" stop="20201028170000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Fox Sports Radio</title>
-  </programme>
-  <programme start="20201028170000 -0600" stop="20201028180000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Lo mejor de Fox Sports</title>
-  </programme>
-  <programme start="20201028180000 -0600" stop="20201028210000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Rays vs. Dodgers</title>
-  </programme>
-  <programme start="20201028210000 -0600" stop="20201028213000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">UFC Knockouts</title>
-  </programme>
-  <programme start="20201028213000 -0600" stop="20201028220000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">UFC Knockouts</title>
-  </programme>
-  <programme start="20201028220000 -0600" stop="20201028230000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">Central Fox</title>
-  </programme>
-  <programme start="20201028230000 -0600" stop="20201029000000 -0600" channel="Fox Sports 1 MX">
-    <title lang="es">La última palabra</title>
-  </programme>
-  <programme start="20201027010000 -0600" stop="20201027030000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">UFC Preliminares</title>
-  </programme>
-  <programme start="20201027030000 -0600" stop="20201027040000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Lo mejor de la UEFA Europa</title>
-  </programme>
-  <programme start="20201027040000 -0600" stop="20201027050000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">NET Nunca es tarde</title>
-  </programme>
-  <programme start="20201027050000 -0600" stop="20201027070000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Pachuca vs. Universidad</title>
-  </programme>
-  <programme start="20201027070000 -0600" stop="20201027080000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Lo mejor de Fox Sports</title>
-  </programme>
-  <programme start="20201027080000 -0600" stop="20201027083000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Fox Fit</title>
-  </programme>
-  <programme start="20201027083000 -0600" stop="20201027090000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Fox Fit</title>
-  </programme>
-  <programme start="20201027090000 -0600" stop="20201027110000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Santos vs. Atlético San Luis</title>
-  </programme>
-  <programme start="20201027110000 -0600" stop="20201027120000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">WWE NXT</title>
-  </programme>
-  <programme start="20201027120000 -0600" stop="20201027134500 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">UFC Preliminares</title>
-  </programme>
-  <programme start="20201027134500 -0600" stop="20201027160000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Atlético de Madrid vs. FC Sal</title>
-  </programme>
-  <programme start="20201027160000 -0600" stop="20201027170000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">UFC Main Event</title>
-  </programme>
-  <programme start="20201027170000 -0600" stop="20201027190000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Mineros vs. TM Fútbol</title>
-  </programme>
-  <programme start="20201027190000 -0600" stop="20201027210000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Pumas Tabasco vs. Alebrijes</title>
-  </programme>
-  <programme start="20201027210000 -0600" stop="20201027230000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Cimarrones vs. Tepatitlán</title>
-  </programme>
-  <programme start="20201027230000 -0600" stop="20201028000000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">La última palabra</title>
-  </programme>
-  <programme start="20201028000000 -0600" stop="20201028020000 -0600" channel="Fox Sports 2 MX">
+  <programme start="20201030180000 -0600" stop="20201030200000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">WWE Smackdown</title>
   </programme>
-  <programme start="20201028020000 -0600" stop="20201028030000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Fox impacto NFL</title>
+  <programme start="20201030200000 -0600" stop="20201030203000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Inside UFC</title>
   </programme>
-  <programme start="20201028030000 -0600" stop="20201028040000 -0600" channel="Fox Sports 2 MX">
+  <programme start="20201030203000 -0600" stop="20201030213000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">UFC Main Event</title>
+  </programme>
+  <programme start="20201030213000 -0600" stop="20201030220000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Nfl gameday</title>
+  </programme>
+  <programme start="20201030220000 -0600" stop="20201030230000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20201028040000 -0600" stop="20201028050000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Lo mejor de Fox Sports</title>
+  <programme start="20201030230000 -0600" stop="20201031000000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201028050000 -0600" stop="20201028080000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Rays vs. Dodgers</title>
+  <programme start="20201031010000 -0600" stop="20201031030000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Tijuana vs. Pachuca</title>
   </programme>
-  <programme start="20201028080000 -0600" stop="20201028083000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Fox Fit</title>
+  <programme start="20201031080000 -0600" stop="20201031083000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Bundesliga weekly</title>
   </programme>
-  <programme start="20201028083000 -0600" stop="20201028090000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Fox Fit</title>
+  <programme start="20201031083000 -0600" stop="20201031103000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">FC Koln vs. Bayern Munich</title>
   </programme>
-  <programme start="20201028090000 -0600" stop="20201028110000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Pachuca vs. Universidad</title>
+  <programme start="20201031103000 -0600" stop="20201031123000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">WWE Smackdown</title>
   </programme>
-  <programme start="20201028110000 -0600" stop="20201028120000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">WWE Vintage</title>
+  <programme start="20201031123000 -0600" stop="20201031130000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Nfl gameday</title>
   </programme>
-  <programme start="20201028120000 -0600" stop="20201028130000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">UFC Main Event</title>
+  <programme start="20201031130000 -0600" stop="20201031140000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Lo mejor de la UEFA Europa</title>
   </programme>
-  <programme start="20201028130000 -0600" stop="20201028160000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Previa UEFA Champions League</title>
+  <programme start="20201031140000 -0600" stop="20201031143000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Fox fight club</title>
   </programme>
-  <programme start="20201028160000 -0600" stop="20201028180000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">Juventus vs. Barcelona</title>
+  <programme start="20201031143000 -0600" stop="20201031150000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Inside UFC</title>
   </programme>
-  <programme start="20201028180000 -0600" stop="20201028190000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">UFC Main Event</title>
-  </programme>
-  <programme start="20201028190000 -0600" stop="20201028200000 -0600" channel="Fox Sports 2 MX">
-    <title lang="es">UFC Main Event</title>
-  </programme>
-  <programme start="20201028200000 -0600" stop="20201028220000 -0600" channel="Fox Sports 2 MX">
+  <programme start="20201031150000 -0600" stop="20201031170000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">UFC Preliminares</title>
   </programme>
-  <programme start="20201028220000 -0600" stop="20201029000000 -0600" channel="Fox Sports 2 MX">
+  <programme start="20201031170000 -0600" stop="20201031200000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">UFC fight night</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031220000 -0600" channel="Fox Sports 1 MX">
     <title lang="es">Juventus vs. Barcelona</title>
   </programme>
-  <programme start="20201027002300 -0600" stop="20201027022200 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Atracción Fatal</title>
+  <programme start="20201031220000 -0600" stop="20201031230000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20201027022200 -0600" stop="20201027041200 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Equilibrium</title>
+  <programme start="20201031230000 -0600" stop="20201101000000 -0600" channel="Fox Sports 1 MX">
+    <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201027041200 -0600" stop="20201027053700 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Crossword Mysteries</title>
+  <programme start="20201030010000 -0600" stop="20201030020000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">UFC Main Event</title>
   </programme>
-  <programme start="20201027053700 -0600" stop="20201027065600 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Carrera infernal</title>
+  <programme start="20201030020000 -0600" stop="20201030030000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">La última palabra</title>
   </programme>
-  <programme start="20201027065600 -0600" stop="20201027085400 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Causas y consecuencias</title>
+  <programme start="20201030030000 -0600" stop="20201030040000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Central Fox</title>
   </programme>
-  <programme start="20201027085400 -0600" stop="20201027101800 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Actividad paranormal 4</title>
+  <programme start="20201030040000 -0600" stop="20201030050000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">NET Nunca es tarde</title>
   </programme>
-  <programme start="20201027101800 -0600" stop="20201027120800 -0600" channel="Fox Premium Action MX">
+  <programme start="20201030050000 -0600" stop="20201030070000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Olympique Marseille vs. Manche</title>
+  </programme>
+  <programme start="20201030070000 -0600" stop="20201030080000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201030080000 -0600" stop="20201030083000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201030083000 -0600" stop="20201030090000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Fox Fit</title>
+  </programme>
+  <programme start="20201030090000 -0600" stop="20201030110000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">AC Milan vs. AC Sparta Praha</title>
+  </programme>
+  <programme start="20201030110000 -0600" stop="20201030120000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">WWE Main Event</title>
+  </programme>
+  <programme start="20201030120000 -0600" stop="20201030133000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">UFC Main Event</title>
+  </programme>
+  <programme start="20201030133000 -0600" stop="20201030153000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Schalke 04 vs. Stuttgart</title>
+  </programme>
+  <programme start="20201030153000 -0600" stop="20201030160000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201030160000 -0600" stop="20201030180000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">UFC Preliminares</title>
+  </programme>
+  <programme start="20201030180000 -0600" stop="20201030200000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Juventus vs. Barcelona</title>
+  </programme>
+  <programme start="20201030200000 -0600" stop="20201030203000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Nfl gameday</title>
+  </programme>
+  <programme start="20201030203000 -0600" stop="20201030230000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Tijuana vs. Pachuca</title>
+  </programme>
+  <programme start="20201030230000 -0600" stop="20201031000000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201031000000 -0600" stop="20201031020000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20201031020000 -0600" stop="20201031030000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201031030000 -0600" stop="20201031040000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Central Fox</title>
+  </programme>
+  <programme start="20201031040000 -0600" stop="20201031050000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201031050000 -0600" stop="20201031070000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Tijuana vs. Pachuca</title>
+  </programme>
+  <programme start="20201031070000 -0600" stop="20201031080000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Lo mejor de Fox Sports</title>
+  </programme>
+  <programme start="20201031080000 -0600" stop="20201031100000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Porto vs. Olympiacos</title>
+  </programme>
+  <programme start="20201031100000 -0600" stop="20201031110000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201031110000 -0600" stop="20201031113000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Inside UFC</title>
+  </programme>
+  <programme start="20201031113000 -0600" stop="20201031120000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Latitud fox</title>
+  </programme>
+  <programme start="20201031120000 -0600" stop="20201031130000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Tuzoccer</title>
+  </programme>
+  <programme start="20201031130000 -0600" stop="20201031140000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">WWE Raw Highlight</title>
+  </programme>
+  <programme start="20201031140000 -0600" stop="20201031160000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">UFC Preliminares</title>
+  </programme>
+  <programme start="20201031160000 -0600" stop="20201031170000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">WWE Saturday Night</title>
+  </programme>
+  <programme start="20201031170000 -0600" stop="20201031190000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Tijuana vs. Pachuca</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031193000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Fox fight club</title>
+  </programme>
+  <programme start="20201031193000 -0600" stop="20201031200000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Rumbo a Estambul</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031203000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">El show de la UEFA Europa leag</title>
+  </programme>
+  <programme start="20201031203000 -0600" stop="20201031230000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">Monterrey Vs. Cruz Azul</title>
+  </programme>
+  <programme start="20201031230000 -0600" stop="20201101000000 -0600" channel="Fox Sports 2 MX">
+    <title lang="es">La última palabra</title>
+  </programme>
+  <programme start="20201030003000 -0600" stop="20201030023100 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Cuenta final</title>
+  </programme>
+  <programme start="20201030023100 -0600" stop="20201030043000 -0600" channel="Fox Premium Action MX">
     <title lang="es">Cautiva</title>
   </programme>
-  <programme start="20201027120800 -0600" stop="20201027135900 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Marcado por la muerte</title>
+  <programme start="20201030043000 -0600" stop="20201030052000 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Countdown UFC 254 Nurmagomedo</title>
   </programme>
-  <programme start="20201027135900 -0600" stop="20201027153200 -0600" channel="Fox Premium Action MX">
-    <title lang="es">El robo más grande</title>
+  <programme start="20201030052000 -0600" stop="20201030081700 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Wwe Hell in a Cell 2020</title>
   </programme>
-  <programme start="20201027153200 -0600" stop="20201027172400 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Control Total</title>
+  <programme start="20201030081700 -0600" stop="20201030094300 -0600" channel="Fox Premium Action MX">
+    <title lang="es">La espera</title>
   </programme>
-  <programme start="20201027172400 -0600" stop="20201027190000 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Terror bajo la tierra 6</title>
-  </programme>
-  <programme start="20201027190000 -0600" stop="20201027210000 -0600" channel="Fox Premium Action MX">
-    <title lang="es">El Vuelo</title>
-  </programme>
-  <programme start="20201027210000 -0600" stop="20201027233100 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Contra Lo Imposible</title>
-  </programme>
-  <programme start="20201027233100 -0600" stop="20201028012500 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Control Total</title>
-  </programme>
-  <programme start="20201028012500 -0600" stop="20201028030400 -0600" channel="Fox Premium Action MX">
-    <title lang="es">El robo más grande</title>
-  </programme>
-  <programme start="20201028030400 -0600" stop="20201028043300 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Degrees of Fear</title>
-  </programme>
-  <programme start="20201028043300 -0600" stop="20201028055600 -0600" channel="Fox Premium Action MX">
+  <programme start="20201030094300 -0600" stop="20201030110700 -0600" channel="Fox Premium Action MX">
     <title lang="es">ClownTown</title>
   </programme>
-  <programme start="20201028055600 -0600" stop="20201028072300 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Crossword Mysteries</title>
+  <programme start="20201030110700 -0600" stop="20201030123600 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Maligno</title>
   </programme>
-  <programme start="20201028072300 -0600" stop="20201028085700 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Impacto mortal</title>
+  <programme start="20201030123600 -0600" stop="20201030141800 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Equilibrium</title>
   </programme>
-  <programme start="20201028085700 -0600" stop="20201028102700 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Nanny Surveillance</title>
+  <programme start="20201030141800 -0600" stop="20201030154000 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Stephanie</title>
   </programme>
-  <programme start="20201028102700 -0600" stop="20201028115800 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Mañana, cuando la guerra</title>
+  <programme start="20201030154000 -0600" stop="20201030172900 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Red 2</title>
   </programme>
-  <programme start="20201028115800 -0600" stop="20201028133700 -0600" channel="Fox Premium Action MX">
-    <title lang="es">RoboCop</title>
+  <programme start="20201030172900 -0600" stop="20201030190000 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Desaparecido</title>
   </programme>
-  <programme start="20201028133700 -0600" stop="20201028153500 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Marcado por la muerte</title>
+  <programme start="20201030190000 -0600" stop="20201030205200 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Protegiendo al enemigo</title>
   </programme>
-  <programme start="20201028153500 -0600" stop="20201028170700 -0600" channel="Fox Premium Action MX">
-    <title lang="es">El robo más grande</title>
+  <programme start="20201030205200 -0600" stop="20201030230600 -0600" channel="Fox Premium Action MX">
+    <title lang="es">El Vuelo</title>
   </programme>
-  <programme start="20201028170700 -0600" stop="20201028190000 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Control Total</title>
+  <programme start="20201030230600 -0600" stop="20201031005200 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Dos Armas Letales</title>
   </programme>
-  <programme start="20201028210000 -0600" stop="20201028233800 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Hombre en llamas</title>
+  <programme start="20201031005200 -0600" stop="20201031025500 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Sangre, sudor y gloria</title>
   </programme>
-  <programme start="20201028233800 -0600" stop="20201029012800 -0600" channel="Fox Premium Action MX">
-    <title lang="es">Cautiva</title>
+  <programme start="20201031025500 -0600" stop="20201031043500 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Practica 1 Gran Premio de Emil</title>
   </programme>
-  <programme start="20201027002100 -0600" stop="20201027014600 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Maine</title>
+  <programme start="20201031043500 -0600" stop="20201031062800 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Gran Premio de Portugal</title>
   </programme>
-  <programme start="20201027014600 -0600" stop="20201027033800 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Ashley</title>
+  <programme start="20201031062800 -0600" stop="20201031065500 -0600" channel="Fox Premium Action MX">
+    <title lang="es">GP1 2020</title>
   </programme>
-  <programme start="20201027033800 -0600" stop="20201027053300 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Se busca novio... para mi mujer</title>
+  <programme start="20201031065500 -0600" stop="20201031083000 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Clasificacion Gran Premio de E</title>
   </programme>
-  <programme start="20201027053300 -0600" stop="20201027071400 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Paranoia</title>
+  <programme start="20201031083000 -0600" stop="20201031105900 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Contra Lo Imposible</title>
   </programme>
-  <programme start="20201027071400 -0600" stop="20201027084100 -0600" channel="Fox Premium Cinema">
-    <title lang="es">El cuidado de una amiga</title>
+  <programme start="20201031105900 -0600" stop="20201031122600 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Apuesta Máxima</title>
   </programme>
-  <programme start="20201027084100 -0600" stop="20201027102500 -0600" channel="Fox Premium Cinema">
-    <title lang="es">No Dormirás</title>
+  <programme start="20201031122600 -0600" stop="20201031135900 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Alucinaciones</title>
   </programme>
-  <programme start="20201027102500 -0600" stop="20201027121500 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Déjame entrar</title>
+  <programme start="20201031135900 -0600" stop="20201031152400 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Infierno en la Tormenta</title>
   </programme>
-  <programme start="20201027121500 -0600" stop="20201027134100 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Séptimo</title>
-  </programme>
-  <programme start="20201027134100 -0600" stop="20201027151900 -0600" channel="Fox Premium Cinema">
-    <title lang="es">La Espía Roja</title>
-  </programme>
-  <programme start="20201027151900 -0600" stop="20201027170100 -0600" channel="Fox Premium Cinema">
-    <title lang="es">En la Penumbra</title>
-  </programme>
-  <programme start="20201027170100 -0600" stop="20201027190000 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Max Schmeling</title>
-  </programme>
-  <programme start="20201027190000 -0600" stop="20201027204300 -0600" channel="Fox Premium Cinema">
-    <title lang="es">La Iglesia De La Salvación</title>
-  </programme>
-  <programme start="20201027204300 -0600" stop="20201027231100 -0600" channel="Fox Premium Cinema">
-    <title lang="es">La sospecha</title>
-  </programme>
-  <programme start="20201027231100 -0600" stop="20201028005600 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Todo por mi hijo</title>
-  </programme>
-  <programme start="20201028005600 -0600" stop="20201028030100 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Max Schmeling</title>
-  </programme>
-  <programme start="20201028030100 -0600" stop="20201028040200 -0600" channel="Fox Premium Cinema">
-    <title lang="es">No te olvides de mí</title>
-  </programme>
-  <programme start="20201028040200 -0600" stop="20201028053400 -0600" channel="Fox Premium Cinema">
-    <title lang="es">La voz del interior</title>
-  </programme>
-  <programme start="20201028053400 -0600" stop="20201028070000 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Maine</title>
-  </programme>
-  <programme start="20201028070000 -0600" stop="20201028083100 -0600" channel="Fox Premium Cinema">
-    <title lang="es">No Good Deed</title>
-  </programme>
-  <programme start="20201028083100 -0600" stop="20201028095900 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Malambo, El hombre bueno</title>
-  </programme>
-  <programme start="20201028095900 -0600" stop="20201028113900 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Se busca novio... para mi mujer</title>
-  </programme>
-  <programme start="20201028113900 -0600" stop="20201028132500 -0600" channel="Fox Premium Cinema">
-    <title lang="es">El Regreso del Héroe</title>
-  </programme>
-  <programme start="20201028132500 -0600" stop="20201028154000 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Campos de Londres</title>
-  </programme>
-  <programme start="20201028154000 -0600" stop="20201028170800 -0600" channel="Fox Premium Cinema">
-    <title lang="es">La Historia De John Lennon</title>
-  </programme>
-  <programme start="20201028170800 -0600" stop="20201028190000 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Tren nocturno a Lisboa</title>
-  </programme>
-  <programme start="20201028190000 -0600" stop="20201028202400 -0600" channel="Fox Premium Cinema">
-    <title lang="es">La maldición de las hermanas</title>
-  </programme>
-  <programme start="20201028202400 -0600" stop="20201028221900 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Divaldo Franco</title>
-  </programme>
-  <programme start="20201028221900 -0600" stop="20201028234300 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Nadie Camina</title>
-  </programme>
-  <programme start="20201028234300 -0600" stop="20201029011000 -0600" channel="Fox Premium Cinema">
-    <title lang="es">Crossword Mysteries</title>
-  </programme>
-  <programme start="20201027004600 -0600" stop="20201027025100 -0600" channel="Fox Premium Classics">
-    <title lang="es">Alíen, el Octavo Pasajero</title>
-  </programme>
-  <programme start="20201027025100 -0600" stop="20201027044100 -0600" channel="Fox Premium Classics">
-    <title lang="es">El paraíso de Donovan</title>
-  </programme>
-  <programme start="20201027044100 -0600" stop="20201027071800 -0600" channel="Fox Premium Classics">
-    <title lang="es">El crepusculo de las aguilas</title>
-  </programme>
-  <programme start="20201027071800 -0600" stop="20201027093500 -0600" channel="Fox Premium Classics">
-    <title lang="es">El macho</title>
-  </programme>
-  <programme start="20201027093500 -0600" stop="20201027114600 -0600" channel="Fox Premium Classics">
-    <title lang="es">Barrio Chino</title>
-  </programme>
-  <programme start="20201027114600 -0600" stop="20201027140800 -0600" channel="Fox Premium Classics">
-    <title lang="es">Cromwell Hombre de Hierro</title>
-  </programme>
-  <programme start="20201027140800 -0600" stop="20201027161200 -0600" channel="Fox Premium Classics">
-    <title lang="es">Furia de Alaska</title>
-  </programme>
-  <programme start="20201027161200 -0600" stop="20201027180000 -0600" channel="Fox Premium Classics">
-    <title lang="es">En busca de Bobby Fischer</title>
-  </programme>
-  <programme start="20201027180000 -0600" stop="20201027200400 -0600" channel="Fox Premium Classics">
-    <title lang="es">Duelo de titanes</title>
-  </programme>
-  <programme start="20201027200400 -0600" stop="20201027214100 -0600" channel="Fox Premium Classics">
-    <title lang="es">El oeste loco</title>
-  </programme>
-  <programme start="20201027214100 -0600" stop="20201027233200 -0600" channel="Fox Premium Classics">
-    <title lang="es">A Nightingale Sang in Berkeley</title>
-  </programme>
-  <programme start="20201027233200 -0600" stop="20201028013400 -0600" channel="Fox Premium Classics">
-    <title lang="es">Expreso de medianoche</title>
-  </programme>
-  <programme start="20201028013400 -0600" stop="20201028034000 -0600" channel="Fox Premium Classics">
-    <title lang="es">Maratón de la muerte</title>
-  </programme>
-  <programme start="20201028034000 -0600" stop="20201028050900 -0600" channel="Fox Premium Classics">
-    <title lang="es">El jugador de Natchez</title>
-  </programme>
-  <programme start="20201028050900 -0600" stop="20201028070100 -0600" channel="Fox Premium Classics">
-    <title lang="es">A Nightingale Sang in Berkeley</title>
-  </programme>
-  <programme start="20201028070100 -0600" stop="20201028081500 -0600" channel="Fox Premium Classics">
-    <title lang="es">Cabalgar en solitario</title>
-  </programme>
-  <programme start="20201028081500 -0600" stop="20201028095500 -0600" channel="Fox Premium Classics">
-    <title lang="es">Los Duelistas</title>
-  </programme>
-  <programme start="20201028095500 -0600" stop="20201028124800 -0600" channel="Fox Premium Classics">
-    <title lang="es">Patton</title>
-  </programme>
-  <programme start="20201028124800 -0600" stop="20201028142900 -0600" channel="Fox Premium Classics">
-    <title lang="es">Grito de batalla</title>
-  </programme>
-  <programme start="20201028142900 -0600" stop="20201028161900 -0600" channel="Fox Premium Classics">
-    <title lang="es">El paraíso de Donovan</title>
-  </programme>
-  <programme start="20201028161900 -0600" stop="20201028180000 -0600" channel="Fox Premium Classics">
-    <title lang="es">El Príncipe Valiente</title>
-  </programme>
-  <programme start="20201028180000 -0600" stop="20201028192600 -0600" channel="Fox Premium Classics">
-    <title lang="es">El Cuervo</title>
-  </programme>
-  <programme start="20201028192600 -0600" stop="20201028204500 -0600" channel="Fox Premium Classics">
-    <title lang="es">Invasores de Marte</title>
-  </programme>
-  <programme start="20201028204500 -0600" stop="20201028222100 -0600" channel="Fox Premium Classics">
-    <title lang="es">El salvaje</title>
-  </programme>
-  <programme start="20201028222100 -0600" stop="20201028233300 -0600" channel="Fox Premium Classics">
-    <title lang="es">El Texano Solitario</title>
-  </programme>
-  <programme start="20201028233300 -0600" stop="20201029013400 -0600" channel="Fox Premium Classics">
-    <title lang="es">Desquite fatal</title>
-  </programme>
-  <programme start="20201027011900 -0600" stop="20201027031100 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Beautiful girls</title>
-  </programme>
-  <programme start="20201027031100 -0600" stop="20201027032800 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Programación Especial</title>
-  </programme>
-  <programme start="20201027032800 -0600" stop="20201027050700 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Cuando la vida sucede</title>
-  </programme>
-  <programme start="20201027050700 -0600" stop="20201027064100 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Road Trip Beer Pong</title>
-  </programme>
-  <programme start="20201027064100 -0600" stop="20201027075800 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Otra ridícula película de</title>
-  </programme>
-  <programme start="20201027075800 -0600" stop="20201027092600 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Nacho libre</title>
-  </programme>
-  <programme start="20201027092600 -0600" stop="20201027110100 -0600" channel="Fox Premium Comedy">
-    <title lang="es">The Sapphires</title>
-  </programme>
-  <programme start="20201027110100 -0600" stop="20201027122800 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Perdidos en Nueva York</title>
-  </programme>
-  <programme start="20201027122800 -0600" stop="20201027140600 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Happy thank you more please</title>
-  </programme>
-  <programme start="20201027140600 -0600" stop="20201027153400 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Grounded for Christmas</title>
-  </programme>
-  <programme start="20201027153400 -0600" stop="20201027171300 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Hada por accidente</title>
-  </programme>
-  <programme start="20201027171300 -0600" stop="20201027190000 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Rapidos y Fogosos</title>
-  </programme>
-  <programme start="20201027190000 -0600" stop="20201027204600 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Verano en Staten Island</title>
-  </programme>
-  <programme start="20201027204600 -0600" stop="20201027223300 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Luchando con mi Familia</title>
-  </programme>
-  <programme start="20201027223300 -0600" stop="20201027235600 -0600" channel="Fox Premium Comedy">
-    <title lang="es">El regalo prometido</title>
-  </programme>
-  <programme start="20201027235600 -0600" stop="20201028012200 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Mentiras Verdaderas</title>
-  </programme>
-  <programme start="20201028012200 -0600" stop="20201028025900 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Road Trip Beer Pong</title>
-  </programme>
-  <programme start="20201028025900 -0600" stop="20201028040600 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Nacho libre</title>
-  </programme>
-  <programme start="20201028040600 -0600" stop="20201028054600 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Cuando la vida sucede</title>
-  </programme>
-  <programme start="20201028054600 -0600" stop="20201028072300 -0600" channel="Fox Premium Comedy">
-    <title lang="es">The Sapphires</title>
-  </programme>
-  <programme start="20201028072300 -0600" stop="20201028085600 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Homegrown Christmas</title>
-  </programme>
-  <programme start="20201028085600 -0600" stop="20201028104000 -0600" channel="Fox Premium Comedy">
-    <title lang="es">¿Bailamos</title>
-  </programme>
-  <programme start="20201028104000 -0600" stop="20201028121500 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Una segunda oportunidad</title>
-  </programme>
-  <programme start="20201028121500 -0600" stop="20201028140800 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Beautiful girls</title>
-  </programme>
-  <programme start="20201028140800 -0600" stop="20201028154900 -0600" channel="Fox Premium Comedy">
-    <title lang="es">El guardián del zoológico</title>
-  </programme>
-  <programme start="20201028154900 -0600" stop="20201028170600 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Jackass la película</title>
-  </programme>
-  <programme start="20201028170600 -0600" stop="20201028190000 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Más notas perfectas</title>
-  </programme>
-  <programme start="20201028190000 -0600" stop="20201028203200 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Guerra de novias</title>
-  </programme>
-  <programme start="20201028203200 -0600" stop="20201028222100 -0600" channel="Fox Premium Comedy">
-    <title lang="es">27 Bodas</title>
-  </programme>
-  <programme start="20201028222100 -0600" stop="20201028235200 -0600" channel="Fox Premium Comedy">
-    <title lang="es">21, la gran fiesta</title>
-  </programme>
-  <programme start="20201028235200 -0600" stop="20201029013800 -0600" channel="Fox Premium Comedy">
-    <title lang="es">Yo les doy un año</title>
-  </programme>
-  <programme start="20201027011200 -0600" stop="20201027025400 -0600" channel="Fox Premium Family">
-    <title lang="es">Conquistando a mi suegro</title>
-  </programme>
-  <programme start="20201027025400 -0600" stop="20201027042900 -0600" channel="Fox Premium Family">
-    <title lang="es">Mi abuela es un peligro 2</title>
-  </programme>
-  <programme start="20201027042900 -0600" stop="20201027053900 -0600" channel="Fox Premium Family">
-    <title lang="es">El diario de un chico en apuros</title>
-  </programme>
-  <programme start="20201027053900 -0600" stop="20201027071600 -0600" channel="Fox Premium Family">
-    <title lang="es">El diario de un chico en apuros 2 Las reglas de Rodrick</title>
-  </programme>
-  <programme start="20201027071600 -0600" stop="20201027085000 -0600" channel="Fox Premium Family">
-    <title lang="es">El diario de un chico en apuros 3 Días de perros</title>
-  </programme>
-  <programme start="20201027085000 -0600" stop="20201027101200 -0600" channel="Fox Premium Family">
-    <title lang="es">Mystikal</title>
-  </programme>
-  <programme start="20201027101200 -0600" stop="20201027120100 -0600" channel="Fox Premium Family">
-    <title lang="es">Las aventuras de Chris Fable</title>
-  </programme>
-  <programme start="20201027120100 -0600" stop="20201027133100 -0600" channel="Fox Premium Family">
-    <title lang="es">Christmas in Rome</title>
-  </programme>
-  <programme start="20201027133100 -0600" stop="20201027152900 -0600" channel="Fox Premium Family">
-    <title lang="es">La escuela de la vida</title>
-  </programme>
-  <programme start="20201027152900 -0600" stop="20201027165700 -0600" channel="Fox Premium Family">
-    <title lang="es">Zeus el súper perro</title>
-  </programme>
-  <programme start="20201027165700 -0600" stop="20201027182600 -0600" channel="Fox Premium Family">
-    <title lang="es">The dog who saved summer</title>
-  </programme>
-  <programme start="20201027182600 -0600" stop="20201027200000 -0600" channel="Fox Premium Family">
-    <title lang="es">Fluke, memorias de otra vida</title>
-  </programme>
-  <programme start="20201027200000 -0600" stop="20201027215600 -0600" channel="Fox Premium Family">
-    <title lang="es">Marley y yo</title>
-  </programme>
-  <programme start="20201027215600 -0600" stop="20201027233900 -0600" channel="Fox Premium Family">
-    <title lang="es">¿Bailamos</title>
-  </programme>
-  <programme start="20201027233900 -0600" stop="20201028012400 -0600" channel="Fox Premium Family">
-    <title lang="es">Mi Amigo Enzo</title>
-  </programme>
-  <programme start="20201028233900 -0600" stop="20201029012400 -0600" channel="Fox Premium Family">
-    <title lang="es">Mi Amigo Enzo</title>
-  </programme>
-  <programme start="20201029012400 -0600" stop="20201029025500 -0600" channel="Fox Premium Family">
-    <title lang="es">Señales de amor</title>
-  </programme>
-  <programme start="20201029025500 -0600" stop="20201029042300 -0600" channel="Fox Premium Family">
-    <title lang="es">El perro que salvo Halloween</title>
-  </programme>
-  <programme start="20201029042300 -0600" stop="20201029052000 -0600" channel="Fox Premium Family">
-    <title lang="es">Wedding March 5 My Boyfriend's Back</title>
-  </programme>
-  <programme start="20201029052000 -0600" stop="20201029064600 -0600" channel="Fox Premium Family">
-    <title lang="es">Legalmente rubias</title>
-  </programme>
-  <programme start="20201029064600 -0600" stop="20201029080700 -0600" channel="Fox Premium Family">
-    <title lang="es">Todos los Perros Van al Cielo 2</title>
-  </programme>
-  <programme start="20201029080700 -0600" stop="20201029093300 -0600" channel="Fox Premium Family">
-    <title lang="es">Los tuyos, los míos y los nuestros</title>
-  </programme>
-  <programme start="20201029093300 -0600" stop="20201029110300 -0600" channel="Fox Premium Family">
-    <title lang="es">A Brush with Love</title>
-  </programme>
-  <programme start="20201029110300 -0600" stop="20201029123700 -0600" channel="Fox Premium Family">
-    <title lang="es">Love, Romance &amp; Chocolate</title>
-  </programme>
-  <programme start="20201029123700 -0600" stop="20201029140100 -0600" channel="Fox Premium Family">
-    <title lang="es">Horton y el mundo de los Quién</title>
-  </programme>
-  <programme start="20201029140100 -0600" stop="20201029153000 -0600" channel="Fox Premium Family">
-    <title lang="es">Wedding March 5 My Boyfriend's Back</title>
-  </programme>
-  <programme start="20201029153000 -0600" stop="20201029170100 -0600" channel="Fox Premium Family">
-    <title lang="es">Imagínatelo</title>
-  </programme>
-  <programme start="20201029170100 -0600" stop="20201029183700 -0600" channel="Fox Premium Family">
-    <title lang="es">Las Hermanas Vampiresas</title>
-  </programme>
-  <programme start="20201029183700 -0600" stop="20201029200000 -0600" channel="Fox Premium Family">
-    <title lang="es">De vuelta a la tierra</title>
-  </programme>
-  <programme start="20201029200000 -0600" stop="20201029213800 -0600" channel="Fox Premium Family">
-    <title lang="es">Un desmadre de viaje</title>
-  </programme>
-  <programme start="20201029213800 -0600" stop="20201029232200 -0600" channel="Fox Premium Family">
-    <title lang="es">Conquistando a mi suegro</title>
-  </programme>
-  <programme start="20201029232200 -0600" stop="20201030005400 -0600" channel="Fox Premium Family">
-    <title lang="es">Rubia y explosiva</title>
-  </programme>
-  <programme start="20201027002200 -0600" stop="20201027015800 -0600" channel="Fox Premium Movies">
-    <title lang="es">El Especialista Resurrección</title>
-  </programme>
-  <programme start="20201027015800 -0600" stop="20201027035600 -0600" channel="Fox Premium Movies">
+  <programme start="20201031152400 -0600" stop="20201031171000 -0600" channel="Fox Premium Action MX">
     <title lang="es">Siniestro</title>
   </programme>
-  <programme start="20201027035600 -0600" stop="20201027062800 -0600" channel="Fox Premium Movies">
-    <title lang="es">La noche más oscura</title>
+  <programme start="20201031171000 -0600" stop="20201031184300 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Boda Sangrienta</title>
   </programme>
-  <programme start="20201027062800 -0600" stop="20201027082200 -0600" channel="Fox Premium Movies">
-    <title lang="es">Un Amor Inquebrantable</title>
-  </programme>
-  <programme start="20201027082200 -0600" stop="20201027102900 -0600" channel="Fox Premium Movies">
-    <title lang="es">El amor menos pensado</title>
-  </programme>
-  <programme start="20201027102900 -0600" stop="20201027121400 -0600" channel="Fox Premium Movies">
-    <title lang="es">Dos Armas Letales</title>
-  </programme>
-  <programme start="20201027121400 -0600" stop="20201027135100 -0600" channel="Fox Premium Movies">
-    <title lang="es">No me las Toquen</title>
-  </programme>
-  <programme start="20201027135100 -0600" stop="20201027154400 -0600" channel="Fox Premium Movies">
-    <title lang="es">Juegos del Hambre: Sinsajo 1</title>
-  </programme>
-  <programme start="20201027154400 -0600" stop="20201027171800 -0600" channel="Fox Premium Movies">
-    <title lang="es">Enemigos de sangre</title>
-  </programme>
-  <programme start="20201027171800 -0600" stop="20201027190000 -0600" channel="Fox Premium Movies">
-    <title lang="es">Araña</title>
-  </programme>
-  <programme start="20201027190000 -0600" stop="20201027202500 -0600" channel="Fox Premium Movies">
+  <programme start="20201031184300 -0600" stop="20201031200700 -0600" channel="Fox Premium Action MX">
     <title lang="es">Ouija</title>
   </programme>
-  <programme start="20201027202500 -0600" stop="20201027215800 -0600" channel="Fox Premium Movies">
-    <title lang="es">Amenaza en lo Profundo</title>
+  <programme start="20201031200700 -0600" stop="20201031220500 -0600" channel="Fox Premium Action MX">
+    <title lang="es">12 Horas para Sobrevivir</title>
   </programme>
-  <programme start="20201027215800 -0600" stop="20201028001000 -0600" channel="Fox Premium Movies">
-    <title lang="es">El Primer Hombre en la Luna</title>
+  <programme start="20201031220500 -0600" stop="20201031233100 -0600" channel="Fox Premium Action MX">
+    <title lang="es">Ouija</title>
   </programme>
-  <programme start="20201028215800 -0600" stop="20201029001000 -0600" channel="Fox Premium Movies">
-    <title lang="es">El Primer Hombre en la Luna</title>
+  <programme start="20201031233100 -0600" stop="20201101010500 -0600" channel="Fox Premium Action MX">
+    <title lang="es">12 Horas para Sobrevivir</title>
   </programme>
-  <programme start="20201029001000 -0600" stop="20201029021000 -0600" channel="Fox Premium Movies">
-    <title lang="es">Lucy in the Sky</title>
+  <programme start="20201030001100 -0600" stop="20201030021200 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Una Mujer Fantástica</title>
   </programme>
-  <programme start="20201029021000 -0600" stop="20201029033700 -0600" channel="Fox Premium Movies">
+  <programme start="20201030021200 -0600" stop="20201030030900 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Séptimo</title>
+  </programme>
+  <programme start="20201030030900 -0600" stop="20201030043600 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Crossword Mysteries</title>
+  </programme>
+  <programme start="20201030043600 -0600" stop="20201030080600 -0600" channel="Fox Premium Cinema">
+    <title lang="es">El Hombre que Mató a Don Q</title>
+  </programme>
+  <programme start="20201030080600 -0600" stop="20201030113200 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Divaldo Franco</title>
+  </programme>
+  <programme start="20201030113200 -0600" stop="20201030130100 -0600" channel="Fox Premium Cinema">
+    <title lang="es">La Historia De John Lennon</title>
+  </programme>
+  <programme start="20201030130100 -0600" stop="20201030155600 -0600" channel="Fox Premium Cinema">
+    <title lang="es">No Good Deed</title>
+  </programme>
+  <programme start="20201030155600 -0600" stop="20201030190000 -0600" channel="Fox Premium Cinema">
+    <title lang="es">El Regreso del Héroe</title>
+  </programme>
+  <programme start="20201030190000 -0600" stop="20201030221900 -0600" channel="Fox Premium Cinema">
+    <title lang="es">El guardaespaldas de Lincoln</title>
+  </programme>
+  <programme start="20201030221900 -0600" stop="20201031001600 -0600" channel="Fox Premium Cinema">
+    <title lang="es">The Day Will Come</title>
+  </programme>
+  <programme start="20201031001600 -0600" stop="20201031031500 -0600" channel="Fox Premium Cinema">
+    <title lang="es">The Other Side of Heaven 2</title>
+  </programme>
+  <programme start="20201031031500 -0600" stop="20201031043500 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Stuck</title>
+  </programme>
+  <programme start="20201031043500 -0600" stop="20201031074300 -0600" channel="Fox Premium Cinema">
+    <title lang="es">No te olvides de mí</title>
+  </programme>
+  <programme start="20201031074300 -0600" stop="20201031103300 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Maine</title>
+  </programme>
+  <programme start="20201031103300 -0600" stop="20201031141000 -0600" channel="Fox Premium Cinema">
+    <title lang="es">Third Man Out</title>
+  </programme>
+  <programme start="20201031141000 -0600" stop="20201031224100 -0600" channel="Fox Premium Cinema">
+    <title lang="es">El guardaespaldas de Lincoln</title>
+  </programme>
+  <programme start="20201031224100 -0600" stop="20201101000600 -0600" channel="Fox Premium Cinema">
+    <title lang="es">La maldición de las hermanas</title>
+  </programme>
+  <programme start="20201030010300 -0600" stop="20201030030000 -0600" channel="Fox Premium Classics">
+    <title lang="es">El regreso de la pantera rosa</title>
+  </programme>
+  <programme start="20201030030000 -0600" stop="20201030052200 -0600" channel="Fox Premium Classics">
+    <title lang="es">Cromwell Hombre de Hierro</title>
+  </programme>
+  <programme start="20201030052200 -0600" stop="20201030065900 -0600" channel="Fox Premium Classics">
+    <title lang="es">El salvaje</title>
+  </programme>
+  <programme start="20201030065900 -0600" stop="20201030083500 -0600" channel="Fox Premium Classics">
+    <title lang="es">Dr. insólito</title>
+  </programme>
+  <programme start="20201030083500 -0600" stop="20201030102600 -0600" channel="Fox Premium Classics">
+    <title lang="es">A Nightingale Sang in Berkeley</title>
+  </programme>
+  <programme start="20201030102600 -0600" stop="20201030123100 -0600" channel="Fox Premium Classics">
+    <title lang="es">Maratón de la muerte</title>
+  </programme>
+  <programme start="20201030123100 -0600" stop="20201030140300 -0600" channel="Fox Premium Classics">
+    <title lang="es">Cujo</title>
+  </programme>
+  <programme start="20201030140300 -0600" stop="20201030154500 -0600" channel="Fox Premium Classics">
+    <title lang="es">Mi pobre angelito</title>
+  </programme>
+  <programme start="20201030154500 -0600" stop="20201030172500 -0600" channel="Fox Premium Classics">
+    <title lang="es">Hechizo del tiempo</title>
+  </programme>
+  <programme start="20201030172500 -0600" stop="20201030190000 -0600" channel="Fox Premium Classics">
+    <title lang="es">El Vengador Anónimo 5</title>
+  </programme>
+  <programme start="20201030190000 -0600" stop="20201030204400 -0600" channel="Fox Premium Classics">
+    <title lang="es">Congo</title>
+  </programme>
+  <programme start="20201030204400 -0600" stop="20201030222100 -0600" channel="Fox Premium Classics">
+    <title lang="es">El implacable</title>
+  </programme>
+  <programme start="20201030222100 -0600" stop="20201031000300 -0600" channel="Fox Premium Classics">
+    <title lang="es">Asesinato a Precio Fijo</title>
+  </programme>
+  <programme start="20201031222100 -0600" stop="20201101000300 -0600" channel="Fox Premium Classics">
+    <title lang="es">Asesinato a Precio Fijo</title>
+  </programme>
+  <programme start="20201101000300 -0600" stop="20201101014600 -0600" channel="Fox Premium Classics">
+    <title lang="es">Los valientes</title>
+  </programme>
+  <programme start="20201101014600 -0600" stop="20201101034600 -0600" channel="Fox Premium Classics">
+    <title lang="es">El regalo prometido</title>
+  </programme>
+  <programme start="20201101034600 -0600" stop="20201101054200 -0600" channel="Fox Premium Classics">
+    <title lang="es">El detective</title>
+  </programme>
+  <programme start="20201101054200 -0600" stop="20201101081200 -0600" channel="Fox Premium Classics">
+    <title lang="es">Cómo casi se perdió el Oeste</title>
+  </programme>
+  <programme start="20201101081200 -0600" stop="20201101100500 -0600" channel="Fox Premium Classics">
+    <title lang="es">Butch Cassidy</title>
+  </programme>
+  <programme start="20201101100500 -0600" stop="20201101115800 -0600" channel="Fox Premium Classics">
+    <title lang="es">El regreso de la pantera rosa</title>
+  </programme>
+  <programme start="20201101115800 -0600" stop="20201101134900 -0600" channel="Fox Premium Classics">
+    <title lang="es">El joven Sherlock Holmes</title>
+  </programme>
+  <programme start="20201101134900 -0600" stop="20201101153600 -0600" channel="Fox Premium Classics">
+    <title lang="es">Fuego en el cielo</title>
+  </programme>
+  <programme start="20201101153600 -0600" stop="20201101172900 -0600" channel="Fox Premium Classics">
+    <title lang="es">La Profecía</title>
+  </programme>
+  <programme start="20201101172900 -0600" stop="20201101190000 -0600" channel="Fox Premium Classics">
+    <title lang="es">Maleficio</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101203800 -0600" channel="Fox Premium Classics">
+    <title lang="es">Carrie</title>
+  </programme>
+  <programme start="20201101203800 -0600" stop="20201101221000 -0600" channel="Fox Premium Classics">
+    <title lang="es">Cujo</title>
+  </programme>
+  <programme start="20201101221000 -0600" stop="20201101234500 -0600" channel="Fox Premium Classics">
+    <title lang="es">La masacre de Texas 2</title>
+  </programme>
+  <programme start="20201101234500 -0600" stop="20201102000000 -0600" channel="Fox Premium Classics">
+    <title lang="es">Estigma</title>
+  </programme>
+  <programme start="20201030000600 -0600" stop="20201030013300 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Los Mercenarios</title>
+  </programme>
+  <programme start="20201030013300 -0600" stop="20201030033700 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Beautiful girls</title>
+  </programme>
+  <programme start="20201030033700 -0600" stop="20201030040300 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20201030040300 -0600" stop="20201030042700 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20201030042700 -0600" stop="20201030054900 -0600" channel="Fox Premium Comedy">
+    <title lang="es">The Jesus Rolls</title>
+  </programme>
+  <programme start="20201030054900 -0600" stop="20201030073200 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Fin de semana en familia</title>
+  </programme>
+  <programme start="20201030073200 -0600" stop="20201030091000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Cuando la vida sucede</title>
+  </programme>
+  <programme start="20201030091000 -0600" stop="20201030105100 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Madea protección de testigos</title>
+  </programme>
+  <programme start="20201030105100 -0600" stop="20201030121800 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Los Mercenarios</title>
+  </programme>
+  <programme start="20201030121800 -0600" stop="20201030135200 -0600" channel="Fox Premium Comedy">
+    <title lang="es">¡El chico de tu vida</title>
+  </programme>
+  <programme start="20201030135200 -0600" stop="20201030160000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20201030160000 -0600" stop="20201030172100 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Una pareja infernal</title>
+  </programme>
+  <programme start="20201030172100 -0600" stop="20201030190000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">El guardián del zoológico</title>
+  </programme>
+  <programme start="20201030190000 -0600" stop="20201030203700 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Año Bisiesto</title>
+  </programme>
+  <programme start="20201030203700 -0600" stop="20201030221300 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Yo les doy un año</title>
+  </programme>
+  <programme start="20201030221300 -0600" stop="20201031000000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Amor sin escalas</title>
+  </programme>
+  <programme start="20201031000000 -0600" stop="20201031012300 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Jefe de estado</title>
+  </programme>
+  <programme start="20201031012300 -0600" stop="20201031024100 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Freeloaders</title>
+  </programme>
+  <programme start="20201031024100 -0600" stop="20201031031500 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Atlanta</title>
+  </programme>
+  <programme start="20201031031500 -0600" stop="20201031043700 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Una aerolínea de Soul</title>
+  </programme>
+  <programme start="20201031043700 -0600" stop="20201031060200 -0600" channel="Fox Premium Comedy">
+    <title lang="es">¡Que tacaño</title>
+  </programme>
+  <programme start="20201031060200 -0600" stop="20201031075300 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Beautiful girls</title>
+  </programme>
+  <programme start="20201031075300 -0600" stop="20201031093100 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Happy thank you more please</title>
+  </programme>
+  <programme start="20201031093100 -0600" stop="20201031110100 -0600" channel="Fox Premium Comedy">
+    <title lang="es">La Pantera Rosa</title>
+  </programme>
+  <programme start="20201031110100 -0600" stop="20201031123300 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Cabras</title>
+  </programme>
+  <programme start="20201031123300 -0600" stop="20201031140400 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Pasión por el triunfo 3</title>
+  </programme>
+  <programme start="20201031140400 -0600" stop="20201031153800 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Un desmadre de viaje</title>
+  </programme>
+  <programme start="20201031153800 -0600" stop="20201031173000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Más notas perfectas</title>
+  </programme>
+  <programme start="20201031173000 -0600" stop="20201031190000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">21, la gran fiesta</title>
+  </programme>
+  <programme start="20201031190000 -0600" stop="20201031204600 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Rapidos y Fogosos</title>
+  </programme>
+  <programme start="20201031204600 -0600" stop="20201031221300 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Guerra de novias</title>
+  </programme>
+  <programme start="20201031221300 -0600" stop="20201101000000 -0600" channel="Fox Premium Comedy">
+    <title lang="es">Cuestión de tiempo</title>
+  </programme>
+  <programme start="20201030003900 -0600" stop="20201030021500 -0600" channel="Fox Premium Family">
+    <title lang="es">Las Hermanas Vampiresas</title>
+  </programme>
+  <programme start="20201030021500 -0600" stop="20201030034300 -0600" channel="Fox Premium Family">
+    <title lang="es">Sobreviviendo a la Navidad</title>
+  </programme>
+  <programme start="20201030034300 -0600" stop="20201030040100 -0600" channel="Fox Premium Family">
+    <title lang="es">Santa In Training</title>
+  </programme>
+  <programme start="20201030040100 -0600" stop="20201030044700 -0600" channel="Fox Premium Family">
+    <title lang="es">A Brush with Love</title>
+  </programme>
+  <programme start="20201030044700 -0600" stop="20201030062000 -0600" channel="Fox Premium Family">
+    <title lang="es">Katy Perry parte de mí</title>
+  </programme>
+  <programme start="20201030062000 -0600" stop="20201030075000 -0600" channel="Fox Premium Family">
+    <title lang="es">Imagínatelo</title>
+  </programme>
+  <programme start="20201030075000 -0600" stop="20201030092000 -0600" channel="Fox Premium Family">
+    <title lang="es">El diario de un chico en apuros</title>
+  </programme>
+  <programme start="20201030092000 -0600" stop="20201030105700 -0600" channel="Fox Premium Family">
+    <title lang="es">El diario de un chico en apuros 2 Las reglas de Rodrick</title>
+  </programme>
+  <programme start="20201030105700 -0600" stop="20201030123100 -0600" channel="Fox Premium Family">
+    <title lang="es">El diario de un chico en apuros 3 Días de perros</title>
+  </programme>
+  <programme start="20201030123100 -0600" stop="20201030135400 -0600" channel="Fox Premium Family">
+    <title lang="es">De vuelta a la tierra</title>
+  </programme>
+  <programme start="20201030135400 -0600" stop="20201030152200 -0600" channel="Fox Premium Family">
+    <title lang="es">Zeus el súper perro</title>
+  </programme>
+  <programme start="20201030152200 -0600" stop="20201030172600 -0600" channel="Fox Premium Family">
+    <title lang="es">El perro que salvo Halloween</title>
+  </programme>
+  <programme start="20201030172600 -0600" stop="20201030190400 -0600" channel="Fox Premium Family">
+    <title lang="es">Hada por accidente</title>
+  </programme>
+  <programme start="20201030011800 -0600" stop="20201030025900 -0600" channel="Fox Premium Movies">
+    <title lang="es">Araña</title>
+  </programme>
+  <programme start="20201030025900 -0600" stop="20201030043200 -0600" channel="Fox Premium Movies">
     <title lang="es">Actividad paranormal 4</title>
   </programme>
-  <programme start="20201029033700 -0600" stop="20201029052100 -0600" channel="Fox Premium Movies">
-    <title lang="es">¿Podrás Perdonarme</title>
+  <programme start="20201030043200 -0600" stop="20201030064100 -0600" channel="Fox Premium Movies">
+    <title lang="es">El odio que das</title>
   </programme>
-  <programme start="20201029052100 -0600" stop="20201029064800 -0600" channel="Fox Premium Movies">
-    <title lang="es">Muy buenas chicas</title>
+  <programme start="20201030064100 -0600" stop="20201030080400 -0600" channel="Fox Premium Movies">
+    <title lang="es">Trolls</title>
   </programme>
-  <programme start="20201029064800 -0600" stop="20201029080700 -0600" channel="Fox Premium Movies">
-    <title lang="es">30 y Viviendo en Casa</title>
+  <programme start="20201030080400 -0600" stop="20201030094600 -0600" channel="Fox Premium Movies">
+    <title lang="es">La casa con un reloj en sus</title>
   </programme>
-  <programme start="20201029080700 -0600" stop="20201029093700 -0600" channel="Fox Premium Movies">
-    <title lang="es">Un Ladrón con Estilo</title>
-  </programme>
-  <programme start="20201029093700 -0600" stop="20201029112200 -0600" channel="Fox Premium Movies">
-    <title lang="es">Dos Armas Letales</title>
-  </programme>
-  <programme start="20201029112200 -0600" stop="20201029131800 -0600" channel="Fox Premium Movies">
-    <title lang="es">Damisela</title>
-  </programme>
-  <programme start="20201029131800 -0600" stop="20201029152000 -0600" channel="Fox Premium Movies">
-    <title lang="es">Lucy in the Sky</title>
-  </programme>
-  <programme start="20201029152000 -0600" stop="20201029171500 -0600" channel="Fox Premium Movies">
-    <title lang="es">Barry Seal: Solo en América</title>
-  </programme>
-  <programme start="20201029171500 -0600" stop="20201029190000 -0600" channel="Fox Premium Movies">
-    <title lang="es">Dos Armas Letales</title>
-  </programme>
-  <programme start="20201029190000 -0600" stop="20201029203500 -0600" channel="Fox Premium Movies">
-    <title lang="es">Amenaza en lo Profundo</title>
-  </programme>
-  <programme start="20201029203500 -0600" stop="20201029231500 -0600" channel="Fox Premium Movies">
-    <title lang="es">El Primer Hombre en la Luna</title>
-  </programme>
-  <programme start="20201029231500 -0600" stop="20201030010900 -0600" channel="Fox Premium Movies">
+  <programme start="20201030094600 -0600" stop="20201030113900 -0600" channel="Fox Premium Movies">
     <title lang="es">Juegos del Hambre: Sinsajo 1</title>
   </programme>
-  <programme start="20201027002900 -0600" stop="20201027010900 -0600" channel="Fox Premium Series">
-    <title lang="es">Uno Contra Todos</title>
+  <programme start="20201030113900 -0600" stop="20201030135500 -0600" channel="Fox Premium Movies">
+    <title lang="es">El Primer Hombre en la Luna</title>
   </programme>
-  <programme start="20201027010900 -0600" stop="20201027014900 -0600" channel="Fox Premium Series">
-    <title lang="es">Uno Contra Todos</title>
+  <programme start="20201030135500 -0600" stop="20201030154100 -0600" channel="Fox Premium Movies">
+    <title lang="es">Siniestro</title>
   </programme>
-  <programme start="20201027014900 -0600" stop="20201027021400 -0600" channel="Fox Premium Series">
+  <programme start="20201030154100 -0600" stop="20201030172700 -0600" channel="Fox Premium Movies">
+    <title lang="es">Búsqueda Implacable 3</title>
+  </programme>
+  <programme start="20201030172700 -0600" stop="20201030190000 -0600" channel="Fox Premium Movies">
+    <title lang="es">Boda Sangrienta</title>
+  </programme>
+  <programme start="20201030190000 -0600" stop="20201030204700 -0600" channel="Fox Premium Movies">
+    <title lang="es">X-Men: Dark Phoenix</title>
+  </programme>
+  <programme start="20201030204700 -0600" stop="20201030222300 -0600" channel="Fox Premium Movies">
+    <title lang="es">Upgrade</title>
+  </programme>
+  <programme start="20201030222300 -0600" stop="20201031000500 -0600" channel="Fox Premium Movies">
+    <title lang="es">Halloween. El inicio</title>
+  </programme>
+  <programme start="20201031222300 -0600" stop="20201101000500 -0600" channel="Fox Premium Movies">
+    <title lang="es">Halloween. El inicio</title>
+  </programme>
+  <programme start="20201101000500 -0600" stop="20201101021100 -0600" channel="Fox Premium Movies">
+    <title lang="es">Viudas</title>
+  </programme>
+  <programme start="20201101021100 -0600" stop="20201101035000 -0600" channel="Fox Premium Movies">
+    <title lang="es">Imparable</title>
+  </programme>
+  <programme start="20201101035000 -0600" stop="20201101053500 -0600" channel="Fox Premium Movies">
+    <title lang="es">Siniestro</title>
+  </programme>
+  <programme start="20201101053500 -0600" stop="20201101072900 -0600" channel="Fox Premium Movies">
+    <title lang="es">El ángel</title>
+  </programme>
+  <programme start="20201101072900 -0600" stop="20201101085700 -0600" channel="Fox Premium Movies">
+    <title lang="es">Búsqueda implacable 2</title>
+  </programme>
+  <programme start="20201101085700 -0600" stop="20201101104300 -0600" channel="Fox Premium Movies">
+    <title lang="es">Búsqueda Implacable 3</title>
+  </programme>
+  <programme start="20201101104300 -0600" stop="20201101123000 -0600" channel="Fox Premium Movies">
+    <title lang="es">Encuentro Explosivo</title>
+  </programme>
+  <programme start="20201101123000 -0600" stop="20201101141700 -0600" channel="Fox Premium Movies">
+    <title lang="es">X-Men: Dark Phoenix</title>
+  </programme>
+  <programme start="20201101141700 -0600" stop="20201101154900 -0600" channel="Fox Premium Movies">
+    <title lang="es">Rambo</title>
+  </programme>
+  <programme start="20201101154900 -0600" stop="20201101172400 -0600" channel="Fox Premium Movies">
+    <title lang="es">Rambo II</title>
+  </programme>
+  <programme start="20201101172400 -0600" stop="20201101190000 -0600" channel="Fox Premium Movies">
+    <title lang="es">Rambo III</title>
+  </programme>
+  <programme start="20201101190000 -0600" stop="20201101203500 -0600" channel="Fox Premium Movies">
+    <title lang="es">Rambo: Last Blood</title>
+  </programme>
+  <programme start="20201101203500 -0600" stop="20201101222500 -0600" channel="Fox Premium Movies">
+    <title lang="es">Proyecto Géminis</title>
+  </programme>
+  <programme start="20201101222500 -0600" stop="20201102000000 -0600" channel="Fox Premium Movies">
+    <title lang="es">Halloween. El inicio</title>
+  </programme>
+  <programme start="20201030004100 -0600" stop="20201030012600 -0600" channel="Fox Premium Series">
+    <title lang="es">Pose</title>
+  </programme>
+  <programme start="20201030012600 -0600" stop="20201030015600 -0600" channel="Fox Premium Series">
     <title lang="es">The girlfriend experience</title>
   </programme>
-  <programme start="20201027021400 -0600" stop="20201027024500 -0600" channel="Fox Premium Series">
+  <programme start="20201030015600 -0600" stop="20201030022000 -0600" channel="Fox Premium Series">
     <title lang="es">The girlfriend experience</title>
   </programme>
-  <programme start="20201027024500 -0600" stop="20201027032300 -0600" channel="Fox Premium Series">
+  <programme start="20201030022000 -0600" stop="20201030031900 -0600" channel="Fox Premium Series">
     <title lang="es">The girlfriend experience</title>
   </programme>
-  <programme start="20201027032300 -0600" stop="20201027041300 -0600" channel="Fox Premium Series">
+  <programme start="20201030031900 -0600" stop="20201030040700 -0600" channel="Fox Premium Series">
     <title lang="es">Aquí en la Tierra</title>
   </programme>
-  <programme start="20201027041300 -0600" stop="20201027045900 -0600" channel="Fox Premium Series">
+  <programme start="20201030040700 -0600" stop="20201030045300 -0600" channel="Fox Premium Series">
     <title lang="es">Aquí en la Tierra</title>
   </programme>
-  <programme start="20201027045900 -0600" stop="20201027055100 -0600" channel="Fox Premium Series">
-    <title lang="es">Aquí en la Tierra</title>
-  </programme>
-  <programme start="20201027055100 -0600" stop="20201027061500 -0600" channel="Fox Premium Series">
+  <programme start="20201030045300 -0600" stop="20201030051600 -0600" channel="Fox Premium Series">
     <title lang="es">Baskets</title>
   </programme>
-  <programme start="20201027061500 -0600" stop="20201027064000 -0600" channel="Fox Premium Series">
+  <programme start="20201030051600 -0600" stop="20201030054000 -0600" channel="Fox Premium Series">
     <title lang="es">Baskets</title>
   </programme>
-  <programme start="20201027064000 -0600" stop="20201027070500 -0600" channel="Fox Premium Series">
+  <programme start="20201030054000 -0600" stop="20201030060900 -0600" channel="Fox Premium Series">
     <title lang="es">Baskets</title>
   </programme>
-  <programme start="20201027070500 -0600" stop="20201027073000 -0600" channel="Fox Premium Series">
-    <title lang="es">Baskets</title>
-  </programme>
-  <programme start="20201027073000 -0600" stop="20201027075500 -0600" channel="Fox Premium Series">
+  <programme start="20201030060900 -0600" stop="20201030063900 -0600" channel="Fox Premium Series">
     <title lang="es">Better Things</title>
   </programme>
-  <programme start="20201027075500 -0600" stop="20201027082000 -0600" channel="Fox Premium Series">
+  <programme start="20201030063900 -0600" stop="20201030070900 -0600" channel="Fox Premium Series">
     <title lang="es">Better Things</title>
   </programme>
-  <programme start="20201027082000 -0600" stop="20201027084900 -0600" channel="Fox Premium Series">
+  <programme start="20201030070900 -0600" stop="20201030073900 -0600" channel="Fox Premium Series">
     <title lang="es">Better Things</title>
   </programme>
-  <programme start="20201027084900 -0600" stop="20201027094600 -0600" channel="Fox Premium Series">
+  <programme start="20201030073900 -0600" stop="20201030083700 -0600" channel="Fox Premium Series">
     <title lang="es">Outlander</title>
   </programme>
-  <programme start="20201027094600 -0600" stop="20201027103800 -0600" channel="Fox Premium Series">
+  <programme start="20201030083700 -0600" stop="20201030094000 -0600" channel="Fox Premium Series">
     <title lang="es">Outlander</title>
   </programme>
-  <programme start="20201027103800 -0600" stop="20201027114100 -0600" channel="Fox Premium Series">
+  <programme start="20201030094000 -0600" stop="20201030104100 -0600" channel="Fox Premium Series">
     <title lang="es">Outlander</title>
   </programme>
-  <programme start="20201027114100 -0600" stop="20201027123500 -0600" channel="Fox Premium Series">
+  <programme start="20201030104100 -0600" stop="20201030113200 -0600" channel="Fox Premium Series">
     <title lang="es">Uno Contra Todos</title>
   </programme>
-  <programme start="20201027123500 -0600" stop="20201027132200 -0600" channel="Fox Premium Series">
+  <programme start="20201030113200 -0600" stop="20201030121700 -0600" channel="Fox Premium Series">
     <title lang="es">Uno Contra Todos</title>
   </programme>
-  <programme start="20201027132200 -0600" stop="20201027142100 -0600" channel="Fox Premium Series">
+  <programme start="20201030121700 -0600" stop="20201030131400 -0600" channel="Fox Premium Series">
     <title lang="es">Da Vinci's Demons</title>
   </programme>
-  <programme start="20201027142100 -0600" stop="20201027151700 -0600" channel="Fox Premium Series">
+  <programme start="20201030131400 -0600" stop="20201030141300 -0600" channel="Fox Premium Series">
     <title lang="es">Da Vinci's Demons</title>
   </programme>
-  <programme start="20201027151700 -0600" stop="20201027161600 -0600" channel="Fox Premium Series">
+  <programme start="20201030141300 -0600" stop="20201030151200 -0600" channel="Fox Premium Series">
     <title lang="es">Power</title>
   </programme>
-  <programme start="20201027161600 -0600" stop="20201027171300 -0600" channel="Fox Premium Series">
+  <programme start="20201030151200 -0600" stop="20201030161200 -0600" channel="Fox Premium Series">
     <title lang="es">Power</title>
   </programme>
-  <programme start="20201027171300 -0600" stop="20201027175700 -0600" channel="Fox Premium Series">
-    <title lang="es">Empire</title>
+  <programme start="20201030161200 -0600" stop="20201030171000 -0600" channel="Fox Premium Series">
+    <title lang="es">Barracuda</title>
   </programme>
-  <programme start="20201027175700 -0600" stop="20201027184200 -0600" channel="Fox Premium Series">
-    <title lang="es">Empire</title>
+  <programme start="20201030171000 -0600" stop="20201030181200 -0600" channel="Fox Premium Series">
+    <title lang="es">Barracuda</title>
   </programme>
-  <programme start="20201027184200 -0600" stop="20201027193000 -0600" channel="Fox Premium Series">
-    <title lang="es">Empire</title>
+  <programme start="20201030181200 -0600" stop="20201030190300 -0600" channel="Fox Premium Series">
+    <title lang="es">Vikings</title>
   </programme>
-  <programme start="20201027193000 -0600" stop="20201027195700 -0600" channel="Fox Premium Series">
+  <programme start="20201030190300 -0600" stop="20201030200000 -0600" channel="Fox Premium Series">
+    <title lang="es">Godfather of Harlem</title>
+  </programme>
+  <programme start="20201030200000 -0600" stop="20201030202400 -0600" channel="Fox Premium Series">
     <title lang="es">Mr Inbetween</title>
   </programme>
-  <programme start="20201027195700 -0600" stop="20201027201700 -0600" channel="Fox Premium Series">
+  <programme start="20201030202400 -0600" stop="20201030205400 -0600" channel="Fox Premium Series">
+    <title lang="es">Mr Inbetween</title>
+  </programme>
+  <programme start="20201030205400 -0600" stop="20201030213900 -0600" channel="Fox Premium Series">
+    <title lang="es">Council of Dads</title>
+  </programme>
+  <programme start="20201030213900 -0600" stop="20201030222900 -0600" channel="Fox Premium Series">
+    <title lang="es">Condor</title>
+  </programme>
+  <programme start="20201030222900 -0600" stop="20201030233500 -0600" channel="Fox Premium Series">
+    <title lang="es">The New Pope</title>
+  </programme>
+  <programme start="20201030233500 -0600" stop="20201031003800 -0600" channel="Fox Premium Series">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20201031233500 -0600" stop="20201101003800 -0600" channel="Fox Premium Series">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20201101003800 -0600" stop="20201101013800 -0600" channel="Fox Premium Series">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20201101013800 -0600" stop="20201101020500 -0600" channel="Fox Premium Series">
+    <title lang="es">The girlfriend experience</title>
+  </programme>
+  <programme start="20201101020500 -0600" stop="20201101023400 -0600" channel="Fox Premium Series">
+    <title lang="es">The girlfriend experience</title>
+  </programme>
+  <programme start="20201101023400 -0600" stop="20201101030300 -0600" channel="Fox Premium Series">
+    <title lang="es">The girlfriend experience</title>
+  </programme>
+  <programme start="20201101030300 -0600" stop="20201101040100 -0600" channel="Fox Premium Series">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20201101040100 -0600" stop="20201101050100 -0600" channel="Fox Premium Series">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20201101050100 -0600" stop="20201101060100 -0600" channel="Fox Premium Series">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20201101060100 -0600" stop="20201101070200 -0600" channel="Fox Premium Series">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20201101070200 -0600" stop="20201101075000 -0600" channel="Fox Premium Series">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20201101075000 -0600" stop="20201101083500 -0600" channel="Fox Premium Series">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20201101083500 -0600" stop="20201101092100 -0600" channel="Fox Premium Series">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20201101092100 -0600" stop="20201101100600 -0600" channel="Fox Premium Series">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20201101100600 -0600" stop="20201101105100 -0600" channel="Fox Premium Series">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20201101105100 -0600" stop="20201101113800 -0600" channel="Fox Premium Series">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20201101113800 -0600" stop="20201101121000 -0600" channel="Fox Premium Series">
     <title lang="es">What we do in the shadows</title>
   </programme>
-  <programme start="20201027201700 -0600" stop="20201027204100 -0600" channel="Fox Premium Series">
+  <programme start="20201101121000 -0600" stop="20201101123500 -0600" channel="Fox Premium Series">
     <title lang="es">What we do in the shadows</title>
   </programme>
-  <programme start="20201027204100 -0600" stop="20201027211300 -0600" channel="Fox Premium Series">
-    <title lang="es">Better Things</title>
+  <programme start="20201101123500 -0600" stop="20201101130200 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
   </programme>
-  <programme start="20201027211300 -0600" stop="20201027220300 -0600" channel="Fox Premium Series">
+  <programme start="20201101130200 -0600" stop="20201101132600 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101132600 -0600" stop="20201101135000 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101135000 -0600" stop="20201101141200 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101141200 -0600" stop="20201101143800 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101143800 -0600" stop="20201101150300 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101150300 -0600" stop="20201101152700 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101152700 -0600" stop="20201101155200 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101155200 -0600" stop="20201101161700 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101161700 -0600" stop="20201101164100 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101164100 -0600" stop="20201101170700 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101170700 -0600" stop="20201101173100 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101173100 -0600" stop="20201101175500 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101175500 -0600" stop="20201101182200 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101182200 -0600" stop="20201101184800 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101184800 -0600" stop="20201101191400 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101191400 -0600" stop="20201101193600 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101193600 -0600" stop="20201101200000 -0600" channel="Fox Premium Series">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20201101200000 -0600" stop="20201101204500 -0600" channel="Fox Premium Series">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20201101204500 -0600" stop="20201101210800 -0600" channel="Fox Premium Series">
+    <title lang="es">Mr Inbetween</title>
+  </programme>
+  <programme start="20201101210800 -0600" stop="20201101213900 -0600" channel="Fox Premium Series">
+    <title lang="es">Mr Inbetween</title>
+  </programme>
+  <programme start="20201101213900 -0600" stop="20201101223000 -0600" channel="Fox Premium Series">
     <title lang="es">Mrs. America</title>
   </programme>
-  <programme start="20201027220300 -0600" stop="20201027230600 -0600" channel="Fox Premium Series">
-    <title lang="es">A Christmas Carol</title>
-  </programme>
-  <programme start="20201027230600 -0600" stop="20201027233300 -0600" channel="Fox Premium Series">
-    <title lang="es">Mr Inbetween</title>
-  </programme>
-  <programme start="20201027233300 -0600" stop="20201028003100 -0600" channel="Fox Premium Series">
+  <programme start="20201101223000 -0600" stop="20201101232800 -0600" channel="Fox Premium Series">
     <title lang="es">Outlander</title>
   </programme>
-  <programme start="20201028233300 -0600" stop="20201029003100 -0600" channel="Fox Premium Series">
+  <programme start="20201101232800 -0600" stop="20201102002800 -0600" channel="Fox Premium Series">
     <title lang="es">Outlander</title>
   </programme>
-  <programme start="20201029003100 -0600" stop="20201029012300 -0600" channel="Fox Premium Series">
-    <title lang="es">Outlander</title>
+  <programme start="20201030005500 -0600" stop="20201030015500 -0600" channel="AMC">
+    <title lang="es">Eli Roth's history of horror</title>
   </programme>
-  <programme start="20201029012300 -0600" stop="20201029015200 -0600" channel="Fox Premium Series">
-    <title lang="es">The girlfriend experience</title>
-  </programme>
-  <programme start="20201029015200 -0600" stop="20201029022300 -0600" channel="Fox Premium Series">
-    <title lang="es">The girlfriend experience</title>
-  </programme>
-  <programme start="20201029022300 -0600" stop="20201029035200 -0600" channel="Fox Premium Series">
-    <title lang="es">The girlfriend experience</title>
-  </programme>
-  <programme start="20201029035200 -0600" stop="20201029043600 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029043600 -0600" stop="20201029051900 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029051900 -0600" stop="20201029060300 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029060300 -0600" stop="20201029064700 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029064700 -0600" stop="20201029073700 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029073700 -0600" stop="20201029082000 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029082000 -0600" stop="20201029090400 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029090400 -0600" stop="20201029094800 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029094800 -0600" stop="20201029103200 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029103200 -0600" stop="20201029111600 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029111600 -0600" stop="20201029115900 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029115900 -0600" stop="20201029124300 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029124300 -0600" stop="20201029132600 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029132600 -0600" stop="20201029140900 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029140900 -0600" stop="20201029145300 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029145300 -0600" stop="20201029153700 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029153700 -0600" stop="20201029162100 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029162100 -0600" stop="20201029170500 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029170500 -0600" stop="20201029174800 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029174800 -0600" stop="20201029183100 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029183100 -0600" stop="20201029191500 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029191500 -0600" stop="20201029200000 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029200000 -0600" stop="20201029210100 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029210100 -0600" stop="20201029214600 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201029214600 -0600" stop="20201029222900 -0600" channel="Fox Premium Series">
-    <title lang="es">Council of Dads</title>
-  </programme>
-  <programme start="20201029222900 -0600" stop="20201029231400 -0600" channel="Fox Premium Series">
-    <title lang="es">Council of Dads</title>
-  </programme>
-  <programme start="20201029231400 -0600" stop="20201030001600 -0600" channel="Fox Premium Series">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20201027013500 -0600" stop="20201027043000 -0600" channel="AMC">
-    <title lang="es">Wake in fright</title>
-  </programme>
-  <programme start="20201027043000 -0600" stop="20201027053000 -0600" channel="AMC">
-    <title lang="es">Fear The Walking Dead</title>
-  </programme>
-  <programme start="20201027053000 -0600" stop="20201027060000 -0600" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20201027060000 -0600" stop="20201027063000 -0600" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20201027063000 -0600" stop="20201027070000 -0600" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20201027070000 -0600" stop="20201027073000 -0600" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20201027073000 -0600" stop="20201027080000 -0600" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20201027080000 -0600" stop="20201027083000 -0600" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20201027083000 -0600" stop="20201027090000 -0600" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20201027090000 -0600" stop="20201027093000 -0600" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20201027093000 -0600" stop="20201027100000 -0600" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20201027100000 -0600" stop="20201027115000 -0600" channel="AMC">
-    <title lang="es">Magic Mike</title>
-  </programme>
-  <programme start="20201027115000 -0600" stop="20201027135000 -0600" channel="AMC">
-    <title lang="es">La maldición</title>
-  </programme>
-  <programme start="20201027135000 -0600" stop="20201027155000 -0600" channel="AMC">
-    <title lang="es">Whiplash: Música y Obsesión</title>
-  </programme>
-  <programme start="20201027155000 -0600" stop="20201027184000 -0600" channel="AMC">
-    <title lang="es">2012</title>
-  </programme>
-  <programme start="20201027184000 -0600" stop="20201027202000 -0600" channel="AMC">
-    <title lang="es">De amor y dinero</title>
-  </programme>
-  <programme start="20201027202000 -0600" stop="20201027220000 -0600" channel="AMC">
-    <title lang="es">Un papá genial</title>
-  </programme>
-  <programme start="20201027220000 -0600" stop="20201028000500 -0600" channel="AMC">
+  <programme start="20201030015500 -0600" stop="20201030040000 -0600" channel="AMC">
     <title lang="es">Ese es mi hijo</title>
   </programme>
-  <programme start="20201028000500 -0600" stop="20201028020000 -0600" channel="AMC">
-    <title lang="es">El Redentor</title>
+  <programme start="20201030040000 -0600" stop="20201030070000 -0600" channel="AMC">
+    <title lang="es">Wake in fright</title>
   </programme>
-  <programme start="20201028020000 -0600" stop="20201028035500 -0600" channel="AMC">
-    <title lang="es">Centurión</title>
-  </programme>
-  <programme start="20201028035500 -0600" stop="20201028045000 -0600" channel="AMC">
-    <title lang="es">Fear The Walking Dead</title>
-  </programme>
-  <programme start="20201028045000 -0600" stop="20201028070000 -0600" channel="AMC">
-    <title lang="es">El lado luminoso de la vida</title>
-  </programme>
-  <programme start="20201028070000 -0600" stop="20201028073000 -0600" channel="AMC">
+  <programme start="20201030070000 -0600" stop="20201030073000 -0600" channel="AMC">
     <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20201028073000 -0600" stop="20201028080000 -0600" channel="AMC">
+  <programme start="20201030073000 -0600" stop="20201030080000 -0600" channel="AMC">
     <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20201028080000 -0600" stop="20201028083000 -0600" channel="AMC">
+  <programme start="20201030080000 -0600" stop="20201030083000 -0600" channel="AMC">
     <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20201028083000 -0600" stop="20201028090000 -0600" channel="AMC">
+  <programme start="20201030083000 -0600" stop="20201030090000 -0600" channel="AMC">
     <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20201028090000 -0600" stop="20201028093000 -0600" channel="AMC">
+  <programme start="20201030090000 -0600" stop="20201030093000 -0600" channel="AMC">
     <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20201028093000 -0600" stop="20201028100000 -0600" channel="AMC">
+  <programme start="20201030093000 -0600" stop="20201030100000 -0600" channel="AMC">
     <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20201028100000 -0600" stop="20201028115500 -0600" channel="AMC">
-    <title lang="es">Quiero Robarme a la Novia</title>
+  <programme start="20201030100000 -0600" stop="20201030102500 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20201028115500 -0600" stop="20201028141500 -0600" channel="AMC">
-    <title lang="es">Desde mi cielo</title>
+  <programme start="20201030102500 -0600" stop="20201030120000 -0600" channel="AMC">
+    <title lang="es">El luchador</title>
   </programme>
-  <programme start="20201028141500 -0600" stop="20201028162000 -0600" channel="AMC">
-    <title lang="es">El Apocalipsis</title>
+  <programme start="20201030120000 -0600" stop="20201030134500 -0600" channel="AMC">
+    <title lang="es">De amor y dinero</title>
   </programme>
-  <programme start="20201028162000 -0600" stop="20201028183000 -0600" channel="AMC">
-    <title lang="es">El exorcismo de Emily Rose</title>
+  <programme start="20201030134500 -0600" stop="20201030153500 -0600" channel="AMC">
+    <title lang="es">La Última Ola</title>
   </programme>
-  <programme start="20201028183000 -0600" stop="20201028202500 -0600" channel="AMC">
-    <title lang="es">Asesinos</title>
+  <programme start="20201030153500 -0600" stop="20201030170500 -0600" channel="AMC">
+    <title lang="es">Inframundo El despertar</title>
   </programme>
-  <programme start="20201028202500 -0600" stop="20201028220000 -0600" channel="AMC">
+  <programme start="20201030170500 -0600" stop="20201030184500 -0600" channel="AMC">
+    <title lang="es">Yo, Frankenstein</title>
+  </programme>
+  <programme start="20201030184500 -0600" stop="20201030202000 -0600" channel="AMC">
     <title lang="es">Ghost Rider Espíritu de</title>
   </programme>
-  <programme start="20201028220000 -0600" stop="20201028235500 -0600" channel="AMC">
-    <title lang="es">Colombiana</title>
+  <programme start="20201030202000 -0600" stop="20201030220000 -0600" channel="AMC">
+    <title lang="es">Chiquito pero peligroso</title>
   </programme>
-  <programme start="20201028235500 -0600" stop="20201029005500 -0600" channel="AMC">
-    <title lang="es">Fear The Walking Dead</title>
+  <programme start="20201030220000 -0600" stop="20201030234000 -0600" channel="AMC">
+    <title lang="es">Hancock</title>
   </programme>
-  <programme start="20201027010000 -0600" stop="20201027013000 -0600" channel="Bein sports T">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20201030234000 -0600" stop="20201031004000 -0600" channel="AMC">
+    <title lang="es">Eli Roth's history of horror</title>
   </programme>
-  <programme start="20201027013000 -0600" stop="20201027020000 -0600" channel="Bein sports T">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20201031234000 -0600" stop="20201101004000 -0600" channel="AMC">
+    <title lang="es">Eli Roth's history of horror</title>
   </programme>
-  <programme start="20201027020000 -0600" stop="20201027023000 -0600" channel="Bein sports T">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20201101004000 -0600" stop="20201101014000 -0600" channel="AMC">
+    <title lang="es">Eli Roth's history of horror</title>
   </programme>
-  <programme start="20201027023000 -0600" stop="20201027030000 -0600" channel="Bein sports T">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20201101014000 -0600" stop="20201101033500 -0600" channel="AMC">
+    <title lang="es">Regresión</title>
   </programme>
-  <programme start="20201027030000 -0600" stop="20201027033000 -0600" channel="Bein sports T">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20201101033500 -0600" stop="20201101060000 -0600" channel="AMC">
+    <title lang="es">La huésped</title>
   </programme>
-  <programme start="20201027033000 -0600" stop="20201027040000 -0600" channel="Bein sports T">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20201101060000 -0600" stop="20201101063000 -0600" channel="AMC">
+    <title lang="es">Action Zone</title>
   </programme>
-  <programme start="20201027040000 -0600" stop="20201027043000 -0600" channel="Bein sports T">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20201101063000 -0600" stop="20201101070000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20201027043000 -0600" stop="20201027050000 -0600" channel="Bein sports T">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20201101070000 -0600" stop="20201101073000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20201027050000 -0600" stop="20201027060000 -0600" channel="Bein sports T">
-    <title lang="es">The Locker Room</title>
+  <programme start="20201101073000 -0600" stop="20201101080000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20201027060000 -0600" stop="20201027063000 -0600" channel="Bein sports T">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20201101080000 -0600" stop="20201101083000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
   </programme>
-  <programme start="20201027063000 -0600" stop="20201027070000 -0600" channel="Bein sports T">
+  <programme start="20201101083000 -0600" stop="20201101090000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20201101090000 -0600" stop="20201101093000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20201101093000 -0600" stop="20201101100000 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20201101100000 -0600" stop="20201101102500 -0600" channel="AMC">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20201101102500 -0600" stop="20201101122000 -0600" channel="AMC">
+    <title lang="es">Whip It</title>
+  </programme>
+  <programme start="20201101122000 -0600" stop="20201101141000 -0600" channel="AMC">
+    <title lang="es">Chiquito pero peligroso</title>
+  </programme>
+  <programme start="20201101141000 -0600" stop="20201101155000 -0600" channel="AMC">
+    <title lang="es">Yo, Frankenstein</title>
+  </programme>
+  <programme start="20201101155000 -0600" stop="20201101184000 -0600" channel="AMC">
+    <title lang="es">El Hobbit 2</title>
+  </programme>
+  <programme start="20201101184000 -0600" stop="20201101201500 -0600" channel="AMC">
+    <title lang="es">Hancock</title>
+  </programme>
+  <programme start="20201101201500 -0600" stop="20201101220000 -0600" channel="AMC">
+    <title lang="es">El desterrado</title>
+  </programme>
+  <programme start="20201101220000 -0600" stop="20201101235000 -0600" channel="AMC">
+    <title lang="es">Sin City 2</title>
+  </programme>
+  <programme start="20201101235000 -0600" stop="20201102005000 -0600" channel="AMC">
+    <title lang="es">Eli Roth's history of horror</title>
+  </programme>
+  <programme start="20201030003000 -0600" stop="20201030010000 -0600" channel="Bein sports T">
     <title lang="es">The Ligue 1 Show</title>
   </programme>
-  <programme start="20201027070000 -0600" stop="20201027080000 -0600" channel="Bein sports T">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20201027080000 -0600" stop="20201027083000 -0600" channel="Bein sports T">
-    <title lang="es">IMSA The Road to Racing 2019</title>
-  </programme>
-  <programme start="20201027083000 -0600" stop="20201027090000 -0600" channel="Bein sports T">
+  <programme start="20201030010000 -0600" stop="20201030013000 -0600" channel="Bein sports T">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201027090000 -0600" stop="20201027110000 -0600" channel="Bein sports T">
-    <title lang="es">Valladolid vs. Alavés</title>
-  </programme>
-  <programme start="20201027110000 -0600" stop="20201027130000 -0600" channel="Bein sports T">
-    <title lang="es">Barcelona vs. Real Madrid</title>
-  </programme>
-  <programme start="20201027130000 -0600" stop="20201027150000 -0600" channel="Bein sports T">
-    <title lang="es">Paris Saint-Germain vs. Dijon</title>
-  </programme>
-  <programme start="20201027150000 -0600" stop="20201027153000 -0600" channel="Bein sports T">
-    <title lang="es">Super Liga 2020-2021: BB Erzurumspor vs. Galatasaray</title>
-  </programme>
-  <programme start="20201027153000 -0600" stop="20201027155500 -0600" channel="Bein sports T">
-    <title lang="es">This is Paris</title>
-  </programme>
-  <programme start="20201027155500 -0600" stop="20201027160500 -0600" channel="Bein sports T">
-    <title lang="es">The Express Preview</title>
-  </programme>
-  <programme start="20201027160500 -0600" stop="20201027181500 -0600" channel="Bein sports T">
-    <title lang="es">Sport Huancayo vs. Liverpool</title>
-  </programme>
-  <programme start="20201027181500 -0600" stop="20201027182000 -0600" channel="Bein sports T">
-    <title lang="es">The Express Preview</title>
-  </programme>
-  <programme start="20201027182000 -0600" stop="20201027203000 -0600" channel="Bein sports T">
-    <title lang="es">Unión La Calera vs. Deportes Tolima</title>
-  </programme>
-  <programme start="20201027203000 -0600" stop="20201027223000 -0600" channel="Bein sports T">
-    <title lang="es">Audax Italiano vs. Bolívar</title>
-  </programme>
-  <programme start="20201027223000 -0600" stop="20201028003000 -0600" channel="Bein sports T">
-    <title lang="es">BB Erzurumspor vs. Galatasaray A.S</title>
-  </programme>
-  <programme start="20201028223000 -0600" stop="20201029003000 -0600" channel="Bein sports T">
-    <title lang="es">BB Erzurumspor vs. Galatasaray A.S</title>
-  </programme>
-  <programme start="20201029003000 -0600" stop="20201029010000 -0600" channel="Bein sports T">
-    <title lang="es">This is Paris</title>
-  </programme>
-  <programme start="20201029010000 -0600" stop="20201029013000 -0600" channel="Bein sports T">
+  <programme start="20201030013000 -0600" stop="20201030020000 -0600" channel="Bein sports T">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201029013000 -0600" stop="20201029020000 -0600" channel="Bein sports T">
+  <programme start="20201030020000 -0600" stop="20201030023000 -0600" channel="Bein sports T">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201029020000 -0600" stop="20201029023000 -0600" channel="Bein sports T">
+  <programme start="20201030023000 -0600" stop="20201030030000 -0600" channel="Bein sports T">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201029023000 -0600" stop="20201029030000 -0600" channel="Bein sports T">
+  <programme start="20201030030000 -0600" stop="20201030033000 -0600" channel="Bein sports T">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201029030000 -0600" stop="20201029033000 -0600" channel="Bein sports T">
+  <programme start="20201030033000 -0600" stop="20201030040000 -0600" channel="Bein sports T">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201029033000 -0600" stop="20201029040000 -0600" channel="Bein sports T">
+  <programme start="20201030040000 -0600" stop="20201030043000 -0600" channel="Bein sports T">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201029040000 -0600" stop="20201029043000 -0600" channel="Bein sports T">
+  <programme start="20201030043000 -0600" stop="20201030050000 -0600" channel="Bein sports T">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201029043000 -0600" stop="20201029050000 -0600" channel="Bein sports T">
+  <programme start="20201030050000 -0600" stop="20201030053000 -0600" channel="Bein sports T">
+    <title lang="es">La liga show</title>
+  </programme>
+  <programme start="20201030053000 -0600" stop="20201030060000 -0600" channel="Bein sports T">
+    <title lang="es">The Ligue 1 Show</title>
+  </programme>
+  <programme start="20201030060000 -0600" stop="20201030063000 -0600" channel="Bein sports T">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201029050000 -0600" stop="20201029060000 -0600" channel="Bein sports T">
-    <title lang="es">La Liga Highlight Zone</title>
+  <programme start="20201030063000 -0600" stop="20201030083000 -0600" channel="Bein sports T">
+    <title lang="es">Melgar vs. Bahía</title>
   </programme>
-  <programme start="20201029060000 -0600" stop="20201029063000 -0600" channel="Bein sports T">
+  <programme start="20201030083000 -0600" stop="20201030090000 -0600" channel="Bein sports T">
     <title lang="es">Programa Pagado</title>
   </programme>
-  <programme start="20201029063000 -0600" stop="20201029083000 -0600" channel="Bein sports T">
-    <title lang="es">Barcelona vs. Real Madrid</title>
+  <programme start="20201030090000 -0600" stop="20201030110000 -0600" channel="Bein sports T">
+    <title lang="es">Coquimbo Unido vs. Estudiantes de Mérida</title>
   </programme>
-  <programme start="20201029083000 -0600" stop="20201029090000 -0600" channel="Bein sports T">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20201030110000 -0600" stop="20201030130000 -0600" channel="Bein sports T">
+    <title lang="es">Plaza Colonia vs. Junior</title>
   </programme>
-  <programme start="20201029090000 -0600" stop="20201029110000 -0600" channel="Bein sports T">
-    <title lang="es">Unión La Calera vs. Deportes Tolima</title>
+  <programme start="20201030130000 -0600" stop="20201030132500 -0600" channel="Bein sports T">
+    <title lang="es">The Ligue 1 Show</title>
   </programme>
-  <programme start="20201029110000 -0600" stop="20201029130000 -0600" channel="Bein sports T">
-    <title lang="es">Atlético de Madrid vs. Betis</title>
+  <programme start="20201030132500 -0600" stop="20201030135000 -0600" channel="Bein sports T">
+    <title lang="es">La liga show</title>
   </programme>
-  <programme start="20201029130000 -0600" stop="20201029150000 -0600" channel="Bein sports T">
-    <title lang="es">Barcelona vs. Real Madrid</title>
+  <programme start="20201030135000 -0600" stop="20201030160000 -0600" channel="Bein sports T">
+    <title lang="es">Eibar vs. Cádiz</title>
   </programme>
-  <programme start="20201029150000 -0600" stop="20201029153000 -0600" channel="Bein sports T">
-    <title lang="es">This is Paris</title>
+  <programme start="20201030160000 -0600" stop="20201030163000 -0600" channel="Bein sports T">
+    <title lang="es">The Soccer Xtra</title>
   </programme>
-  <programme start="20201029153000 -0600" stop="20201029155500 -0600" channel="Bein sports T">
+  <programme start="20201030163000 -0600" stop="20201030170000 -0600" channel="Bein sports T">
     <title lang="es">La liga World</title>
   </programme>
-  <programme start="20201029155500 -0600" stop="20201029160500 -0600" channel="Bein sports T">
-    <title lang="es">The Express Preview</title>
+  <programme start="20201030170000 -0600" stop="20201030173000 -0600" channel="Bein sports T">
+    <title lang="es">La liga show</title>
   </programme>
-  <programme start="20201029160500 -0600" stop="20201029181500 -0600" channel="Bein sports T">
+  <programme start="20201030173000 -0600" stop="20201030180000 -0600" channel="Bein sports T">
+    <title lang="es">This is Paris</title>
+  </programme>
+  <programme start="20201030180000 -0600" stop="20201030190000 -0600" channel="Bein sports T">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201030190000 -0600" stop="20201030200000 -0600" channel="Bein sports T">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201030200000 -0600" stop="20201030220000 -0600" channel="Bein sports T">
+    <title lang="es">Eibar vs. Cádiz</title>
+  </programme>
+  <programme start="20201030220000 -0600" stop="20201030230000 -0600" channel="Bein sports T">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201030230000 -0600" stop="20201031010000 -0600" channel="Bein sports T">
     <title lang="es">Lanús vs. São Paulo</title>
   </programme>
-  <programme start="20201029181500 -0600" stop="20201029182000 -0600" channel="Bein sports T">
+  <programme start="20201031010000 -0600" stop="20201031013000 -0600" channel="Bein sports T">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031013000 -0600" stop="20201031020000 -0600" channel="Bein sports T">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031020000 -0600" stop="20201031023000 -0600" channel="Bein sports T">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031023000 -0600" stop="20201031030000 -0600" channel="Bein sports T">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031030000 -0600" stop="20201031033000 -0600" channel="Bein sports T">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031033000 -0600" stop="20201031040000 -0600" channel="Bein sports T">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031040000 -0600" stop="20201031043000 -0600" channel="Bein sports T">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031043000 -0600" stop="20201031050000 -0600" channel="Bein sports T">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031050000 -0600" stop="20201031053000 -0600" channel="Bein sports T">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031053000 -0600" stop="20201031060000 -0600" channel="Bein sports T">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031060000 -0600" stop="20201031063000 -0600" channel="Bein sports T">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20201031063000 -0600" stop="20201031065000 -0600" channel="Bein sports T">
+    <title lang="es">La liga World</title>
+  </programme>
+  <programme start="20201031065000 -0600" stop="20201031090000 -0600" channel="Bein sports T">
+    <title lang="es">Real Madrid vs. Huesca</title>
+  </programme>
+  <programme start="20201031090000 -0600" stop="20201031090500 -0600" channel="Bein sports T">
     <title lang="es">The Express Preview</title>
   </programme>
-  <programme start="20201029182000 -0600" stop="20201029203000 -0600" channel="Bein sports T">
-    <title lang="es">Vélez vs. Peñarol</title>
+  <programme start="20201031090500 -0600" stop="20201031111500 -0600" channel="Bein sports T">
+    <title lang="es">Athletic Club vs. Sevilla</title>
   </programme>
-  <programme start="20201029203000 -0600" stop="20201029223000 -0600" channel="Bein sports T">
-    <title lang="es">Sportivo Luqueño vs. Defensa y Justicia</title>
+  <programme start="20201031111500 -0600" stop="20201031112000 -0600" channel="Bein sports T">
+    <title lang="es">The Express Preview</title>
   </programme>
-  <programme start="20201029223000 -0600" stop="20201030003000 -0600" channel="Bein sports T">
-    <title lang="es">Sevilla vs. Eibar</title>
+  <programme start="20201031112000 -0600" stop="20201031133000 -0600" channel="Bein sports T">
+    <title lang="es">Osasuna vs. Atlético de Madrid</title>
+  </programme>
+  <programme start="20201031133000 -0600" stop="20201031135000 -0600" channel="Bein sports T">
+    <title lang="es">The Express Preview</title>
+  </programme>
+  <programme start="20201031135000 -0600" stop="20201031160000 -0600" channel="Bein sports T">
+    <title lang="es">Alavés vs. Barcelona</title>
+  </programme>
+  <programme start="20201031160000 -0600" stop="20201031170000 -0600" channel="Bein sports T">
+    <title lang="es">The Soccer Xtra</title>
+  </programme>
+  <programme start="20201031170000 -0600" stop="20201031173000 -0600" channel="Bein sports T">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201031173000 -0600" stop="20201031193000 -0600" channel="Bein sports T">
+    <title lang="es">Nantes vs. Paris Saint-Germain</title>
+  </programme>
+  <programme start="20201031193000 -0600" stop="20201031200000 -0600" channel="Bein sports T">
+    <title lang="es">The Locker Room</title>
+  </programme>
+  <programme start="20201031200000 -0600" stop="20201031220000 -0600" channel="Bein sports T">
+    <title lang="es">Athletic Club vs. Sevilla</title>
+  </programme>
+  <programme start="20201031220000 -0600" stop="20201101000000 -0600" channel="Bein sports T">
+    <title lang="es">Osasuna vs. Atlético de Madrid</title>
   </programme>
 </tv>
