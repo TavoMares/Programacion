@@ -1,3 +1,1 @@
-{"page":1,"total_results":10000,"total_pages":500,"results":[{"canal_path":"https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s24519_dark_360w_270h.png","canal":"XHDF AztecaUno","reproducir":"http://regioflix.club/Sr_Regio20/tp.php?c=1732&p=3&k=srregio&f=.m3u8"},
-
-{"canal_path":"https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s16461_dark_360w_270h.png","canal":"Las Estrellas","reproducir":"http://regioflix.club/Sr_Regio20/tp.php?c=77&p=3&k=srregio&f=.m3u8"}]}
+{"page":1,"total_results":10000,"total_pages":500,"results":[{"canal_path":"https://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s24519_dark_360w_270h.png","canal":"XHDF AztecaUno","reproducir":"http://regioflix.club/Sr_Regio20/tp.php?c=1732&p=3&k=srregio&f=.m3u8"}]}
